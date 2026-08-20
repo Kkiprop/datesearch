@@ -1,0 +1,128 @@
+{
+  "Mon 02/02/2026": {
+    "Employee Name": {
+      "Regular": "3:08",
+      "Overtime": NaN
+    }
+  },
+  "Wed 02/04/2026": {
+    "Employee Name": {
+      "Regular": "3:30",
+      "Overtime": NaN
+    }
+  },
+  "Thu 02/05/2026": {
+    "Employee Name": {
+      "Regular": "3:50",
+      "Overtime": NaN
+    }
+  },
+  "Fri 02/06/2026": {
+    "Employee Name": {
+      "Regular": "3:50",
+      "Overtime": NaN
+    }
+  },
+  "Sat 02/07/2026": {
+    "Employee Name": {
+      "Regular": "2:47",
+      "Overtime": NaN
+    }
+  },
+  "Sun 02/08/2026": {
+    "Employee Name": {
+      "Regular": "0:54",
+      "Overtime": "3:15"
+    }
+  },
+  "Mon 02/09/2026": {
+    "Employee Name": {
+      "Regular": "3:33",
+      "Overtime": NaN
+    }
+  },
+  "Wed 02/11/2026": {
+    "Employee Name": {
+      "Regular": "4:35",
+      "Overtime": "0:13"
+    }
+  },
+  "Thu 02/12/2026": {
+    "Employee Name": {
+      "Regular": "2:40",
+      "Overtime": NaN
+    }
+  },
+  "Fri 02/13/2026": {
+    "Employee Name": {
+      "Regular": "1:56",
+      "Overtime": NaN
+    }
+  },
+  "Sat 02/14/2026": {
+    "Employee Name": {
+      "Regular": "3:58",
+      "Overtime": NaN
+    }
+  },
+  "Sun 02/15/2026": {
+    "Employee Name": {
+      "Regular": NaN,
+      "Overtime": "2:06"
+    }
+  },
+  "Mon 02/16/2026": {
+    "Employee Name": {
+      "Regular": "3:13",
+      "Overtime": NaN
+    }
+  },
+  "Wed 02/18/2026": {
+    "Employee Name": {
+      "Regular": "2:00",
+      "Overtime": NaN
+    }
+  },
+  "Thu 02/19/2026": {
+    "Employee Name": {
+      "Regular": "2:36",
+      "Overtime": NaN
+    }
+  },
+  "Fri 02/20/2026": {
+    "Employee Name": {
+      "Regular": "2:01",
+      "Overtime": NaN
+    }
+  },
+  "Sat 02/21/2026": {
+    "Employee Name": {
+      "Regular": "2:35",
+      "Overtime": "0:43"
+    }
+  },
+  "Sun 02/22/2026": {
+    "Employee Name": {
+      "Regular": "2:20",
+      "Overtime": "1:37"
+    }
+  },
+  "Tue 02/03/2026": {
+    "Employee Name": {
+      "Regular": "2:30",
+      "Overtime": NaN
+    }
+  },
+  "Tue 02/10/2026": {
+    "Employee Name": {
+      "Regular": "3:42",
+      "Overtime": NaN
+    }
+  },
+  "Tue 02/17/2026": {
+    "Employee Name": {
+      "Regular": "2:51",
+      "Overtime": NaN
+    }
+  }
+}

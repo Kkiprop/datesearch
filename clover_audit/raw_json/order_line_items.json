@@ -1,0 +1,27 @@
+{
+  "elements": [
+    {
+      "id": "G2AQDD6GM2RC6",
+      "orderRef": {
+        "id": "08AD4VV2AB1ZW"
+      },
+      "item": {
+        "id": "TZJP4FJPS1X1A"
+      },
+      "name": "1 Dal/Sabzi Large",
+      "alternateName": "",
+      "price": 0,
+      "itemCode": "",
+      "printed": false,
+      "createdTime": 1785134804000,
+      "orderClientCreatedTime": 1785134801000,
+      "exchanged": false,
+      "refunded": false,
+      "isRevenue": true,
+      "isOrderFee": false,
+      "isAgeRestricted": false,
+      "excludeCashDiscount": false
+    }
+  ],
+  "href": "http://api.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/08AD4VV2AB1ZW/line_items?limit=100"
+}

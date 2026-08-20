@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-03-01",
+    "payroll_data": {
+      "Panwaari": 398.61,
+      "Milpitas": 1786.22,
+      "Apni mandi fulfillment centre": 2208.11,
+      "Fremont": 1322.38,
+      "Sunnyvale": 2743.53,
+      "Karthik": 2046.69
+    }
+  },
+  {
+    "date": "2026-03-02",
+    "payroll_data": {
+      "Panwaari": 110.1,
+      "Milpitas": 4386.08,
+      "Apni mandi fulfillment centre": 1717.12,
+      "Fremont": 4113.13,
+      "Sunnyvale": 2269.91,
+      "Karthik": 2018.94
+    }
+  },
+  {
+    "date": "2026-03-03",
+    "payroll_data": {
+      "Panwaari": 179.96,
+      "Milpitas": 3740.5,
+      "Apni mandi fulfillment centre": 1855.44,
+      "Fremont": 4943.9,
+      "Sunnyvale": 2140.27,
+      "Karthik": 1966.1
+    }
+  },
+  {
+    "date": "2026-03-04",
+    "payroll_data": {
+      "Panwaari": 251.16,
+      "Milpitas": 3676.73,
+      "Apni mandi fulfillment centre": 1787.28,
+      "Fremont": 4378.61,
+      "Sunnyvale": 2466.24,
+      "Karthik": 1590.63
+    }
+  },
+  {
+    "date": "2026-03-05",
+    "payroll_data": {
+      "Panwaari": 258.49,
+      "Milpitas": 4080.19,
+      "Apni mandi fulfillment centre": 1948.16,
+      "Fremont": 4724.87,
+      "Sunnyvale": 2176.65,
+      "Karthik": 1739.14
+    }
+  },
+  {
+    "date": "2026-03-06",
+    "payroll_data": {
+      "Panwaari": null,
+      "Milpitas": 1786.22,
+      "Apni mandi fulfillment centre": 949.45,
+      "Fremont": 1322.38,
+      "Sunnyvale": 622.13,
+      "Karthik": 934.88
+    }
+  }
+]

@@ -1,0 +1,741 @@
+{
+  "2026-07-21": {
+    "database_count": 3,
+    "databases": [
+      {
+        "name": "apnimandi",
+        "table_count": 41,
+        "tables": [
+          {
+            "column_count": 5,
+            "column_names": [
+              "id",
+              "date",
+              "data",
+              "updated_at",
+              "created_at"
+            ],
+            "row_count": 6,
+            "schema": "public",
+            "table": "calculated_fields"
+          },
+          {
+            "column_count": 10,
+            "column_names": [
+              "order_id",
+              "quantity",
+              "price",
+              "date",
+              "time_of_day",
+              "order_time",
+              "updated_by",
+              "store_name",
+              "station",
+              "updated_at"
+            ],
+            "row_count": 186182,
+            "schema": "public",
+            "table": "cashierdata"
+          },
+          {
+            "column_count": 4,
+            "column_names": [
+              "date",
+              "store_counts",
+              "total_barcode_count",
+              "updated_at"
+            ],
+            "row_count": 561,
+            "schema": "public",
+            "table": "cost_price"
+          },
+          {
+            "column_count": 7,
+            "column_names": [
+              "date",
+              "fremont",
+              "sunnyvale",
+              "milpitas",
+              "karthik",
+              "total_barcode_count",
+              "updated_at"
+            ],
+            "row_count": 42,
+            "schema": "public",
+            "table": "costprice"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "date",
+              "customer_count",
+              "updated_at"
+            ],
+            "row_count": 927,
+            "schema": "public",
+            "table": "customer_count"
+          },
+          {
+            "column_count": 22,
+            "column_names": [
+              "id",
+              "sku",
+              "date",
+              "establishment",
+              "cost",
+              "final_price",
+              "gross_margin",
+              "gross_margin_pct",
+              "n_items",
+              "product_category",
+              "product_name",
+              "product_subcategory",
+              "product_weight",
+              "qty_sold_items",
+              "qty_sold_weight",
+              "total",
+              "total_sales",
+              "transaction_date",
+              "updated_at",
+              "vendor",
+              "month",
+              "raw_payload"
+            ],
+            "row_count": 9000,
+            "schema": "public",
+            "table": "daily_produce_data"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "id",
+              "data",
+              "updated_at"
+            ],
+            "row_count": 1,
+            "schema": "public",
+            "table": "diwali_payment_methods"
+          },
+          {
+            "column_count": 9,
+            "column_names": [
+              "id",
+              "ssn",
+              "employee_name",
+              "regular_rate",
+              "overtime_rate",
+              "raw_payload",
+              "created_at",
+              "updated_at",
+              "store_name"
+            ],
+            "row_count": 366,
+            "schema": "public",
+            "table": "employee_rates"
+          },
+          {
+            "column_count": 7,
+            "column_names": [
+              "id",
+              "employee_name",
+              "store_name",
+              "regular_hours",
+              "overtime_hours",
+              "pay",
+              "raw_payload"
+            ],
+            "row_count": 35,
+            "schema": "public",
+            "table": "employee_zero_rates"
+          },
+          {
+            "column_count": 11,
+            "column_names": [
+              "date",
+              "establishment",
+              "establishment_code",
+              "total_revenue",
+              "total_cost",
+              "gross_margin_percent",
+              "total_items_revel",
+              "missing_qb_skus_count",
+              "missing_qb_skus_sample",
+              "excluded_revenue_due_to_missing_cost",
+              "updated_at"
+            ],
+            "row_count": 244,
+            "schema": "public",
+            "table": "gmsummary"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "date",
+              "stores",
+              "updated_at"
+            ],
+            "row_count": 607,
+            "schema": "public",
+            "table": "gross_margin"
+          },
+          {
+            "column_count": 15,
+            "column_names": [
+              "id",
+              "date",
+              "hour",
+              "establishment",
+              "daily_sales_total",
+              "discounts",
+              "n_guests",
+              "n_items",
+              "n_orders",
+              "sales",
+              "sales_pct_of_day",
+              "service_fees",
+              "tax",
+              "updated_at",
+              "raw_payload"
+            ],
+            "row_count": 53856,
+            "schema": "public",
+            "table": "hourly_sales"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "key",
+              "value",
+              "updated_at"
+            ],
+            "row_count": 4,
+            "schema": "public",
+            "table": "metadata"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "date",
+              "stores",
+              "updated_at"
+            ],
+            "row_count": 544,
+            "schema": "public",
+            "table": "payment_data"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "id",
+              "data",
+              "updated_at"
+            ],
+            "row_count": 1,
+            "schema": "public",
+            "table": "payment_methods_comparison"
+          },
+          {
+            "column_count": 12,
+            "column_names": [
+              "id",
+              "payroll_check_id",
+              "employee_name",
+              "regular_hours",
+              "overtime_hours",
+              "regular_rate",
+              "overtime_rate",
+              "pay",
+              "liability",
+              "raw_payload",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 0,
+            "schema": "public",
+            "table": "payroll_check_employees"
+          },
+          {
+            "column_count": 19,
+            "column_names": [
+              "id",
+              "payroll_company_id",
+              "company_key",
+              "store_name",
+              "check_date",
+              "pay_frequency",
+              "run_type",
+              "period_start",
+              "period_end",
+              "period_key",
+              "period_length_days",
+              "total_earnings",
+              "total_employer_liability",
+              "total_payroll_cost",
+              "employee_count",
+              "computed_at",
+              "raw_payload",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 0,
+            "schema": "public",
+            "table": "payroll_checks"
+          },
+          {
+            "column_count": 7,
+            "column_names": [
+              "id",
+              "company_key",
+              "store_name",
+              "display_name",
+              "collection_name",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 0,
+            "schema": "public",
+            "table": "payroll_companies"
+          },
+          {
+            "column_count": 13,
+            "column_names": [
+              "id",
+              "date",
+              "check_date",
+              "period_start",
+              "period_end",
+              "period_length_days",
+              "total_pay",
+              "employee_count",
+              "payroll_data",
+              "payroll_sources",
+              "updated_at",
+              "created_at",
+              "raw_payload"
+            ],
+            "row_count": 628,
+            "schema": "public",
+            "table": "payroll_daily"
+          },
+          {
+            "column_count": 10,
+            "column_names": [
+              "id",
+              "file_name",
+              "source",
+              "uploaded_by",
+              "upload_date",
+              "storage_path",
+              "metadata",
+              "raw_payload",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 0,
+            "schema": "public",
+            "table": "payroll_raw_files"
+          },
+          {
+            "column_count": 13,
+            "column_names": [
+              "id",
+              "payroll_company_id",
+              "company_key",
+              "store_name",
+              "date",
+              "employee_name",
+              "regular_hours",
+              "overtime_hours",
+              "amount",
+              "raw_payload",
+              "created_at",
+              "updated_at",
+              "department"
+            ],
+            "row_count": 311,
+            "schema": "public",
+            "table": "payroll_timecard_entries"
+          },
+          {
+            "column_count": 14,
+            "column_names": [
+              "id",
+              "company_key",
+              "check_date",
+              "pay_frequency",
+              "total_earnings",
+              "employee_count",
+              "run_type",
+              "period_start",
+              "period_end",
+              "period_key",
+              "period_length_days",
+              "computed_at",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 0,
+            "schema": "public",
+            "table": "payroll_totals"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "id",
+              "data",
+              "updated_at"
+            ],
+            "row_count": 1,
+            "schema": "public",
+            "table": "popular_products_diwali"
+          },
+          {
+            "column_count": 4,
+            "column_names": [
+              "date",
+              "metrics",
+              "computed_at",
+              "updated_at"
+            ],
+            "row_count": 1288,
+            "schema": "public",
+            "table": "precomputed_metrics"
+          },
+          {
+            "column_count": 14,
+            "column_names": [
+              "id",
+              "item_name",
+              "unit_price",
+              "doc_number",
+              "description",
+              "transaction_date",
+              "vendor",
+              "quantity",
+              "cleaned_barcode",
+              "divisor",
+              "unit_price_per_item",
+              "sku",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 116886,
+            "schema": "public",
+            "table": "qb_data_2024"
+          },
+          {
+            "column_count": 14,
+            "column_names": [
+              "id",
+              "item_name",
+              "unit_price",
+              "doc_number",
+              "description",
+              "transaction_date",
+              "vendor",
+              "quantity",
+              "cleaned_barcode",
+              "divisor",
+              "unit_price_per_item",
+              "sku",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 202794,
+            "schema": "public",
+            "table": "qb_data_2025"
+          },
+          {
+            "column_count": 14,
+            "column_names": [
+              "id",
+              "item_name",
+              "unit_price",
+              "doc_number",
+              "description",
+              "transaction_date",
+              "vendor",
+              "quantity",
+              "cleaned_barcode",
+              "divisor",
+              "unit_price_per_item",
+              "sku",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 83708,
+            "schema": "public",
+            "table": "qb_data_2026"
+          },
+          {
+            "column_count": 5,
+            "column_names": [
+              "date",
+              "shares",
+              "total_unit_price",
+              "updated_at",
+              "raw_payload"
+            ],
+            "row_count": 272,
+            "schema": "public",
+            "table": "qb_ratio_data"
+          },
+          {
+            "column_count": 7,
+            "column_names": [
+              "date",
+              "fremont",
+              "sunnyvale",
+              "milpitas",
+              "karthik",
+              "total_unit_price",
+              "updated_at"
+            ],
+            "row_count": 26,
+            "schema": "public",
+            "table": "qbratio"
+          },
+          {
+            "column_count": 15,
+            "column_names": [
+              "id",
+              "product_category",
+              "product_sku",
+              "total",
+              "n_items",
+              "product_name",
+              "price",
+              "product_subcategory",
+              "product_barcode",
+              "product_weight",
+              "product_description",
+              "establishment",
+              "transaction_date",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 1380090,
+            "schema": "public",
+            "table": "revel_data_2022"
+          },
+          {
+            "column_count": 15,
+            "column_names": [
+              "id",
+              "product_category",
+              "product_sku",
+              "total",
+              "n_items",
+              "product_name",
+              "price",
+              "product_subcategory",
+              "product_barcode",
+              "product_weight",
+              "product_description",
+              "establishment",
+              "transaction_date",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 1828825,
+            "schema": "public",
+            "table": "revel_data_2023"
+          },
+          {
+            "column_count": 15,
+            "column_names": [
+              "id",
+              "product_category",
+              "product_sku",
+              "total",
+              "n_items",
+              "product_name",
+              "price",
+              "product_subcategory",
+              "product_barcode",
+              "product_weight",
+              "product_description",
+              "establishment",
+              "transaction_date",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 2744189,
+            "schema": "public",
+            "table": "revel_data_2024"
+          },
+          {
+            "column_count": 15,
+            "column_names": [
+              "id",
+              "product_category",
+              "product_sku",
+              "total",
+              "n_items",
+              "product_name",
+              "price",
+              "product_subcategory",
+              "product_barcode",
+              "product_weight",
+              "product_description",
+              "establishment",
+              "transaction_date",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 2787644,
+            "schema": "public",
+            "table": "revel_data_2025"
+          },
+          {
+            "column_count": 15,
+            "column_names": [
+              "id",
+              "product_category",
+              "product_sku",
+              "total",
+              "n_items",
+              "product_name",
+              "price",
+              "product_subcategory",
+              "product_barcode",
+              "product_weight",
+              "product_description",
+              "establishment",
+              "transaction_date",
+              "created_at",
+              "updated_at"
+            ],
+            "row_count": 1201576,
+            "schema": "public",
+            "table": "revel_data_2026"
+          },
+          {
+            "column_count": 10,
+            "column_names": [
+              "product_id",
+              "store",
+              "name",
+              "sku",
+              "barcode",
+              "product_category",
+              "product_subcategory",
+              "price",
+              "loaded_date",
+              "updated_at"
+            ],
+            "row_count": 112063,
+            "schema": "public",
+            "table": "revelinventory"
+          },
+          {
+            "column_count": 11,
+            "column_names": [
+              "date",
+              "establishment",
+              "establishment_code",
+              "sales_amount",
+              "customer_count",
+              "total_discounts",
+              "refunds_total",
+              "voided_total",
+              "returned_total",
+              "net_sales",
+              "updated_at"
+            ],
+            "row_count": 124,
+            "schema": "public",
+            "table": "salessummary"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "id",
+              "data",
+              "updated_at"
+            ],
+            "row_count": 1,
+            "schema": "public",
+            "table": "store_payment_data"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "date",
+              "sales_data",
+              "updated_at"
+            ],
+            "row_count": 927,
+            "schema": "public",
+            "table": "store_wise_sales"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "date",
+              "total_waste_per_store",
+              "updated_at"
+            ],
+            "row_count": 250,
+            "schema": "public",
+            "table": "waste_tool"
+          },
+          {
+            "column_count": 9,
+            "column_names": [
+              "product_sku",
+              "product_name",
+              "waste_fremont",
+              "waste_sunnyvale",
+              "barcode",
+              "unit_price",
+              "total_fremont",
+              "total_sunnyvale",
+              "updated_at"
+            ],
+            "row_count": 0,
+            "schema": "public",
+            "table": "wastetool"
+          },
+          {
+            "column_count": 3,
+            "column_names": [
+              "date",
+              "stores",
+              "updated_at"
+            ],
+            "row_count": 544,
+            "schema": "public",
+            "table": "yearly_data"
+          }
+        ]
+      },
+      {
+        "name": "postgres",
+        "table_count": 1,
+        "tables": [
+          {
+            "column_count": 6,
+            "column_names": [
+              "id",
+              "employee_name",
+              "regular_rate",
+              "overtime_rate",
+              "pay",
+              "raw_payload"
+            ],
+            "row_count": 35,
+            "schema": "public",
+            "table": "employee_zero_rates"
+          }
+        ]
+      },
+      {
+        "name": "revel_data",
+        "table_count": 0,
+        "tables": []
+      }
+    ],
+    "timestamp": "2026-07-21T16:50:19.600097"
+  }
+}

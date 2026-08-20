@@ -1,0 +1,3296 @@
+[
+  {
+    "SSN": "xxx-xx-1823",
+    "Employee Name": "Badillo Paz, John",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.212019,
+    "EL Rate": 0.083712
+  },
+  {
+    "SSN": "xxx-xx-5979",
+    "Employee Name": "CARDONA CHAVARRO, LEYDI YOHANA",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.165915,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-1977",
+    "Employee Name": "DEEPAK, NO GIVEN NAME",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.172316,
+    "EL Rate": 0.117498
+  },
+  {
+    "SSN": "xxx-xx-3052",
+    "Employee Name": "Gutierrez Romirez, Wilber Antonio",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.116731,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-8093",
+    "Employee Name": "Himanshu, Himanshu",
+    "Store": "AMFC",
+    "Regular Rate": 21.0,
+    "Overtime Rate": 31.5,
+    "Tax Rate": 0.150238,
+    "EL Rate": 0.117491
+  },
+  {
+    "SSN": "xxx-xx-8310",
+    "Employee Name": "Lozano Macias, Yan Carlos",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.223164,
+    "EL Rate": 0.083249
+  },
+  {
+    "SSN": "xxx-xx-3906",
+    "Employee Name": "MAAN, BALJINDER",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.08849,
+    "EL Rate": 0.117494
+  },
+  {
+    "SSN": "xxx-xx-3399",
+    "Employee Name": "ONOFRE, JUAN",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.088468,
+    "EL Rate": 0.11747
+  },
+  {
+    "SSN": "xxx-xx-1702",
+    "Employee Name": "PATIL, MITHUN",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.100309,
+    "EL Rate": 0.117511
+  },
+  {
+    "SSN": "xxx-xx-3459",
+    "Employee Name": "RODRIGUEZ, ALEJANDRA",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.088488,
+    "EL Rate": 0.117495
+  },
+  {
+    "SSN": "xxx-xx-8290",
+    "Employee Name": "Sanchez, Junior",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.17064,
+    "EL Rate": 0.117497
+  },
+  {
+    "SSN": "xxx-xx-3178",
+    "Employee Name": "Singh, Harjot",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.183727,
+    "EL Rate": 0.114755
+  },
+  {
+    "SSN": "xxx-xx-2969",
+    "Employee Name": "Singh, Harvinder",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.170159,
+    "EL Rate": 0.117502
+  },
+  {
+    "SSN": "xxx-xx-9455",
+    "Employee Name": "Singh, Manpreet",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.149303,
+    "EL Rate": 0.090666
+  },
+  {
+    "SSN": "xxx-xx-0240",
+    "Employee Name": "Deol, Davinder Singh",
+    "Store": "AMFC",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.113142,
+    "EL Rate": 0.087309
+  },
+  {
+    "SSN": "xxx-xx-3736",
+    "Employee Name": "SINGH, MANDEEP",
+    "Store": "AMFC",
+    "Regular Rate": 21.0,
+    "Overtime Rate": 31.5,
+    "Tax Rate": 0.11756,
+    "EL Rate": 0.085418
+  },
+  {
+    "SSN": "xxx-xx-3749",
+    "Employee Name": "LNU, Aryan",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.205427,
+    "EL Rate": 0.088321
+  },
+  {
+    "SSN": "xxx-xx-2107",
+    "Employee Name": "AGUILAR, JOSE",
+    "Store": "AMFC",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.107053,
+    "EL Rate": 0.090226
+  },
+  {
+    "SSN": "xxx-xx-7165",
+    "Employee Name": "Chavarro Luna, Laura Valentine",
+    "Store": "AMFC",
+    "Regular Rate": 17.8,
+    "Overtime Rate": 26.7,
+    "Tax Rate": 0.10394,
+    "EL Rate": 0.099311
+  },
+  {
+    "SSN": "xxx-xx-8734",
+    "Employee Name": "Fernando Perez Garcia, Diego",
+    "Store": "AMFC",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.107185,
+    "EL Rate": 0.11362
+  },
+  {
+    "SSN": "xxx-xx-4518",
+    "Employee Name": "LOPEZ, ALEX CRUZ",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.0895,
+    "EL Rate": 0.117497
+  },
+  {
+    "SSN": "xxx-xx-3997",
+    "Employee Name": "Pachon Salcedo, Duvan Andres",
+    "Store": "AMFC",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.097283,
+    "EL Rate": 0.117494
+  },
+  {
+    "SSN": "xxx-xx-0401",
+    "Employee Name": "Perez, Simeon",
+    "Store": "AMFC",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.178869,
+    "EL Rate": 0.097147
+  },
+  {
+    "SSN": "xxx-xx-2319",
+    "Employee Name": "Rivera, Junior",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.0895,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-0153",
+    "Employee Name": "Rodriguez, Job",
+    "Store": "AMFC",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.0895,
+    "EL Rate": 0.117503
+  },
+  {
+    "SSN": "xxx-xx-1869",
+    "Employee Name": "Singh, Atul",
+    "Store": "AMFC",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.216277,
+    "EL Rate": 0.089605
+  },
+  {
+    "SSN": "xxx-xx-5145",
+    "Employee Name": "Bocanegra Reyes, Rafael Alejandro",
+    "Store": "AMFC",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.088483,
+    "EL Rate": 0.117456
+  },
+  {
+    "SSN": "xxx-xx-6317",
+    "Employee Name": "Gajjan Singh, No Name Given",
+    "Store": "AMFC",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.104785,
+    "EL Rate": 0.117498
+  },
+  {
+    "SSN": "xxx-xx-6578",
+    "Employee Name": "Paz, Jairo",
+    "Store": "AMFC",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.089511,
+    "EL Rate": 0.11751
+  },
+  {
+    "SSN": "xxx-xx-9884",
+    "Employee Name": "Ramirez, Jaime",
+    "Store": "AMFC",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.157676,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-6571",
+    "Employee Name": "Bajwa, Karanvir",
+    "Store": "AMFC",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.100207,
+    "EL Rate": 0.105507
+  },
+  {
+    "SSN": "xxx-xx-6916",
+    "Employee Name": "No Given Name, Jaipal",
+    "Store": "AMFC",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.098428,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-3024",
+    "Employee Name": "Cruz Ubaldo, Aguilar",
+    "Store": "AMFC",
+    "Regular Rate": 18.5,
+    "Overtime Rate": 27.75,
+    "Tax Rate": 0.098275,
+    "EL Rate": 0.117501
+  },
+  {
+    "SSN": "xxx-xx-5951",
+    "Employee Name": "Kaur, Kuljinder",
+    "Store": "Fremont",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.141589,
+    "EL Rate": 0.076498
+  },
+  {
+    "SSN": "xxx-xx-6289",
+    "Employee Name": "Kaur, Rajvir",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.201469,
+    "EL Rate": 0.076502
+  },
+  {
+    "SSN": "xxx-xx-9678",
+    "Employee Name": "Kaur, Ramandeep",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.156239,
+    "EL Rate": 0.114504
+  },
+  {
+    "SSN": "xxx-xx-5266",
+    "Employee Name": "Mahawar, Jyoti",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.089115,
+    "EL Rate": 0.115727
+  },
+  {
+    "SSN": "xxx-xx-5041",
+    "Employee Name": "Malik, Aman",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.088459,
+    "EL Rate": 0.076514
+  },
+  {
+    "SSN": "xxx-xx-0158",
+    "Employee Name": "Perez, Andrea",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.099791,
+    "EL Rate": 0.097491
+  },
+  {
+    "SSN": "xxx-xx-0183",
+    "Employee Name": "Popal, Soman",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.098717,
+    "EL Rate": 0.113875
+  },
+  {
+    "SSN": "xxx-xx-6967",
+    "Employee Name": "Rivera, Gricelda",
+    "Store": "Fremont",
+    "Regular Rate": 18.5,
+    "Overtime Rate": 27.75,
+    "Tax Rate": 0.095953,
+    "EL Rate": 0.113173
+  },
+  {
+    "SSN": "xxx-xx-2018",
+    "Employee Name": "Sandhu, Anjali",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.113721,
+    "EL Rate": 0.096994
+  },
+  {
+    "SSN": "xxx-xx-1078",
+    "Employee Name": "Sharma, Rahul",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.099862,
+    "EL Rate": 0.098473
+  },
+  {
+    "SSN": "xxx-xx-7869",
+    "Employee Name": "Sheikh, Anishbhai Jafarbhai",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.122946,
+    "EL Rate": 0.102413
+  },
+  {
+    "SSN": "xxx-xx-7153",
+    "Employee Name": "Silveria, Ana Maria",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.096683,
+    "EL Rate": 0.1123
+  },
+  {
+    "SSN": "xxx-xx-6637",
+    "Employee Name": "Singh, Anmolprit",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.08938,
+    "EL Rate": 0.11626
+  },
+  {
+    "SSN": "xxx-xx-8525",
+    "Employee Name": "Singh, Gurshaan",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.171594,
+    "EL Rate": 0.100689
+  },
+  {
+    "SSN": "xxx-xx-0367",
+    "Employee Name": "Singh, Yadwinder",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.092265,
+    "EL Rate": 0.116013
+  },
+  {
+    "SSN": "xxx-xx-3393",
+    "Employee Name": "Walahi, Asma",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.101733,
+    "EL Rate": 0.115676
+  },
+  {
+    "SSN": "xxx-xx-2590",
+    "Employee Name": "Yadav, Sandhya",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.134356,
+    "EL Rate": 0.097082
+  },
+  {
+    "SSN": "xxx-xx-6841",
+    "Employee Name": "Dhami, Taranjit Kaur",
+    "Store": "Fremont",
+    "Regular Rate": 25.0,
+    "Overtime Rate": 37.5,
+    "Tax Rate": 0.19546,
+    "EL Rate": 0.094055
+  },
+  {
+    "SSN": "xxx-xx-5868",
+    "Employee Name": "Mathew, Michael",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.169894,
+    "EL Rate": 0.115833
+  },
+  {
+    "SSN": "xxx-xx-0794",
+    "Employee Name": "Mathew, Raju",
+    "Store": "Fremont",
+    "Regular Rate": 28.75,
+    "Overtime Rate": 43.125,
+    "Tax Rate": 0.206673,
+    "EL Rate": 0.091717
+  },
+  {
+    "SSN": "xxx-xx-2799",
+    "Employee Name": "Singh, Amrit Pal",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.170044,
+    "EL Rate": 0.101148
+  },
+  {
+    "SSN": "xxx-xx-1007",
+    "Employee Name": "Singh, Malvinder",
+    "Store": "Fremont",
+    "Regular Rate": 27.08,
+    "Overtime Rate": 40.62,
+    "Tax Rate": 0.201751,
+    "EL Rate": 0.092657
+  },
+  {
+    "SSN": "xxx-xx-7767",
+    "Employee Name": "Singh, Pinki",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.126336,
+    "EL Rate": 0.098409
+  },
+  {
+    "SSN": "xxx-xx-0869",
+    "Employee Name": "Singh, Ravinder",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.170684,
+    "EL Rate": 0.098375
+  },
+  {
+    "SSN": "xxx-xx-7482",
+    "Employee Name": "Singh, Sahib",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.178545,
+    "EL Rate": 0.098444
+  },
+  {
+    "SSN": "xxx-xx-6932",
+    "Employee Name": "Singh, Sahil",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.17866,
+    "EL Rate": 0.098409
+  },
+  {
+    "SSN": "xxx-xx-8648",
+    "Employee Name": "Godinez Martin, Eduardo",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.103795,
+    "EL Rate": 0.094553
+  },
+  {
+    "SSN": "xxx-xx-6701",
+    "Employee Name": "Gonzalez Gonzalez, Javier",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.146651,
+    "EL Rate": 0.106136
+  },
+  {
+    "SSN": "xxx-xx-2412",
+    "Employee Name": "Mairena Zeledon, Heyder Antonio",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.103062,
+    "EL Rate": 0.091349
+  },
+  {
+    "SSN": "xxx-xx-0133",
+    "Employee Name": "Manuel Suar, Erick Morales",
+    "Store": "Fremont",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.148819,
+    "EL Rate": 0.102954
+  },
+  {
+    "SSN": "xxx-xx-0253",
+    "Employee Name": "Morales Panjoj, Juan Samuel",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.089115,
+    "EL Rate": 0.102792
+  },
+  {
+    "SSN": "xxx-xx-6879",
+    "Employee Name": "Iguit Suy, Sebastian",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.171825,
+    "EL Rate": 0.097395
+  },
+  {
+    "SSN": "xxx-xx-8902",
+    "Employee Name": "Osorio, Leonardo",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.174801,
+    "EL Rate": 0.097497
+  },
+  {
+    "SSN": "xxx-xx-4314",
+    "Employee Name": "Santizo Gomez, Carlos Enrique",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.089501,
+    "EL Rate": 0.116498
+  },
+  {
+    "SSN": "xxx-xx-7345",
+    "Employee Name": "Aguinaga, Elder Castiblanco",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.09961,
+    "EL Rate": 0.116497
+  },
+  {
+    "SSN": "xxx-xx-1895",
+    "Employee Name": "Antonio Rivera, Abner",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.101232,
+    "EL Rate": 0.093399
+  },
+  {
+    "SSN": "xxx-xx-2345",
+    "Employee Name": "Calvo Jeronimo, Diego Armando",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.0895,
+    "EL Rate": 0.116501
+  },
+  {
+    "SSN": "xxx-xx-4812",
+    "Employee Name": "Morales Panjoj, Pedro Noe",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.103386,
+    "EL Rate": 0.091331
+  },
+  {
+    "SSN": "xxx-xx-5847",
+    "Employee Name": "Rafael, Roger",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.089508,
+    "EL Rate": 0.116505
+  },
+  {
+    "SSN": "xxx-xx-1028",
+    "Employee Name": "Rivera Martinez, Danis Antonio",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.140011,
+    "EL Rate": 0.096782
+  },
+  {
+    "SSN": "xxx-xx-2405",
+    "Employee Name": "Rodriguez Bautista, Luis",
+    "Store": "Fremont",
+    "Regular Rate": 22.0,
+    "Overtime Rate": 33.0,
+    "Tax Rate": 0.109333,
+    "EL Rate": 0.088121
+  },
+  {
+    "SSN": "xxx-xx-0780",
+    "Employee Name": "Silva, Leonel Cruz",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.102502,
+    "EL Rate": 0.109595
+  },
+  {
+    "SSN": "xxx-xx-5184",
+    "Employee Name": "Ali, Syed Mufti Imran",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.176498,
+    "EL Rate": 0.099275
+  },
+  {
+    "SSN": "xxx-xx-8172",
+    "Employee Name": "Mann, Gursewak Singh",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.138024,
+    "EL Rate": 0.096909
+  },
+  {
+    "SSN": "xxx-xx-4060",
+    "Employee Name": "Coronado, Dixon",
+    "Store": "Fremont",
+    "Regular Rate": 23.0,
+    "Overtime Rate": 34.5,
+    "Tax Rate": 0.125859,
+    "EL Rate": 0.089067
+  },
+  {
+    "SSN": "xxx-xx-8810",
+    "Employee Name": "Tirupathi, Nithish",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.106857,
+    "EL Rate": 0.089135
+  },
+  {
+    "SSN": "xxx-xx-4029",
+    "Employee Name": "Acosta Paiva, Medely Gossuen",
+    "Store": "Fremont",
+    "Regular Rate": 17.4532,
+    "Overtime Rate": 26.1798,
+    "Tax Rate": 0.181888,
+    "EL Rate": 0.086466
+  },
+  {
+    "SSN": "xxx-xx-1249",
+    "Employee Name": "Ahmed, Sajeel",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.168259,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-0978",
+    "Employee Name": "Antonio Gamarra, Percy",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.096067,
+    "EL Rate": 0.114503
+  },
+  {
+    "SSN": "xxx-xx-4546",
+    "Employee Name": "Arguelio, Angel Meneses",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.9501,
+    "Tax Rate": 0.103415,
+    "EL Rate": 0.114501
+  },
+  {
+    "SSN": "xxx-xx-9368",
+    "Employee Name": "Azar, Asma",
+    "Store": "Fremont",
+    "Regular Rate": 17.5219,
+    "Overtime Rate": 26.2828,
+    "Tax Rate": 0.163841,
+    "EL Rate": 0.093651
+  },
+  {
+    "SSN": "xxx-xx-2818",
+    "Employee Name": "Balhara, Sachin",
+    "Store": "Fremont",
+    "Regular Rate": 17.7499,
+    "Overtime Rate": 26.6249,
+    "Tax Rate": 0.134498,
+    "EL Rate": 0.114501
+  },
+  {
+    "SSN": "xxx-xx-4823",
+    "Employee Name": "Bellorin, Joxin",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.09653,
+    "EL Rate": 0.114502
+  },
+  {
+    "SSN": "xxx-xx-2139",
+    "Employee Name": "Claros, Andres",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.9499,
+    "Tax Rate": 0.101773,
+    "EL Rate": 0.114493
+  },
+  {
+    "SSN": "xxx-xx-6510",
+    "Employee Name": "Conoz, Roxana",
+    "Store": "Fremont",
+    "Regular Rate": 17.3617,
+    "Overtime Rate": 26.0425,
+    "Tax Rate": 0.187188,
+    "EL Rate": 0.08533
+  },
+  {
+    "SSN": "xxx-xx-9715",
+    "Employee Name": "Coronado, Adonis",
+    "Store": "Fremont",
+    "Regular Rate": 17.3947,
+    "Overtime Rate": 26.0921,
+    "Tax Rate": 0.169285,
+    "EL Rate": 0.083297
+  },
+  {
+    "SSN": "xxx-xx-8390",
+    "Employee Name": "Coronado, Alva G",
+    "Store": "Fremont",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.109145,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-0945",
+    "Employee Name": "Coronado, Leonel",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.105828,
+    "EL Rate": 0.109926
+  },
+  {
+    "SSN": "xxx-xx-8162",
+    "Employee Name": "Cortes, Alberto Vanquez",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.169254,
+    "EL Rate": 0.100848
+  },
+  {
+    "SSN": "xxx-xx-6719",
+    "Employee Name": "Devi, Deeksha",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.174328,
+    "EL Rate": 0.114499
+  },
+  {
+    "SSN": "xxx-xx-3663",
+    "Employee Name": "Faramarz, Zahra",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.167807,
+    "EL Rate": 0.094479
+  },
+  {
+    "SSN": "xxx-xx-1841",
+    "Employee Name": "Fonseca Urrutia, Ingrid Del Carme",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.170197,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-7879",
+    "Employee Name": "Gonzalez, Hugo Gonzalez",
+    "Store": "Fremont",
+    "Regular Rate": 17.3945,
+    "Overtime Rate": 26.0917,
+    "Tax Rate": 0.172865,
+    "EL Rate": 0.084161
+  },
+  {
+    "SSN": "xxx-xx-3411",
+    "Employee Name": "Juarez Mendez, Pablo Jesus",
+    "Store": "Fremont",
+    "Regular Rate": 17.5157,
+    "Overtime Rate": 26.2736,
+    "Tax Rate": 0.168024,
+    "EL Rate": 0.091733
+  },
+  {
+    "SSN": "xxx-xx-4605",
+    "Employee Name": "Jyoti, Jyoti",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.178147,
+    "EL Rate": 0.114504
+  },
+  {
+    "SSN": "xxx-xx-7827",
+    "Employee Name": "Karimi, Deeba",
+    "Store": "Fremont",
+    "Regular Rate": 17.4645,
+    "Overtime Rate": 26.1967,
+    "Tax Rate": 0.187577,
+    "EL Rate": 0.086283
+  },
+  {
+    "SSN": "xxx-xx-5305",
+    "Employee Name": "Kaur, Baljeet",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.166818,
+    "EL Rate": 0.114501
+  },
+  {
+    "SSN": "xxx-xx-8684",
+    "Employee Name": "Kaur, Jagdeep",
+    "Store": "Fremont",
+    "Regular Rate": 17.4312,
+    "Overtime Rate": 26.1468,
+    "Tax Rate": 0.16113,
+    "EL Rate": 0.112289
+  },
+  {
+    "SSN": "xxx-xx-0892",
+    "Employee Name": "Kaur, Jaismeen",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.2059,
+    "EL Rate": 0.096482
+  },
+  {
+    "SSN": "xxx-xx-3723",
+    "Employee Name": "Kaur, Jaismeen",
+    "Store": "Fremont",
+    "Regular Rate": 17.4385,
+    "Overtime Rate": 26.1577,
+    "Tax Rate": 0.20513,
+    "EL Rate": 0.0863
+  },
+  {
+    "SSN": "xxx-xx-9409",
+    "Employee Name": "Kaur, Navdeep",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.174192,
+    "EL Rate": 0.099561
+  },
+  {
+    "SSN": "xxx-xx-4213",
+    "Employee Name": "Kaur, Navjot",
+    "Store": "Fremont",
+    "Regular Rate": 17.42,
+    "Overtime Rate": 26.13,
+    "Tax Rate": 0.177647,
+    "EL Rate": 0.082246
+  },
+  {
+    "SSN": "xxx-xx-2090",
+    "Employee Name": "Kaur, Prabhjot",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.120679,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-7383",
+    "Employee Name": "Kaur, Prabhjot",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.161245,
+    "EL Rate": 0.114499
+  },
+  {
+    "SSN": "xxx-xx-6526",
+    "Employee Name": "Kaur, Simarjit",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.212022,
+    "EL Rate": 0.090228
+  },
+  {
+    "SSN": "xxx-xx-4578",
+    "Employee Name": "Kaur, Simran",
+    "Store": "Fremont",
+    "Regular Rate": 17.3828,
+    "Overtime Rate": 26.0742,
+    "Tax Rate": 0.164444,
+    "EL Rate": 0.085831
+  },
+  {
+    "SSN": "xxx-xx-5092",
+    "Employee Name": "Kaur, Sukhdeep",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.166084,
+    "EL Rate": 0.097425
+  },
+  {
+    "SSN": "xxx-xx-3067",
+    "Employee Name": "Kenwal, Depty",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.241266,
+    "EL Rate": 0.113109
+  },
+  {
+    "SSN": "xxx-xx-6427",
+    "Employee Name": "Khara, Jashanpreet Kaur",
+    "Store": "Fremont",
+    "Regular Rate": 17.4128,
+    "Overtime Rate": 26.1192,
+    "Tax Rate": 0.15583,
+    "EL Rate": 0.095866
+  },
+  {
+    "SSN": "xxx-xx-9851",
+    "Employee Name": "Kour, Simar",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.141956,
+    "EL Rate": 0.114509
+  },
+  {
+    "SSN": "xxx-xx-7070",
+    "Employee Name": "Kumar, Anil",
+    "Store": "Fremont",
+    "Regular Rate": 17.5008,
+    "Overtime Rate": 26.2512,
+    "Tax Rate": 0.173551,
+    "EL Rate": 0.091322
+  },
+  {
+    "SSN": "xxx-xx-0484",
+    "Employee Name": "Kumar, Arvind",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.244773,
+    "EL Rate": 0.09907
+  },
+  {
+    "SSN": "xxx-xx-5170",
+    "Employee Name": "Kumar, Arvind",
+    "Store": "Fremont",
+    "Regular Rate": 17.3947,
+    "Overtime Rate": 26.0921,
+    "Tax Rate": 0.218474,
+    "EL Rate": 0.081791
+  },
+  {
+    "SSN": "xxx-xx-2439",
+    "Employee Name": "Kumar, Rajat",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.178284,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-8066",
+    "Employee Name": "Kumar, Satish",
+    "Store": "Fremont",
+    "Regular Rate": 17.3961,
+    "Overtime Rate": 26.0941,
+    "Tax Rate": 0.19401,
+    "EL Rate": 0.082588
+  },
+  {
+    "SSN": "xxx-xx-7812",
+    "Employee Name": "Laguna, Justin",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.101483,
+    "EL Rate": 0.114498
+  },
+  {
+    "SSN": "xxx-xx-9838",
+    "Employee Name": "Linares, Andrea",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.168391,
+    "EL Rate": 0.107759
+  },
+  {
+    "SSN": "xxx-xx-7819",
+    "Employee Name": "Lopez Rodriguez, Carina",
+    "Store": "Fremont",
+    "Regular Rate": 17.3947,
+    "Overtime Rate": 26.0921,
+    "Tax Rate": 0.127604,
+    "EL Rate": 0.081049
+  },
+  {
+    "SSN": "xxx-xx-5963",
+    "Employee Name": "Lopez Rodriguez, Rafael",
+    "Store": "Fremont",
+    "Regular Rate": 0.4286,
+    "Overtime Rate": 0.6429,
+    "Tax Rate": 0.129474,
+    "EL Rate": 0.082595
+  },
+  {
+    "SSN": "xxx-xx-0792",
+    "Employee Name": "Mandava, Sraani Priya",
+    "Store": "Fremont",
+    "Regular Rate": 17.3881,
+    "Overtime Rate": 26.0821,
+    "Tax Rate": 0.165097,
+    "EL Rate": 0.087301
+  },
+  {
+    "SSN": "xxx-xx-8408",
+    "Employee Name": "Mann, Inderjeet",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.204462,
+    "EL Rate": 0.099915
+  },
+  {
+    "SSN": "xxx-xx-6200",
+    "Employee Name": "Mann, Rachpal",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.206119,
+    "EL Rate": 0.10025
+  },
+  {
+    "SSN": "xxx-xx-5813",
+    "Employee Name": "Mann, Selena",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.206119,
+    "EL Rate": 0.097281
+  },
+  {
+    "SSN": "xxx-xx-6572",
+    "Employee Name": "Martinez Caceres, Yasmil Efrain",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.100485,
+    "EL Rate": 0.114504
+  },
+  {
+    "SSN": "xxx-xx-5293",
+    "Employee Name": "Montiel Saavedra, Evelin",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.088492,
+    "EL Rate": 0.114507
+  },
+  {
+    "SSN": "xxx-xx-6852",
+    "Employee Name": "Naeen, Muhammad",
+    "Store": "Fremont",
+    "Regular Rate": 17.42,
+    "Overtime Rate": 26.13,
+    "Tax Rate": 0.186022,
+    "EL Rate": 0.082385
+  },
+  {
+    "SSN": "xxx-xx-0210",
+    "Employee Name": "Ortiz Lopez, Teodulfo",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.20414,
+    "EL Rate": 0.107394
+  },
+  {
+    "SSN": "xxx-xx-2573",
+    "Employee Name": "Pal, Parveen",
+    "Store": "Fremont",
+    "Regular Rate": 17.3947,
+    "Overtime Rate": 26.0921,
+    "Tax Rate": 0.212223,
+    "EL Rate": 0.081133
+  },
+  {
+    "SSN": "xxx-xx-4529",
+    "Employee Name": "Preet, Kamal",
+    "Store": "Fremont",
+    "Regular Rate": 17.3925,
+    "Overtime Rate": 26.0888,
+    "Tax Rate": 0.166654,
+    "EL Rate": 0.08307
+  },
+  {
+    "SSN": "xxx-xx-3975",
+    "Employee Name": "Puri, Rakesh",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.122047,
+    "EL Rate": 0.114498
+  },
+  {
+    "SSN": "xxx-xx-5989",
+    "Employee Name": "Rani, Reena",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.179799,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-7682",
+    "Employee Name": "Recinos, Yefferson",
+    "Store": "Fremont",
+    "Regular Rate": 17.45,
+    "Overtime Rate": 26.175,
+    "Tax Rate": 0.165624,
+    "EL Rate": 0.085101
+  },
+  {
+    "SSN": "xxx-xx-7410",
+    "Employee Name": "Reddy, Tara",
+    "Store": "Fremont",
+    "Regular Rate": 17.5225,
+    "Overtime Rate": 26.2837,
+    "Tax Rate": 0.165442,
+    "EL Rate": 0.101913
+  },
+  {
+    "SSN": "xxx-xx-7988",
+    "Employee Name": "Reyes, Oscar",
+    "Store": "Fremont",
+    "Regular Rate": 17.4045,
+    "Overtime Rate": 26.1068,
+    "Tax Rate": 0.172388,
+    "EL Rate": 0.114499
+  },
+  {
+    "SSN": "xxx-xx-2432",
+    "Employee Name": "Rohit, No Given Name",
+    "Store": "Fremont",
+    "Regular Rate": 17.3947,
+    "Overtime Rate": 26.0921,
+    "Tax Rate": 0.193373,
+    "EL Rate": 0.082464
+  },
+  {
+    "SSN": "xxx-xx-7023",
+    "Employee Name": "Ruiz, Javier Reyes",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.138786,
+    "EL Rate": 0.098738
+  },
+  {
+    "SSN": "xxx-xx-0976",
+    "Employee Name": "Saini, Gayatri",
+    "Store": "Fremont",
+    "Regular Rate": 17.4257,
+    "Overtime Rate": 26.1386,
+    "Tax Rate": 0.158548,
+    "EL Rate": 0.091317
+  },
+  {
+    "SSN": "xxx-xx-7639",
+    "Employee Name": "Sanchez, Walter Jimenez",
+    "Store": "Fremont",
+    "Regular Rate": 17.3706,
+    "Overtime Rate": 26.0559,
+    "Tax Rate": 0.104772,
+    "EL Rate": 0.087846
+  },
+  {
+    "SSN": "xxx-xx-7974",
+    "Employee Name": "Sediqi, Basila",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.142933,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-2868",
+    "Employee Name": "Shah, Syed Muhammad Aun Ali",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.162155,
+    "EL Rate": 0.106665
+  },
+  {
+    "SSN": "xxx-xx-3407",
+    "Employee Name": "Sharma, Diksha",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.188599,
+    "EL Rate": 0.114501
+  },
+  {
+    "SSN": "xxx-xx-9025",
+    "Employee Name": "Sheokand, Sumit",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.201998,
+    "EL Rate": 0.092648
+  },
+  {
+    "SSN": "xxx-xx-4190",
+    "Employee Name": "Singh, Anmol",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.212019,
+    "EL Rate": 0.114496
+  },
+  {
+    "SSN": "xxx-xx-3625",
+    "Employee Name": "Singh, Arshdeep",
+    "Store": "Fremont",
+    "Regular Rate": 17.4051,
+    "Overtime Rate": 26.1076,
+    "Tax Rate": 0.159621,
+    "EL Rate": 0.10095
+  },
+  {
+    "SSN": "xxx-xx-8223",
+    "Employee Name": "Singh, Bikram",
+    "Store": "Fremont",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.206119,
+    "EL Rate": 0.104208
+  },
+  {
+    "SSN": "xxx-xx-8694",
+    "Employee Name": "Singh, Gurmeet",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.088555,
+    "EL Rate": 0.114566
+  },
+  {
+    "SSN": "xxx-xx-0992",
+    "Employee Name": "Singh, Gurpreet",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.164081,
+    "EL Rate": 0.087564
+  },
+  {
+    "SSN": "xxx-xx-0699",
+    "Employee Name": "Singh, Harshdeep",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.9501,
+    "Tax Rate": 0.184242,
+    "EL Rate": 0.114497
+  },
+  {
+    "SSN": "xxx-xx-6761",
+    "Employee Name": "Singh, Jagtar",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.154516,
+    "EL Rate": 0.106783
+  },
+  {
+    "SSN": "xxx-xx-5558",
+    "Employee Name": "Singh, Jugjeet",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.184679,
+    "EL Rate": 0.1145
+  },
+  {
+    "SSN": "xxx-xx-8263",
+    "Employee Name": "Singh, Lovepreet",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.088484,
+    "EL Rate": 0.114495
+  },
+  {
+    "SSN": "xxx-xx-3415",
+    "Employee Name": "Singh, Munender Jeet",
+    "Store": "Fremont",
+    "Regular Rate": 17.5571,
+    "Overtime Rate": 26.3357,
+    "Tax Rate": 0.211376,
+    "EL Rate": 0.08589
+  },
+  {
+    "SSN": "xxx-xx-0644",
+    "Employee Name": "Singh, Rajvinder",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.189667,
+    "EL Rate": 0.096365
+  },
+  {
+    "SSN": "xxx-xx-2197",
+    "Employee Name": "Singh, Ranveer",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.228052,
+    "EL Rate": 0.097915
+  },
+  {
+    "SSN": "xxx-xx-6826",
+    "Employee Name": "Singh, Rinky",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.166395,
+    "EL Rate": 0.114496
+  },
+  {
+    "SSN": "xxx-xx-0247",
+    "Employee Name": "Thakur, Ashmit",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.165192,
+    "EL Rate": 0.114502
+  },
+  {
+    "SSN": "xxx-xx-4512",
+    "Employee Name": "Trillos Niebles, Claudia Patrica",
+    "Store": "Fremont",
+    "Regular Rate": 17.3947,
+    "Overtime Rate": 26.0921,
+    "Tax Rate": 0.181406,
+    "EL Rate": 0.082164
+  },
+  {
+    "SSN": "xxx-xx-8904",
+    "Employee Name": "Velasquez Iguit, Ismael",
+    "Store": "Fremont",
+    "Regular Rate": 17.3,
+    "Overtime Rate": 25.95,
+    "Tax Rate": 0.11322,
+    "EL Rate": 0.097449
+  },
+  {
+    "SSN": "xxx-xx-0176",
+    "Employee Name": "LNU, Nancy",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.099894,
+    "EL Rate": 0.108334
+  },
+  {
+    "SSN": "xxx-xx-6252",
+    "Employee Name": "Manam, Neha",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.108283,
+    "EL Rate": 0.116488
+  },
+  {
+    "SSN": "xxx-xx-0435",
+    "Employee Name": "Rawal, Aaryan",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.096167,
+    "EL Rate": 0.116504
+  },
+  {
+    "SSN": "xxx-xx-5741",
+    "Employee Name": "Sandra, Arellano",
+    "Store": "Fremont",
+    "Regular Rate": 21.5,
+    "Overtime Rate": 32.25,
+    "Tax Rate": 0.089394,
+    "EL Rate": 0.116293
+  },
+  {
+    "SSN": "xxx-xx-2578",
+    "Employee Name": "Waradkar, Shankar A",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.103441,
+    "EL Rate": 0.116497
+  },
+  {
+    "SSN": "xxx-xx-5990",
+    "Employee Name": "LNU, PRINCE",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.106178,
+    "EL Rate": 0.116498
+  },
+  {
+    "SSN": "xxx-xx-1653",
+    "Employee Name": "N, Neeraj",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.109871,
+    "EL Rate": 0.115617
+  },
+  {
+    "SSN": "xxx-xx-6854",
+    "Employee Name": "Fuentes, Elena",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.116737,
+    "EL Rate": 0.106096
+  },
+  {
+    "SSN": "xxx-xx-6010",
+    "Employee Name": "Singh, Sukhpal",
+    "Store": "Fremont",
+    "Regular Rate": 17.75,
+    "Overtime Rate": 26.625,
+    "Tax Rate": 0.113408,
+    "EL Rate": 0.114498
+  },
+  {
+    "SSN": "xxx-xx-1727",
+    "Employee Name": "Lopez Rodriguez, Jesus",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.195763,
+    "EL Rate": 0.10288
+  },
+  {
+    "SSN": "xxx-xx-1493",
+    "Employee Name": "Sharaff, Sana",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.170737,
+    "EL Rate": 0.132498
+  },
+  {
+    "SSN": "xxx-xx-7684",
+    "Employee Name": "Singh, Harman",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.102627,
+    "EL Rate": 0.132505
+  },
+  {
+    "SSN": "xxx-xx-0262",
+    "Employee Name": "SINGH, KARANPREET",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.227801,
+    "EL Rate": 0.1325
+  },
+  {
+    "SSN": "xxx-xx-6480",
+    "Employee Name": "Singh, Subhdeep",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.116923,
+    "EL Rate": 0.1325
+  },
+  {
+    "SSN": "xxx-xx-2486",
+    "Employee Name": "Unknown, Taruna",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.144911,
+    "EL Rate": 0.132498
+  },
+  {
+    "SSN": "xxx-xx-8042",
+    "Employee Name": "Velasquez Moreno, Yader Josue",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.227801,
+    "EL Rate": 0.124162
+  },
+  {
+    "SSN": "xxx-xx-9021",
+    "Employee Name": "Inder R, Ravi",
+    "Store": "Karthik",
+    "Regular Rate": 21.0,
+    "Overtime Rate": 31.5,
+    "Tax Rate": 0.088956,
+    "EL Rate": 0.126595
+  },
+  {
+    "SSN": "xxx-xx-0835",
+    "Employee Name": "Barnwal, Indrani",
+    "Store": "Karthik",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.095298,
+    "EL Rate": 0.1325
+  },
+  {
+    "SSN": "xxx-xx-4501",
+    "Employee Name": "Bura, Vanshika",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.0885,
+    "EL Rate": 0.1325
+  },
+  {
+    "SSN": "xxx-xx-5031",
+    "Employee Name": "Jyoti, Jyoti",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.096229,
+    "EL Rate": 0.108726
+  },
+  {
+    "SSN": "xxx-xx-4255",
+    "Employee Name": "Kaur, Gaganpreet",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.090279,
+    "EL Rate": 0.112225
+  },
+  {
+    "SSN": "xxx-xx-7650",
+    "Employee Name": "Kaur, Simranjeet",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088502,
+    "EL Rate": 0.132501
+  },
+  {
+    "SSN": "xxx-xx-4443",
+    "Employee Name": "Kumar, Ramesh",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088496,
+    "EL Rate": 0.132496
+  },
+  {
+    "SSN": "xxx-xx-4338",
+    "Employee Name": "Sharma, Rishab",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.100023,
+    "EL Rate": 0.132501
+  },
+  {
+    "SSN": "xxx-xx-6564",
+    "Employee Name": "Singh, Jagseer",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088517,
+    "EL Rate": 0.132506
+  },
+  {
+    "SSN": "xxx-xx-7890",
+    "Employee Name": "Espinoza Flores, Ulises David",
+    "Store": "Karthik",
+    "Regular Rate": 22.0,
+    "Overtime Rate": 33.0,
+    "Tax Rate": 0.088773,
+    "EL Rate": 0.107531
+  },
+  {
+    "SSN": "xxx-xx-2064",
+    "Employee Name": "Kaur, Ravinder",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.099515,
+    "EL Rate": 0.106052
+  },
+  {
+    "SSN": "xxx-xx-7624",
+    "Employee Name": "Jochola Perez, Alan Gaspar",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.10281,
+    "EL Rate": 0.09206
+  },
+  {
+    "SSN": "xxx-xx-0512",
+    "Employee Name": "Los Santos, Jorge Jimenez D",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088502,
+    "EL Rate": 0.132501
+  },
+  {
+    "SSN": "xxx-xx-4135",
+    "Employee Name": "Moreno, Elvin",
+    "Store": "Karthik",
+    "Regular Rate": 23.0,
+    "Overtime Rate": 34.5,
+    "Tax Rate": 0.088502,
+    "EL Rate": 0.132512
+  },
+  {
+    "SSN": "xxx-xx-7922",
+    "Employee Name": "Rivera Lopez, Aaron Rigoberto",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088517,
+    "EL Rate": 0.132512
+  },
+  {
+    "SSN": "xxx-xx-0456",
+    "Employee Name": "Rivera, Armando",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.099942,
+    "EL Rate": 0.131904
+  },
+  {
+    "SSN": "xxx-xx-3965",
+    "Employee Name": "Singh, Gurinder",
+    "Store": "Karthik",
+    "Regular Rate": 19.55,
+    "Overtime Rate": 29.325,
+    "Tax Rate": 0.103821,
+    "EL Rate": 0.091368
+  },
+  {
+    "SSN": "xxx-xx-4267",
+    "Employee Name": "Yoc, Christian",
+    "Store": "Karthik",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.091423,
+    "EL Rate": 0.132501
+  },
+  {
+    "SSN": "xxx-xx-4517",
+    "Employee Name": "Gadan, Sai Kiran",
+    "Store": "Karthik",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.102338,
+    "EL Rate": 0.119505
+  },
+  {
+    "SSN": "xxx-xx-4545",
+    "Employee Name": "Centeno, Aquiles David",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.092222,
+    "EL Rate": 0.108221
+  },
+  {
+    "SSN": "xxx-xx-3069",
+    "Employee Name": "GUSTO, VICTOR",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.107372,
+    "EL Rate": 0.102226
+  },
+  {
+    "SSN": "xxx-xx-7468",
+    "Employee Name": "Incio, Luis",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.0885,
+    "EL Rate": 0.132501
+  },
+  {
+    "SSN": "xxx-xx-4324",
+    "Employee Name": "Kaur, Harmanpreet",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088501,
+    "EL Rate": 0.132497
+  },
+  {
+    "SSN": "xxx-xx-2803",
+    "Employee Name": "Kaur, Satwinder",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.090587,
+    "EL Rate": 0.098856
+  },
+  {
+    "SSN": "xxx-xx-3910",
+    "Employee Name": "Perez, Alfonso",
+    "Store": "Karthik",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.088506,
+    "EL Rate": 0.132504
+  },
+  {
+    "SSN": "xxx-xx-0955",
+    "Employee Name": "Punnam, Surekha",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.098404,
+    "EL Rate": 0.1325
+  },
+  {
+    "SSN": "xxx-xx-4510",
+    "Employee Name": "Singh, Manjet",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.100753,
+    "EL Rate": 0.132503
+  },
+  {
+    "SSN": "xxx-xx-4305",
+    "Employee Name": "Singh, Palwinder",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.100122,
+    "EL Rate": 0.109528
+  },
+  {
+    "SSN": "xxx-xx-1495",
+    "Employee Name": "Singh, Sukhvir",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.098342,
+    "EL Rate": 0.1325
+  },
+  {
+    "SSN": "xxx-xx-4567",
+    "Employee Name": "Torres, Felix",
+    "Store": "Karthik",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088499,
+    "EL Rate": 0.132499
+  },
+  {
+    "SSN": "xxx-xx-8503",
+    "Employee Name": "Cortes, Zarah Elizabeth",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.110612,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-2039",
+    "Employee Name": "Flores, Axel",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088512,
+    "EL Rate": 0.117503
+  },
+  {
+    "SSN": "xxx-xx-1048",
+    "Employee Name": "Gonzalez, Xiomara",
+    "Store": "Milpitas",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.088455,
+    "EL Rate": 0.117448
+  },
+  {
+    "SSN": "xxx-xx-2952",
+    "Employee Name": "Jimenez, Leidi",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088512,
+    "EL Rate": 0.117496
+  },
+  {
+    "SSN": "xxx-xx-9071",
+    "Employee Name": "Jobanjit Singh, No Given Name",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089503,
+    "EL Rate": 0.117494
+  },
+  {
+    "SSN": "xxx-xx-1478",
+    "Employee Name": "Kaur, Avneet",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089497,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-9560",
+    "Employee Name": "Kaur, Harmeet",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089501,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-1510",
+    "Employee Name": "Kaur, Isha",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.0895,
+    "EL Rate": 0.117506
+  },
+  {
+    "SSN": "xxx-xx-2335",
+    "Employee Name": "Kaur, Jashandeep",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.173627,
+    "EL Rate": 0.076498
+  },
+  {
+    "SSN": "xxx-xx-8380",
+    "Employee Name": "Kaur, Jaskiran",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089499,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-8171",
+    "Employee Name": "Kaur, Manveer",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.162187,
+    "EL Rate": 0.076499
+  },
+  {
+    "SSN": "xxx-xx-6051",
+    "Employee Name": "Kaur, Preet",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.170796,
+    "EL Rate": 0.102982
+  },
+  {
+    "SSN": "xxx-xx-3221",
+    "Employee Name": "Laxman Shinde, Manisha",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.156279,
+    "EL Rate": 0.076497
+  },
+  {
+    "SSN": "xxx-xx-1781",
+    "Employee Name": "LNU, Prakshi",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.16379,
+    "EL Rate": 0.107685
+  },
+  {
+    "SSN": "xxx-xx-5362",
+    "Employee Name": "Maro Romero, Saray Julieta",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088504,
+    "EL Rate": 0.117502
+  },
+  {
+    "SSN": "xxx-xx-1168",
+    "Employee Name": "Mohmand, Jalaluddin",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.099675,
+    "EL Rate": 0.117501
+  },
+  {
+    "SSN": "xxx-xx-6330",
+    "Employee Name": "Munoz, Andres",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.116833,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-9548",
+    "Employee Name": "Nabizada, Fahim Ahmad",
+    "Store": "Milpitas",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.100406,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-0147",
+    "Employee Name": "Netha, Harika",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.179826,
+    "EL Rate": 0.089866
+  },
+  {
+    "SSN": "xxx-xx-6291",
+    "Employee Name": "Orellana, Julissa",
+    "Store": "Milpitas",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.140778,
+    "EL Rate": 0.117504
+  },
+  {
+    "SSN": "xxx-xx-9320",
+    "Employee Name": "Rao, Avani",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.10097,
+    "EL Rate": 0.116296
+  },
+  {
+    "SSN": "xxx-xx-0573",
+    "Employee Name": "Rao, Pinky",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.098452,
+    "EL Rate": 0.117501
+  },
+  {
+    "SSN": "xxx-xx-0369",
+    "Employee Name": "Reddy, Pavan",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.100507,
+    "EL Rate": 0.089427
+  },
+  {
+    "SSN": "xxx-xx-6528",
+    "Employee Name": "Rivera Espinoza, Gricelda",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.18086,
+    "EL Rate": 0.0765
+  },
+  {
+    "SSN": "xxx-xx-0048",
+    "Employee Name": "Safary, Suraya",
+    "Store": "Milpitas",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.0885,
+    "EL Rate": 0.076502
+  },
+  {
+    "SSN": "xxx-xx-7396",
+    "Employee Name": "Sekhon, Gurwinder Singh",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.124941,
+    "EL Rate": 0.103639
+  },
+  {
+    "SSN": "xxx-xx-6454",
+    "Employee Name": "Singh Kang, Gurwinder",
+    "Store": "Milpitas",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.156676,
+    "EL Rate": 0.117503
+  },
+  {
+    "SSN": "xxx-xx-2235",
+    "Employee Name": "Singh, Amanpreet",
+    "Store": "Milpitas",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.169351,
+    "EL Rate": 0.076499
+  },
+  {
+    "SSN": "xxx-xx-0095",
+    "Employee Name": "SINGH, EKAMJOT",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.100788,
+    "EL Rate": 0.109105
+  },
+  {
+    "SSN": "xxx-xx-6039",
+    "Employee Name": "Singh, Gurpreet",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.099773,
+    "EL Rate": 0.117497
+  },
+  {
+    "SSN": "xxx-xx-6769",
+    "Employee Name": "Singh, Lovepreet",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089097,
+    "EL Rate": 0.117493
+  },
+  {
+    "SSN": "xxx-xx-0258",
+    "Employee Name": "Singh, Mandeep",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.103958,
+    "EL Rate": 0.076501
+  },
+  {
+    "SSN": "xxx-xx-0083",
+    "Employee Name": "Singh, Parasdeep",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.128951,
+    "EL Rate": 0.117494
+  },
+  {
+    "SSN": "xxx-xx-7877",
+    "Employee Name": "Augustine, Messiah Julius",
+    "Store": "Milpitas",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.112413,
+    "EL Rate": 0.112405
+  },
+  {
+    "SSN": "xxx-xx-8877",
+    "Employee Name": "Kaur, Roopinder",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.178443,
+    "EL Rate": 0.097887
+  },
+  {
+    "SSN": "xxx-xx-3313",
+    "Employee Name": "Saini, Bhumika",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.104106,
+    "EL Rate": 0.117498
+  },
+  {
+    "SSN": "xxx-xx-3797",
+    "Employee Name": "Singh, Palvinder",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.205293,
+    "EL Rate": 0.076499
+  },
+  {
+    "SSN": "xxx-xx-6829",
+    "Employee Name": "Bautista Garcia, Miguel",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.09515,
+    "EL Rate": 0.117504
+  },
+  {
+    "SSN": "xxx-xx-9601",
+    "Employee Name": "Cecilio Machado, Deyvin",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.107325,
+    "EL Rate": 0.076501
+  },
+  {
+    "SSN": "xxx-xx-5429",
+    "Employee Name": "Coronado, Lester Aguirre",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.10097,
+    "EL Rate": 0.0765
+  },
+  {
+    "SSN": "xxx-xx-8796",
+    "Employee Name": "Flores, Olvin",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.09653,
+    "EL Rate": 0.094135
+  },
+  {
+    "SSN": "xxx-xx-7347",
+    "Employee Name": "Jimenez Sanchez, Walter",
+    "Store": "Milpitas",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.115513,
+    "EL Rate": 0.077078
+  },
+  {
+    "SSN": "xxx-xx-2201",
+    "Employee Name": "Jiron Gonsalez, Alexi Jabier",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.107429,
+    "EL Rate": 0.076497
+  },
+  {
+    "SSN": "xxx-xx-5357",
+    "Employee Name": "Meneses Palofox, Hugo",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.110326,
+    "EL Rate": 0.097355
+  },
+  {
+    "SSN": "xxx-xx-3096",
+    "Employee Name": "Naraanjo Gomez, David",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.103532,
+    "EL Rate": 0.082974
+  },
+  {
+    "SSN": "xxx-xx-7122",
+    "Employee Name": "Rodriquez, Angel Demitro",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088471,
+    "EL Rate": 0.117489
+  },
+  {
+    "SSN": "xxx-xx-3281",
+    "Employee Name": "Silva Reyes, Eduardo Priscilliano",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.099562,
+    "EL Rate": 0.113141
+  },
+  {
+    "SSN": "xxx-xx-5619",
+    "Employee Name": "Singh, Diljit",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.100234,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-7058",
+    "Employee Name": "Singh, Jasroop",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.193892,
+    "EL Rate": 0.081142
+  },
+  {
+    "SSN": "xxx-xx-1952",
+    "Employee Name": "Singh, Rajinder",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.104804,
+    "EL Rate": 0.116225
+  },
+  {
+    "SSN": "xxx-xx-0785",
+    "Employee Name": "Zeas, Oscart",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.128666,
+    "EL Rate": 0.0765
+  },
+  {
+    "SSN": "xxx-xx-2241",
+    "Employee Name": "Castro, Noylin",
+    "Store": "Milpitas",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.088469,
+    "EL Rate": 0.117647
+  },
+  {
+    "SSN": "xxx-xx-9045",
+    "Employee Name": "Cervantes, Luis Maciel",
+    "Store": "Milpitas",
+    "Regular Rate": 21.5,
+    "Overtime Rate": 32.25,
+    "Tax Rate": 0.100137,
+    "EL Rate": 0.117497
+  },
+  {
+    "SSN": "xxx-xx-6218",
+    "Employee Name": "Chowdary, Jennifer",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.094941,
+    "EL Rate": 0.088193
+  },
+  {
+    "SSN": "xxx-xx-2425",
+    "Employee Name": "DEOL, KARAMJIT SINGH",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.219783,
+    "EL Rate": 0.0765
+  },
+  {
+    "SSN": "xxx-xx-5712",
+    "Employee Name": "Fernando, Simon",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088488,
+    "EL Rate": 0.117491
+  },
+  {
+    "SSN": "xxx-xx-5047",
+    "Employee Name": "Florese, Byron H",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.102663,
+    "EL Rate": 0.077487
+  },
+  {
+    "SSN": "xxx-xx-7415",
+    "Employee Name": "Gracia, Nelson Godinez",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.104166,
+    "EL Rate": 0.117503
+  },
+  {
+    "SSN": "xxx-xx-1475",
+    "Employee Name": "Harsha, Virat",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.103119,
+    "EL Rate": 0.117503
+  },
+  {
+    "SSN": "xxx-xx-8639",
+    "Employee Name": "Herrera Cruz, Dalila",
+    "Store": "Milpitas",
+    "Regular Rate": 21.0,
+    "Overtime Rate": 31.5,
+    "Tax Rate": 0.117301,
+    "EL Rate": 0.113019
+  },
+  {
+    "SSN": "xxx-xx-0625",
+    "Employee Name": "HUNDAL, BEANT SINGH",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.120597,
+    "EL Rate": 0.084444
+  },
+  {
+    "SSN": "xxx-xx-8912",
+    "Employee Name": "Kaur, Jasneet",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.187899,
+    "EL Rate": 0.09157
+  },
+  {
+    "SSN": "xxx-xx-7614",
+    "Employee Name": "Kaur, Simranpreet",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.177186,
+    "EL Rate": 0.091525
+  },
+  {
+    "SSN": "xxx-xx-1320",
+    "Employee Name": "Kumar, Bilash",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.17916,
+    "EL Rate": 0.086818
+  },
+  {
+    "SSN": "xxx-xx-6413",
+    "Employee Name": "Lal, Kandan",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.215409,
+    "EL Rate": 0.076501
+  },
+  {
+    "SSN": "xxx-xx-3862",
+    "Employee Name": "No Name Given, Vishal",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.187437,
+    "EL Rate": 0.097162
+  },
+  {
+    "SSN": "xxx-xx-3271",
+    "Employee Name": "Rani, Muskan",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.151084,
+    "EL Rate": 0.076501
+  },
+  {
+    "SSN": "xxx-xx-7252",
+    "Employee Name": "Saini, Sidhant",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088534,
+    "EL Rate": 0.117617
+  },
+  {
+    "SSN": "xxx-xx-9905",
+    "Employee Name": "SINGH, JASPAL",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.168456,
+    "EL Rate": 0.097159
+  },
+  {
+    "SSN": "xxx-xx-3391",
+    "Employee Name": "Singh, Karandeep",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.171581,
+    "EL Rate": 0.076499
+  },
+  {
+    "SSN": "xxx-xx-5913",
+    "Employee Name": "Singh, Manveer",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.152931,
+    "EL Rate": 0.117493
+  },
+  {
+    "SSN": "xxx-xx-6792",
+    "Employee Name": "Singh, Ravinder",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.167398,
+    "EL Rate": 0.0765
+  },
+  {
+    "SSN": "xxx-xx-9043",
+    "Employee Name": "Singh, Simranjeet",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.192752,
+    "EL Rate": 0.096519
+  },
+  {
+    "SSN": "xxx-xx-7796",
+    "Employee Name": "Singh, Sinderpal",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.144679,
+    "EL Rate": 0.076499
+  },
+  {
+    "SSN": "xxx-xx-4418",
+    "Employee Name": "Arturo Ortiz, Carlos",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.129309,
+    "EL Rate": 0.100803
+  },
+  {
+    "SSN": "xxx-xx-1403",
+    "Employee Name": "Coronado Rivera, Elvin",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.105163,
+    "EL Rate": 0.0765
+  },
+  {
+    "SSN": "xxx-xx-9418",
+    "Employee Name": "CORONADO, ISMAEL",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.097907,
+    "EL Rate": 0.093825
+  },
+  {
+    "SSN": "xxx-xx-6789",
+    "Employee Name": "Coronado, Juana",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.101177,
+    "EL Rate": 0.076501
+  },
+  {
+    "SSN": "xxx-xx-4607",
+    "Employee Name": "Jarquin Jarquin, Edwin",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.10113,
+    "EL Rate": 0.088
+  },
+  {
+    "SSN": "xxx-xx-1275",
+    "Employee Name": "Salazar, Freedy",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.094995,
+    "EL Rate": 0.117507
+  },
+  {
+    "SSN": "xxx-xx-5934",
+    "Employee Name": "Vicente Catalan, Axcell Marcony",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089501,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-3531",
+    "Employee Name": "Aviles Puntos, Arturo",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.08948,
+    "EL Rate": 0.117478
+  },
+  {
+    "SSN": "xxx-xx-6189",
+    "Employee Name": "Blandon Asuirre, Jimen Oliver",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.105342,
+    "EL Rate": 0.117499
+  },
+  {
+    "SSN": "xxx-xx-4568",
+    "Employee Name": "Cleveland, Will Smith",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.101178,
+    "EL Rate": 0.117496
+  },
+  {
+    "SSN": "xxx-xx-7780",
+    "Employee Name": "Kaur, Mandeep",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.098692,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-0509",
+    "Employee Name": "Meneses Garcia, Angel Yahir",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088507,
+    "EL Rate": 0.117492
+  },
+  {
+    "SSN": "xxx-xx-1906",
+    "Employee Name": "Morales Barrera, Imanol Eduardo",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.179684,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-6284",
+    "Employee Name": "Moreno, Gabriel",
+    "Store": "Milpitas",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.099591,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-4169",
+    "Employee Name": "Sanchez Sedas, Jesus",
+    "Store": "Milpitas",
+    "Regular Rate": 18.0,
+    "Overtime Rate": 27.0,
+    "Tax Rate": 0.163979,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-0256",
+    "Employee Name": "Sharma, Parveen",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.105104,
+    "EL Rate": 0.117496
+  },
+  {
+    "SSN": "xxx-xx-0051",
+    "Employee Name": "Singh, Paramjit",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.162972,
+    "EL Rate": 0.111763
+  },
+  {
+    "SSN": "xxx-xx-6497",
+    "Employee Name": "Singh, Sewak",
+    "Store": "Milpitas",
+    "Regular Rate": 17.7,
+    "Overtime Rate": 26.55,
+    "Tax Rate": 0.185696,
+    "EL Rate": 0.100021
+  },
+  {
+    "SSN": "xxx-xx-7904",
+    "Employee Name": "Vazquez Diaz, Pedro",
+    "Store": "Milpitas",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.103381,
+    "EL Rate": 0.117502
+  },
+  {
+    "SSN": "xxx-xx-7535",
+    "Employee Name": "Medha, Bhupinder Singh",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089494,
+    "EL Rate": 0.117491
+  },
+  {
+    "SSN": "xxx-xx-5381",
+    "Employee Name": "Kaur, Simranjot",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089486,
+    "EL Rate": 0.117481
+  },
+  {
+    "SSN": "xxx-xx-6239",
+    "Employee Name": "Blanco Catalan, Victor Hugo",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.111675,
+    "EL Rate": 0.111859
+  },
+  {
+    "SSN": "xxx-xx-2889",
+    "Employee Name": "Martinez, Jorge Mejia",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.088496,
+    "EL Rate": 0.117501
+  },
+  {
+    "SSN": "xxx-xx-7814",
+    "Employee Name": "Singh, Ranjit",
+    "Store": "Milpitas",
+    "Regular Rate": 18.5,
+    "Overtime Rate": 27.75,
+    "Tax Rate": 0.096584,
+    "EL Rate": 0.117502
+  },
+  {
+    "SSN": "xxx-xx-0631",
+    "Employee Name": "Singh, Jaswinder",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.096015,
+    "EL Rate": 0.112467
+  },
+  {
+    "SSN": "xxx-xx-6080",
+    "Employee Name": "KARAN, NO GIVEN NAME",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.097652,
+    "EL Rate": 0.112066
+  },
+  {
+    "SSN": "xxx-xx-1430",
+    "Employee Name": "Kaur, Parneet",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089501,
+    "EL Rate": 0.117502
+  },
+  {
+    "SSN": "xxx-xx-2044",
+    "Employee Name": "Lnu, Tamanna",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.089531,
+    "EL Rate": 0.117472
+  },
+  {
+    "SSN": "xxx-xx-4045",
+    "Employee Name": "Singh, Souravdeep",
+    "Store": "Milpitas",
+    "Regular Rate": 18.2,
+    "Overtime Rate": 27.3,
+    "Tax Rate": 0.135439,
+    "EL Rate": 0.117502
+  },
+  {
+    "SSN": "xxx-xx-3078",
+    "Employee Name": "Rivera, Ixell",
+    "Store": "Panwaari",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.101428,
+    "EL Rate": 0.1175
+  },
+  {
+    "SSN": "xxx-xx-7728",
+    "Employee Name": "Carranza, Carmen",
+    "Store": "Panwaari",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.099615,
+    "EL Rate": 0.101812
+  },
+  {
+    "SSN": "xxx-xx-7103",
+    "Employee Name": "Lemos, Grechel Martinez",
+    "Store": "Panwaari",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.089501,
+    "EL Rate": 0.116138
+  },
+  {
+    "SSN": "xxx-xx-1226",
+    "Employee Name": "Rodriguez, Bianca N",
+    "Store": "Panwaari",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.101536,
+    "EL Rate": 0.083799
+  },
+  {
+    "SSN": "xxx-xx-7325",
+    "Employee Name": "Singh, Jitendar",
+    "Store": "Panwaari",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.105175,
+    "EL Rate": 0.117504
+  },
+  {
+    "SSN": "xxx-xx-2898",
+    "Employee Name": "Tijerino, Mercedes",
+    "Store": "Panwaari",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.098375,
+    "EL Rate": 0.090785
+  },
+  {
+    "SSN": "xxx-xx-4997",
+    "Employee Name": "Amrik Singh, Rohanpreet Singh",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.146706,
+    "EL Rate": 0.107501
+  },
+  {
+    "SSN": "xxx-xx-8189",
+    "Employee Name": "Kaur, Amandip",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088495,
+    "EL Rate": 0.107505
+  },
+  {
+    "SSN": "xxx-xx-3280",
+    "Employee Name": "Kaur, Harjot",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.114603,
+    "EL Rate": 0.107501
+  },
+  {
+    "SSN": "xxx-xx-8845",
+    "Employee Name": "Kaur, Rajvinder",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.09716,
+    "EL Rate": 0.107503
+  },
+  {
+    "SSN": "xxx-xx-3010",
+    "Employee Name": "Kaur, Sandeep",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.160726,
+    "EL Rate": 0.0879
+  },
+  {
+    "SSN": "xxx-xx-3410",
+    "Employee Name": "Kaur, Simi",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.108519,
+    "EL Rate": 0.1075
+  },
+  {
+    "SSN": "xxx-xx-2957",
+    "Employee Name": "Kaur, Sukhman",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.198267,
+    "EL Rate": 0.093344
+  },
+  {
+    "SSN": "xxx-xx-1472",
+    "Employee Name": "Kaur, Tanveer",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.105411,
+    "EL Rate": 0.099489
+  },
+  {
+    "SSN": "xxx-xx-2317",
+    "Employee Name": "Leonardo, Gloria Janneth",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.095407,
+    "EL Rate": 0.106363
+  },
+  {
+    "SSN": "xxx-xx-8650",
+    "Employee Name": "Perez, Andres",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.107826,
+    "EL Rate": 0.085382
+  },
+  {
+    "SSN": "xxx-xx-9651",
+    "Employee Name": "Perez, Hellen Julissa",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.102995,
+    "EL Rate": 0.097551
+  },
+  {
+    "SSN": "xxx-xx-9185",
+    "Employee Name": "Sagar, Sagar",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.201837,
+    "EL Rate": 0.090459
+  },
+  {
+    "SSN": "xxx-xx-7419",
+    "Employee Name": "Sharma, Kavita",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.172394,
+    "EL Rate": 0.086268
+  },
+  {
+    "SSN": "xxx-xx-5612",
+    "Employee Name": "Singh, Baljot",
+    "Store": "Sunnyvale",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.088738,
+    "EL Rate": 0.094491
+  },
+  {
+    "SSN": "xxx-xx-0055",
+    "Employee Name": "Singh, Gurvinder",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.105186,
+    "EL Rate": 0.095073
+  },
+  {
+    "SSN": "xxx-xx-7690",
+    "Employee Name": "Singh, Ravneet",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.100489,
+    "EL Rate": 0.096194
+  },
+  {
+    "SSN": "xxx-xx-9827",
+    "Employee Name": "Singh, Rohan",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.0885,
+    "EL Rate": 0.080853
+  },
+  {
+    "SSN": "xxx-xx-3647",
+    "Employee Name": "Thapa, Smita",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.106628,
+    "EL Rate": 0.090962
+  },
+  {
+    "SSN": "xxx-xx-7225",
+    "Employee Name": "Thondarapu, Hymavathi",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088911,
+    "EL Rate": 0.107499
+  },
+  {
+    "SSN": "xxx-xx-0607",
+    "Employee Name": "Verma, Deepak",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.180551,
+    "EL Rate": 0.098613
+  },
+  {
+    "SSN": "xxx-xx-3232",
+    "Employee Name": "Wisnar Aza, Massiel Y",
+    "Store": "Sunnyvale",
+    "Regular Rate": 20.0,
+    "Overtime Rate": 30.0,
+    "Tax Rate": 0.089283,
+    "EL Rate": 0.107506
+  },
+  {
+    "SSN": "xxx-xx-3291",
+    "Employee Name": "Angel, Jose",
+    "Store": "Sunnyvale",
+    "Regular Rate": 25.5385,
+    "Overtime Rate": 38.3077,
+    "Tax Rate": 0.110892,
+    "EL Rate": 0.081441
+  },
+  {
+    "SSN": "xxx-xx-2963",
+    "Employee Name": "Brito, Anderson E",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.129722,
+    "EL Rate": 0.091673
+  },
+  {
+    "SSN": "xxx-xx-9188",
+    "Employee Name": "Butti, Karan",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.104189,
+    "EL Rate": 0.107499
+  },
+  {
+    "SSN": "xxx-xx-5171",
+    "Employee Name": "Calderon, Luis",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088635,
+    "EL Rate": 0.078938
+  },
+  {
+    "SSN": "xxx-xx-3816",
+    "Employee Name": "Martinez, Carlos Alberto",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.102812,
+    "EL Rate": 0.083927
+  },
+  {
+    "SSN": "xxx-xx-7683",
+    "Employee Name": "Martinez, Ivan",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.101582,
+    "EL Rate": 0.088925
+  },
+  {
+    "SSN": "xxx-xx-2413",
+    "Employee Name": "Moreno, Elvin",
+    "Store": "Sunnyvale",
+    "Regular Rate": 23.0,
+    "Overtime Rate": 34.5,
+    "Tax Rate": 0.08853,
+    "EL Rate": 0.10753
+  },
+  {
+    "SSN": "xxx-xx-3498",
+    "Employee Name": "Perez, Osman",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088506,
+    "EL Rate": 0.10751
+  },
+  {
+    "SSN": "xxx-xx-5772",
+    "Employee Name": "Rivas Mendez, Evert",
+    "Store": "Sunnyvale",
+    "Regular Rate": 27.1731,
+    "Overtime Rate": 40.7596,
+    "Tax Rate": 0.109207,
+    "EL Rate": 0.082149
+  },
+  {
+    "SSN": "xxx-xx-6000",
+    "Employee Name": "ROHIT, NO GIVEN NAME",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088501,
+    "EL Rate": 0.107503
+  },
+  {
+    "SSN": "xxx-xx-7986",
+    "Employee Name": "Sidhu, Kulwinder Singh",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.189118,
+    "EL Rate": 0.105083
+  },
+  {
+    "SSN": "xxx-xx-4246",
+    "Employee Name": "Singh, Balwinder",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.125164,
+    "EL Rate": 0.086228
+  },
+  {
+    "SSN": "xxx-xx-1489",
+    "Employee Name": "Singh, Hardev",
+    "Store": "Sunnyvale",
+    "Regular Rate": 25.5385,
+    "Overtime Rate": 38.3077,
+    "Tax Rate": 0.168875,
+    "EL Rate": 0.082091
+  },
+  {
+    "SSN": "xxx-xx-0121",
+    "Employee Name": "Alvarado Hernandez, Luis Eduardo",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.094343,
+    "EL Rate": 0.107495
+  },
+  {
+    "SSN": "xxx-xx-2744",
+    "Employee Name": "Bhatti, Rohan Kumar",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.107335,
+    "EL Rate": 0.096328
+  },
+  {
+    "SSN": "xxx-xx-4678",
+    "Employee Name": "Cruz Jiminez, Carlos",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.089472,
+    "EL Rate": 0.107451
+  },
+  {
+    "SSN": "xxx-xx-9283",
+    "Employee Name": "Jacinto, Josias",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.089487,
+    "EL Rate": 0.107521
+  },
+  {
+    "SSN": "xxx-xx-6577",
+    "Employee Name": "Manpreet Singh, No Given Name",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.125091,
+    "EL Rate": 0.107501
+  },
+  {
+    "SSN": "xxx-xx-0833",
+    "Employee Name": "Morales, Wilian Alexander",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.08949,
+    "EL Rate": 0.107501
+  },
+  {
+    "SSN": "xxx-xx-1409",
+    "Employee Name": "Pop, David",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.089498,
+    "EL Rate": 0.107501
+  },
+  {
+    "SSN": "xxx-xx-8627",
+    "Employee Name": "RUIS SOLIZ, ELY BOSVELY",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088491,
+    "EL Rate": 0.107505
+  },
+  {
+    "SSN": "xxx-xx-6248",
+    "Employee Name": "Singh, Gurwinder",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.094777,
+    "EL Rate": 0.107506
+  },
+  {
+    "SSN": "xxx-xx-1245",
+    "Employee Name": "Sioc Castro, Diego Alexandre",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.097945,
+    "EL Rate": 0.107499
+  },
+  {
+    "SSN": "xxx-xx-2856",
+    "Employee Name": "Tupui Ordonez, Elmer Fernando",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.5,
+    "Overtime Rate": 29.25,
+    "Tax Rate": 0.089501,
+    "EL Rate": 0.107498
+  },
+  {
+    "SSN": "xxx-xx-4590",
+    "Employee Name": "Cruz Molina, Leyvin Jose",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.109088,
+    "EL Rate": 0.082892
+  },
+  {
+    "SSN": "xxx-xx-4670",
+    "Employee Name": "Ortiz, Tomas",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.088487,
+    "EL Rate": 0.107488
+  },
+  {
+    "SSN": "xxx-xx-9726",
+    "Employee Name": "Suarez, Jaquelin",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.099962,
+    "EL Rate": 0.093913
+  },
+  {
+    "SSN": "xxx-xx-1311",
+    "Employee Name": "Coton-Ramirez, Fernando",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.107617,
+    "EL Rate": 0.100645
+  },
+  {
+    "SSN": "xxx-xx-4514",
+    "Employee Name": "Singh, Loverpreet",
+    "Store": "Sunnyvale",
+    "Regular Rate": 19.0,
+    "Overtime Rate": 28.5,
+    "Tax Rate": 0.155457,
+    "EL Rate": 0.107498
+  }
+]

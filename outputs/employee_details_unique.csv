@@ -1,0 +1,367 @@
+SSN,Employee Name,Store,Regular Rate,Overtime Rate,Tax Rate,EL Rate
+xxx-xx-1823,"Badillo Paz, John",AMFC,17.3,25.95,0.212019,0.083712
+xxx-xx-5979,"CARDONA CHAVARRO, LEYDI YOHANA",AMFC,17.3,25.95,0.165915,0.117499
+xxx-xx-1977,"DEEPAK, NO GIVEN NAME",AMFC,17.3,25.95,0.172316,0.117498
+xxx-xx-3052,"Gutierrez Romirez, Wilber Antonio",AMFC,17.3,25.95,0.116731,0.1175
+xxx-xx-8093,"Himanshu, Himanshu",AMFC,21.0,31.5,0.150238,0.117491
+xxx-xx-8310,"Lozano Macias, Yan Carlos",AMFC,17.3,25.95,0.223164,0.083249
+xxx-xx-3906,"MAAN, BALJINDER",AMFC,17.3,25.95,0.08849,0.117494
+xxx-xx-3399,"ONOFRE, JUAN",AMFC,17.3,25.95,0.088468,0.11747
+xxx-xx-1702,"PATIL, MITHUN",AMFC,17.3,25.95,0.100309,0.117511
+xxx-xx-3459,"RODRIGUEZ, ALEJANDRA",AMFC,17.3,25.95,0.088488,0.117495
+xxx-xx-8290,"Sanchez, Junior",AMFC,17.3,25.95,0.17064,0.117497
+xxx-xx-3178,"Singh, Harjot",AMFC,17.3,25.95,0.183727,0.114755
+xxx-xx-2969,"Singh, Harvinder",AMFC,17.3,25.95,0.170159,0.117502
+xxx-xx-9455,"Singh, Manpreet",AMFC,17.3,25.95,0.149303,0.090666
+xxx-xx-0240,"Deol, Davinder Singh",AMFC,20.0,30.0,0.113142,0.087309
+xxx-xx-3736,"SINGH, MANDEEP",AMFC,21.0,31.5,0.11756,0.085418
+xxx-xx-3749,"LNU, Aryan",AMFC,17.3,25.95,0.205427,0.088321
+xxx-xx-2107,"AGUILAR, JOSE",AMFC,20.0,30.0,0.107053,0.090226
+xxx-xx-7165,"Chavarro Luna, Laura Valentine",AMFC,17.8,26.7,0.10394,0.099311
+xxx-xx-8734,"Fernando Perez Garcia, Diego",AMFC,18.2,27.3,0.107185,0.11362
+xxx-xx-4518,"LOPEZ, ALEX CRUZ",AMFC,17.3,25.95,0.0895,0.117497
+xxx-xx-3997,"Pachon Salcedo, Duvan Andres",AMFC,17.7,26.55,0.097283,0.117494
+xxx-xx-0401,"Perez, Simeon",AMFC,18.0,27.0,0.178869,0.097147
+xxx-xx-2319,"Rivera, Junior",AMFC,17.3,25.95,0.0895,0.117499
+xxx-xx-0153,"Rodriguez, Job",AMFC,17.3,25.95,0.0895,0.117503
+xxx-xx-1869,"Singh, Atul",AMFC,17.75,26.625,0.216277,0.089605
+xxx-xx-5145,"Bocanegra Reyes, Rafael Alejandro",AMFC,17.7,26.55,0.088483,0.117456
+xxx-xx-6317,"Gajjan Singh, No Name Given",AMFC,17.75,26.625,0.104785,0.117498
+xxx-xx-6578,"Paz, Jairo",AMFC,17.75,26.625,0.089511,0.11751
+xxx-xx-9884,"Ramirez, Jaime",AMFC,18.2,27.3,0.157676,0.117499
+xxx-xx-6571,"Bajwa, Karanvir",AMFC,17.75,26.625,0.100207,0.105507
+xxx-xx-6916,"No Given Name, Jaipal",AMFC,18.2,27.3,0.098428,0.117499
+xxx-xx-3024,"Cruz Ubaldo, Aguilar",AMFC,18.5,27.75,0.098275,0.117501
+xxx-xx-5951,"Kaur, Kuljinder",Fremont,17.7,26.55,0.141589,0.076498
+xxx-xx-6289,"Kaur, Rajvir",Fremont,17.75,26.625,0.201469,0.076502
+xxx-xx-9678,"Kaur, Ramandeep",Fremont,17.75,26.625,0.156239,0.114504
+xxx-xx-5266,"Mahawar, Jyoti",Fremont,17.75,26.625,0.089115,0.115727
+xxx-xx-5041,"Malik, Aman",Fremont,17.75,26.625,0.088459,0.076514
+xxx-xx-0158,"Perez, Andrea",Fremont,17.75,26.625,0.099791,0.097491
+xxx-xx-0183,"Popal, Soman",Fremont,17.75,26.625,0.098717,0.113875
+xxx-xx-6967,"Rivera, Gricelda",Fremont,18.5,27.75,0.095953,0.113173
+xxx-xx-2018,"Sandhu, Anjali",Fremont,17.75,26.625,0.113721,0.096994
+xxx-xx-1078,"Sharma, Rahul",Fremont,17.75,26.625,0.099862,0.098473
+xxx-xx-7869,"Sheikh, Anishbhai Jafarbhai",Fremont,17.75,26.625,0.122946,0.102413
+xxx-xx-7153,"Silveria, Ana Maria",Fremont,17.75,26.625,0.096683,0.1123
+xxx-xx-6637,"Singh, Anmolprit",Fremont,17.75,26.625,0.08938,0.11626
+xxx-xx-8525,"Singh, Gurshaan",Fremont,17.75,26.625,0.171594,0.100689
+xxx-xx-0367,"Singh, Yadwinder",Fremont,17.75,26.625,0.092265,0.116013
+xxx-xx-3393,"Walahi, Asma",Fremont,17.75,26.625,0.101733,0.115676
+xxx-xx-2590,"Yadav, Sandhya",Fremont,17.75,26.625,0.134356,0.097082
+xxx-xx-6841,"Dhami, Taranjit Kaur",Fremont,25.0,37.5,0.19546,0.094055
+xxx-xx-5868,"Mathew, Michael",Fremont,17.75,26.625,0.169894,0.115833
+xxx-xx-0794,"Mathew, Raju",Fremont,28.75,43.125,0.206673,0.091717
+xxx-xx-2799,"Singh, Amrit Pal",Fremont,17.75,26.625,0.170044,0.101148
+xxx-xx-1007,"Singh, Malvinder",Fremont,27.08,40.62,0.201751,0.092657
+xxx-xx-7767,"Singh, Pinki",Fremont,20.0,30.0,0.126336,0.098409
+xxx-xx-0869,"Singh, Ravinder",Fremont,20.0,30.0,0.170684,0.098375
+xxx-xx-7482,"Singh, Sahib",Fremont,20.0,30.0,0.178545,0.098444
+xxx-xx-6932,"Singh, Sahil",Fremont,20.0,30.0,0.17866,0.098409
+xxx-xx-8648,"Godinez Martin, Eduardo",Fremont,17.75,26.625,0.103795,0.094553
+xxx-xx-6701,"Gonzalez Gonzalez, Javier",Fremont,17.75,26.625,0.146651,0.106136
+xxx-xx-2412,"Mairena Zeledon, Heyder Antonio",Fremont,17.75,26.625,0.103062,0.091349
+xxx-xx-0133,"Manuel Suar, Erick Morales",Fremont,19.0,28.5,0.148819,0.102954
+xxx-xx-0253,"Morales Panjoj, Juan Samuel",Fremont,17.75,26.625,0.089115,0.102792
+xxx-xx-6879,"Iguit Suy, Sebastian",Fremont,17.75,26.625,0.171825,0.097395
+xxx-xx-8902,"Osorio, Leonardo",Fremont,17.75,26.625,0.174801,0.097497
+xxx-xx-4314,"Santizo Gomez, Carlos Enrique",Fremont,17.75,26.625,0.089501,0.116498
+xxx-xx-7345,"Aguinaga, Elder Castiblanco",Fremont,17.75,26.625,0.09961,0.116497
+xxx-xx-1895,"Antonio Rivera, Abner",Fremont,17.75,26.625,0.101232,0.093399
+xxx-xx-2345,"Calvo Jeronimo, Diego Armando",Fremont,17.75,26.625,0.0895,0.116501
+xxx-xx-4812,"Morales Panjoj, Pedro Noe",Fremont,17.75,26.625,0.103386,0.091331
+xxx-xx-5847,"Rafael, Roger",Fremont,17.75,26.625,0.089508,0.116505
+xxx-xx-1028,"Rivera Martinez, Danis Antonio",Fremont,17.75,26.625,0.140011,0.096782
+xxx-xx-2405,"Rodriguez Bautista, Luis",Fremont,22.0,33.0,0.109333,0.088121
+xxx-xx-0780,"Silva, Leonel Cruz",Fremont,17.75,26.625,0.102502,0.109595
+xxx-xx-5184,"Ali, Syed Mufti Imran",Fremont,17.75,26.625,0.176498,0.099275
+xxx-xx-8172,"Mann, Gursewak Singh",Fremont,17.75,26.625,0.138024,0.096909
+xxx-xx-4060,"Coronado, Dixon",Fremont,23.0,34.5,0.125859,0.089067
+xxx-xx-8810,"Tirupathi, Nithish",Fremont,17.75,26.625,0.106857,0.089135
+xxx-xx-4029,"Acosta Paiva, Medely Gossuen",Fremont,17.4532,26.1798,0.181888,0.086466
+xxx-xx-1249,"Ahmed, Sajeel",Fremont,17.3,25.95,0.168259,0.1145
+xxx-xx-0978,"Antonio Gamarra, Percy",Fremont,17.75,26.625,0.096067,0.114503
+xxx-xx-4546,"Arguelio, Angel Meneses",Fremont,17.3,25.9501,0.103415,0.114501
+xxx-xx-9368,"Azar, Asma",Fremont,17.5219,26.2828,0.163841,0.093651
+xxx-xx-2818,"Balhara, Sachin",Fremont,17.7499,26.6249,0.134498,0.114501
+xxx-xx-4823,"Bellorin, Joxin",Fremont,17.75,26.625,0.09653,0.114502
+xxx-xx-2139,"Claros, Andres",Fremont,17.3,25.9499,0.101773,0.114493
+xxx-xx-6510,"Conoz, Roxana",Fremont,17.3617,26.0425,0.187188,0.08533
+xxx-xx-9715,"Coronado, Adonis",Fremont,17.3947,26.0921,0.169285,0.083297
+xxx-xx-8390,"Coronado, Alva G",Fremont,19.0,28.5,0.109145,0.1145
+xxx-xx-0945,"Coronado, Leonel",Fremont,17.3,25.95,0.105828,0.109926
+xxx-xx-8162,"Cortes, Alberto Vanquez",Fremont,17.3,25.95,0.169254,0.100848
+xxx-xx-6719,"Devi, Deeksha",Fremont,17.3,25.95,0.174328,0.114499
+xxx-xx-3663,"Faramarz, Zahra",Fremont,17.3,25.95,0.167807,0.094479
+xxx-xx-1841,"Fonseca Urrutia, Ingrid Del Carme",Fremont,17.3,25.95,0.170197,0.1145
+xxx-xx-7879,"Gonzalez, Hugo Gonzalez",Fremont,17.3945,26.0917,0.172865,0.084161
+xxx-xx-3411,"Juarez Mendez, Pablo Jesus",Fremont,17.5157,26.2736,0.168024,0.091733
+xxx-xx-4605,"Jyoti, Jyoti",Fremont,17.3,25.95,0.178147,0.114504
+xxx-xx-7827,"Karimi, Deeba",Fremont,17.4645,26.1967,0.187577,0.086283
+xxx-xx-5305,"Kaur, Baljeet",Fremont,17.75,26.625,0.166818,0.114501
+xxx-xx-8684,"Kaur, Jagdeep",Fremont,17.4312,26.1468,0.16113,0.112289
+xxx-xx-0892,"Kaur, Jaismeen",Fremont,17.3,25.95,0.2059,0.096482
+xxx-xx-3723,"Kaur, Jaismeen",Fremont,17.4385,26.1577,0.20513,0.0863
+xxx-xx-9409,"Kaur, Navdeep",Fremont,17.3,25.95,0.174192,0.099561
+xxx-xx-4213,"Kaur, Navjot",Fremont,17.42,26.13,0.177647,0.082246
+xxx-xx-2090,"Kaur, Prabhjot",Fremont,17.3,25.95,0.120679,0.1145
+xxx-xx-7383,"Kaur, Prabhjot",Fremont,17.3,25.95,0.161245,0.114499
+xxx-xx-6526,"Kaur, Simarjit",Fremont,17.3,25.95,0.212022,0.090228
+xxx-xx-4578,"Kaur, Simran",Fremont,17.3828,26.0742,0.164444,0.085831
+xxx-xx-5092,"Kaur, Sukhdeep",Fremont,17.75,26.625,0.166084,0.097425
+xxx-xx-3067,"Kenwal, Depty",Fremont,17.3,25.95,0.241266,0.113109
+xxx-xx-6427,"Khara, Jashanpreet Kaur",Fremont,17.4128,26.1192,0.15583,0.095866
+xxx-xx-9851,"Kour, Simar",Fremont,17.75,26.625,0.141956,0.114509
+xxx-xx-7070,"Kumar, Anil",Fremont,17.5008,26.2512,0.173551,0.091322
+xxx-xx-0484,"Kumar, Arvind",Fremont,17.75,26.625,0.244773,0.09907
+xxx-xx-5170,"Kumar, Arvind",Fremont,17.3947,26.0921,0.218474,0.081791
+xxx-xx-2439,"Kumar, Rajat",Fremont,17.3,25.95,0.178284,0.1145
+xxx-xx-8066,"Kumar, Satish",Fremont,17.3961,26.0941,0.19401,0.082588
+xxx-xx-7812,"Laguna, Justin",Fremont,17.3,25.95,0.101483,0.114498
+xxx-xx-9838,"Linares, Andrea",Fremont,17.3,25.95,0.168391,0.107759
+xxx-xx-7819,"Lopez Rodriguez, Carina",Fremont,17.3947,26.0921,0.127604,0.081049
+xxx-xx-5963,"Lopez Rodriguez, Rafael",Fremont,0.4286,0.6429,0.129474,0.082595
+xxx-xx-0792,"Mandava, Sraani Priya",Fremont,17.3881,26.0821,0.165097,0.087301
+xxx-xx-8408,"Mann, Inderjeet",Fremont,20.0,30.0,0.204462,0.099915
+xxx-xx-6200,"Mann, Rachpal",Fremont,20.0,30.0,0.206119,0.10025
+xxx-xx-5813,"Mann, Selena",Fremont,20.0,30.0,0.206119,0.097281
+xxx-xx-6572,"Martinez Caceres, Yasmil Efrain",Fremont,17.75,26.625,0.100485,0.114504
+xxx-xx-5293,"Montiel Saavedra, Evelin",Fremont,17.75,26.625,0.088492,0.114507
+xxx-xx-6852,"Naeen, Muhammad",Fremont,17.42,26.13,0.186022,0.082385
+xxx-xx-0210,"Ortiz Lopez, Teodulfo",Fremont,17.3,25.95,0.20414,0.107394
+xxx-xx-2573,"Pal, Parveen",Fremont,17.3947,26.0921,0.212223,0.081133
+xxx-xx-4529,"Preet, Kamal",Fremont,17.3925,26.0888,0.166654,0.08307
+xxx-xx-3975,"Puri, Rakesh",Fremont,17.75,26.625,0.122047,0.114498
+xxx-xx-5989,"Rani, Reena",Fremont,17.3,25.95,0.179799,0.1145
+xxx-xx-7682,"Recinos, Yefferson",Fremont,17.45,26.175,0.165624,0.085101
+xxx-xx-7410,"Reddy, Tara",Fremont,17.5225,26.2837,0.165442,0.101913
+xxx-xx-7988,"Reyes, Oscar",Fremont,17.4045,26.1068,0.172388,0.114499
+xxx-xx-2432,"Rohit, No Given Name",Fremont,17.3947,26.0921,0.193373,0.082464
+xxx-xx-7023,"Ruiz, Javier Reyes",Fremont,17.3,25.95,0.138786,0.098738
+xxx-xx-0976,"Saini, Gayatri",Fremont,17.4257,26.1386,0.158548,0.091317
+xxx-xx-7639,"Sanchez, Walter Jimenez",Fremont,17.3706,26.0559,0.104772,0.087846
+xxx-xx-7974,"Sediqi, Basila",Fremont,17.3,25.95,0.142933,0.1145
+xxx-xx-2868,"Shah, Syed Muhammad Aun Ali",Fremont,17.3,25.95,0.162155,0.106665
+xxx-xx-3407,"Sharma, Diksha",Fremont,17.3,25.95,0.188599,0.114501
+xxx-xx-9025,"Sheokand, Sumit",Fremont,17.3,25.95,0.201998,0.092648
+xxx-xx-4190,"Singh, Anmol",Fremont,17.3,25.95,0.212019,0.114496
+xxx-xx-3625,"Singh, Arshdeep",Fremont,17.4051,26.1076,0.159621,0.10095
+xxx-xx-8223,"Singh, Bikram",Fremont,20.0,30.0,0.206119,0.104208
+xxx-xx-8694,"Singh, Gurmeet",Fremont,17.3,25.95,0.088555,0.114566
+xxx-xx-0992,"Singh, Gurpreet",Fremont,17.75,26.625,0.164081,0.087564
+xxx-xx-0699,"Singh, Harshdeep",Fremont,17.3,25.9501,0.184242,0.114497
+xxx-xx-6761,"Singh, Jagtar",Fremont,17.3,25.95,0.154516,0.106783
+xxx-xx-5558,"Singh, Jugjeet",Fremont,17.3,25.95,0.184679,0.1145
+xxx-xx-8263,"Singh, Lovepreet",Fremont,17.3,25.95,0.088484,0.114495
+xxx-xx-3415,"Singh, Munender Jeet",Fremont,17.5571,26.3357,0.211376,0.08589
+xxx-xx-0644,"Singh, Rajvinder",Fremont,17.3,25.95,0.189667,0.096365
+xxx-xx-2197,"Singh, Ranveer",Fremont,17.3,25.95,0.228052,0.097915
+xxx-xx-6826,"Singh, Rinky",Fremont,17.3,25.95,0.166395,0.114496
+xxx-xx-0247,"Thakur, Ashmit",Fremont,17.75,26.625,0.165192,0.114502
+xxx-xx-4512,"Trillos Niebles, Claudia Patrica",Fremont,17.3947,26.0921,0.181406,0.082164
+xxx-xx-8904,"Velasquez Iguit, Ismael",Fremont,17.3,25.95,0.11322,0.097449
+xxx-xx-0176,"LNU, Nancy",Fremont,17.75,26.625,0.099894,0.108334
+xxx-xx-6252,"Manam, Neha",Fremont,17.75,26.625,0.108283,0.116488
+xxx-xx-0435,"Rawal, Aaryan",Fremont,17.75,26.625,0.096167,0.116504
+xxx-xx-5741,"Sandra, Arellano",Fremont,21.5,32.25,0.089394,0.116293
+xxx-xx-2578,"Waradkar, Shankar A",Fremont,17.75,26.625,0.103441,0.116497
+xxx-xx-5990,"LNU, PRINCE",Fremont,17.75,26.625,0.106178,0.116498
+xxx-xx-1653,"N, Neeraj",Fremont,17.75,26.625,0.109871,0.115617
+xxx-xx-6854,"Fuentes, Elena",Fremont,17.75,26.625,0.116737,0.106096
+xxx-xx-6010,"Singh, Sukhpal",Fremont,17.75,26.625,0.113408,0.114498
+xxx-xx-1727,"Lopez Rodriguez, Jesus",Karthik,19.0,28.5,0.195763,0.10288
+xxx-xx-1493,"Sharaff, Sana",Karthik,19.0,28.5,0.170737,0.132498
+xxx-xx-7684,"Singh, Harman",Karthik,19.0,28.5,0.102627,0.132505
+xxx-xx-0262,"SINGH, KARANPREET",Karthik,19.0,28.5,0.227801,0.1325
+xxx-xx-6480,"Singh, Subhdeep",Karthik,19.0,28.5,0.116923,0.1325
+xxx-xx-2486,"Unknown, Taruna",Karthik,19.0,28.5,0.144911,0.132498
+xxx-xx-8042,"Velasquez Moreno, Yader Josue",Karthik,19.0,28.5,0.227801,0.124162
+xxx-xx-9021,"Inder R, Ravi",Karthik,21.0,31.5,0.088956,0.126595
+xxx-xx-0835,"Barnwal, Indrani",Karthik,20.0,30.0,0.095298,0.1325
+xxx-xx-4501,"Bura, Vanshika",Karthik,19.0,28.5,0.0885,0.1325
+xxx-xx-5031,"Jyoti, Jyoti",Karthik,19.0,28.5,0.096229,0.108726
+xxx-xx-4255,"Kaur, Gaganpreet",Karthik,19.0,28.5,0.090279,0.112225
+xxx-xx-7650,"Kaur, Simranjeet",Karthik,19.0,28.5,0.088502,0.132501
+xxx-xx-4443,"Kumar, Ramesh",Karthik,19.0,28.5,0.088496,0.132496
+xxx-xx-4338,"Sharma, Rishab",Karthik,19.0,28.5,0.100023,0.132501
+xxx-xx-6564,"Singh, Jagseer",Karthik,19.0,28.5,0.088517,0.132506
+xxx-xx-7890,"Espinoza Flores, Ulises David",Karthik,22.0,33.0,0.088773,0.107531
+xxx-xx-2064,"Kaur, Ravinder",Karthik,19.0,28.5,0.099515,0.106052
+xxx-xx-7624,"Jochola Perez, Alan Gaspar",Karthik,19.0,28.5,0.10281,0.09206
+xxx-xx-0512,"Los Santos, Jorge Jimenez D",Karthik,19.0,28.5,0.088502,0.132501
+xxx-xx-4135,"Moreno, Elvin",Karthik,23.0,34.5,0.088502,0.132512
+xxx-xx-7922,"Rivera Lopez, Aaron Rigoberto",Karthik,19.0,28.5,0.088517,0.132512
+xxx-xx-0456,"Rivera, Armando",Karthik,19.0,28.5,0.099942,0.131904
+xxx-xx-3965,"Singh, Gurinder",Karthik,19.55,29.325,0.103821,0.091368
+xxx-xx-4267,"Yoc, Christian",Karthik,20.0,30.0,0.091423,0.132501
+xxx-xx-4517,"Gadan, Sai Kiran",Karthik,19.5,29.25,0.102338,0.119505
+xxx-xx-4545,"Centeno, Aquiles David",Karthik,19.0,28.5,0.092222,0.108221
+xxx-xx-3069,"GUSTO, VICTOR",Karthik,19.0,28.5,0.107372,0.102226
+xxx-xx-7468,"Incio, Luis",Karthik,19.0,28.5,0.0885,0.132501
+xxx-xx-4324,"Kaur, Harmanpreet",Karthik,19.0,28.5,0.088501,0.132497
+xxx-xx-2803,"Kaur, Satwinder",Karthik,19.0,28.5,0.090587,0.098856
+xxx-xx-3910,"Perez, Alfonso",Karthik,20.0,30.0,0.088506,0.132504
+xxx-xx-0955,"Punnam, Surekha",Karthik,19.0,28.5,0.098404,0.1325
+xxx-xx-4510,"Singh, Manjet",Karthik,19.0,28.5,0.100753,0.132503
+xxx-xx-4305,"Singh, Palwinder",Karthik,19.0,28.5,0.100122,0.109528
+xxx-xx-1495,"Singh, Sukhvir",Karthik,19.0,28.5,0.098342,0.1325
+xxx-xx-4567,"Torres, Felix",Karthik,19.0,28.5,0.088499,0.132499
+xxx-xx-8503,"Cortes, Zarah Elizabeth",Milpitas,18.2,27.3,0.110612,0.117499
+xxx-xx-2039,"Flores, Axel",Milpitas,18.2,27.3,0.088512,0.117503
+xxx-xx-1048,"Gonzalez, Xiomara",Milpitas,18.0,27.0,0.088455,0.117448
+xxx-xx-2952,"Jimenez, Leidi",Milpitas,18.2,27.3,0.088512,0.117496
+xxx-xx-9071,"Jobanjit Singh, No Given Name",Milpitas,18.2,27.3,0.089503,0.117494
+xxx-xx-1478,"Kaur, Avneet",Milpitas,18.2,27.3,0.089497,0.117499
+xxx-xx-9560,"Kaur, Harmeet",Milpitas,18.2,27.3,0.089501,0.117499
+xxx-xx-1510,"Kaur, Isha",Milpitas,18.2,27.3,0.0895,0.117506
+xxx-xx-2335,"Kaur, Jashandeep",Milpitas,18.2,27.3,0.173627,0.076498
+xxx-xx-8380,"Kaur, Jaskiran",Milpitas,18.2,27.3,0.089499,0.1175
+xxx-xx-8171,"Kaur, Manveer",Milpitas,18.2,27.3,0.162187,0.076499
+xxx-xx-6051,"Kaur, Preet",Milpitas,18.2,27.3,0.170796,0.102982
+xxx-xx-3221,"Laxman Shinde, Manisha",Milpitas,18.2,27.3,0.156279,0.076497
+xxx-xx-1781,"LNU, Prakshi",Milpitas,18.2,27.3,0.16379,0.107685
+xxx-xx-5362,"Maro Romero, Saray Julieta",Milpitas,18.2,27.3,0.088504,0.117502
+xxx-xx-1168,"Mohmand, Jalaluddin",Milpitas,18.2,27.3,0.099675,0.117501
+xxx-xx-6330,"Munoz, Andres",Milpitas,18.2,27.3,0.116833,0.1175
+xxx-xx-9548,"Nabizada, Fahim Ahmad",Milpitas,19.0,28.5,0.100406,0.117499
+xxx-xx-0147,"Netha, Harika",Milpitas,18.2,27.3,0.179826,0.089866
+xxx-xx-6291,"Orellana, Julissa",Milpitas,19.0,28.5,0.140778,0.117504
+xxx-xx-9320,"Rao, Avani",Milpitas,18.2,27.3,0.10097,0.116296
+xxx-xx-0573,"Rao, Pinky",Milpitas,18.2,27.3,0.098452,0.117501
+xxx-xx-0369,"Reddy, Pavan",Milpitas,18.2,27.3,0.100507,0.089427
+xxx-xx-6528,"Rivera Espinoza, Gricelda",Milpitas,18.2,27.3,0.18086,0.0765
+xxx-xx-0048,"Safary, Suraya",Milpitas,19.0,28.5,0.0885,0.076502
+xxx-xx-7396,"Sekhon, Gurwinder Singh",Milpitas,18.2,27.3,0.124941,0.103639
+xxx-xx-6454,"Singh Kang, Gurwinder",Milpitas,18.0,27.0,0.156676,0.117503
+xxx-xx-2235,"Singh, Amanpreet",Milpitas,19.0,28.5,0.169351,0.076499
+xxx-xx-0095,"SINGH, EKAMJOT",Milpitas,18.2,27.3,0.100788,0.109105
+xxx-xx-6039,"Singh, Gurpreet",Milpitas,18.2,27.3,0.099773,0.117497
+xxx-xx-6769,"Singh, Lovepreet",Milpitas,18.2,27.3,0.089097,0.117493
+xxx-xx-0258,"Singh, Mandeep",Milpitas,18.2,27.3,0.103958,0.076501
+xxx-xx-0083,"Singh, Parasdeep",Milpitas,18.2,27.3,0.128951,0.117494
+xxx-xx-7877,"Augustine, Messiah Julius",Milpitas,19.0,28.5,0.112413,0.112405
+xxx-xx-8877,"Kaur, Roopinder",Milpitas,17.7,26.55,0.178443,0.097887
+xxx-xx-3313,"Saini, Bhumika",Milpitas,17.7,26.55,0.104106,0.117498
+xxx-xx-3797,"Singh, Palvinder",Milpitas,17.7,26.55,0.205293,0.076499
+xxx-xx-6829,"Bautista Garcia, Miguel",Milpitas,17.7,26.55,0.09515,0.117504
+xxx-xx-9601,"Cecilio Machado, Deyvin",Milpitas,17.7,26.55,0.107325,0.076501
+xxx-xx-5429,"Coronado, Lester Aguirre",Milpitas,17.7,26.55,0.10097,0.0765
+xxx-xx-8796,"Flores, Olvin",Milpitas,17.7,26.55,0.09653,0.094135
+xxx-xx-7347,"Jimenez Sanchez, Walter",Milpitas,18.0,27.0,0.115513,0.077078
+xxx-xx-2201,"Jiron Gonsalez, Alexi Jabier",Milpitas,17.7,26.55,0.107429,0.076497
+xxx-xx-5357,"Meneses Palofox, Hugo",Milpitas,17.7,26.55,0.110326,0.097355
+xxx-xx-3096,"Naraanjo Gomez, David",Milpitas,17.7,26.55,0.103532,0.082974
+xxx-xx-7122,"Rodriquez, Angel Demitro",Milpitas,18.2,27.3,0.088471,0.117489
+xxx-xx-3281,"Silva Reyes, Eduardo Priscilliano",Milpitas,18.2,27.3,0.099562,0.113141
+xxx-xx-5619,"Singh, Diljit",Milpitas,18.2,27.3,0.100234,0.1175
+xxx-xx-7058,"Singh, Jasroop",Milpitas,18.2,27.3,0.193892,0.081142
+xxx-xx-1952,"Singh, Rajinder",Milpitas,17.7,26.55,0.104804,0.116225
+xxx-xx-0785,"Zeas, Oscart",Milpitas,17.7,26.55,0.128666,0.0765
+xxx-xx-2241,"Castro, Noylin",Milpitas,18.0,27.0,0.088469,0.117647
+xxx-xx-9045,"Cervantes, Luis Maciel",Milpitas,21.5,32.25,0.100137,0.117497
+xxx-xx-6218,"Chowdary, Jennifer",Milpitas,17.7,26.55,0.094941,0.088193
+xxx-xx-2425,"DEOL, KARAMJIT SINGH",Milpitas,17.7,26.55,0.219783,0.0765
+xxx-xx-5712,"Fernando, Simon",Milpitas,18.2,27.3,0.088488,0.117491
+xxx-xx-5047,"Florese, Byron H",Milpitas,17.7,26.55,0.102663,0.077487
+xxx-xx-7415,"Gracia, Nelson Godinez",Milpitas,18.2,27.3,0.104166,0.117503
+xxx-xx-1475,"Harsha, Virat",Milpitas,17.7,26.55,0.103119,0.117503
+xxx-xx-8639,"Herrera Cruz, Dalila",Milpitas,21.0,31.5,0.117301,0.113019
+xxx-xx-0625,"HUNDAL, BEANT SINGH",Milpitas,17.7,26.55,0.120597,0.084444
+xxx-xx-8912,"Kaur, Jasneet",Milpitas,17.7,26.55,0.187899,0.09157
+xxx-xx-7614,"Kaur, Simranpreet",Milpitas,17.7,26.55,0.177186,0.091525
+xxx-xx-1320,"Kumar, Bilash",Milpitas,17.7,26.55,0.17916,0.086818
+xxx-xx-6413,"Lal, Kandan",Milpitas,17.7,26.55,0.215409,0.076501
+xxx-xx-3862,"No Name Given, Vishal",Milpitas,18.2,27.3,0.187437,0.097162
+xxx-xx-3271,"Rani, Muskan",Milpitas,18.2,27.3,0.151084,0.076501
+xxx-xx-7252,"Saini, Sidhant",Milpitas,18.2,27.3,0.088534,0.117617
+xxx-xx-9905,"SINGH, JASPAL",Milpitas,18.2,27.3,0.168456,0.097159
+xxx-xx-3391,"Singh, Karandeep",Milpitas,17.7,26.55,0.171581,0.076499
+xxx-xx-5913,"Singh, Manveer",Milpitas,17.7,26.55,0.152931,0.117493
+xxx-xx-6792,"Singh, Ravinder",Milpitas,17.7,26.55,0.167398,0.0765
+xxx-xx-9043,"Singh, Simranjeet",Milpitas,17.7,26.55,0.192752,0.096519
+xxx-xx-7796,"Singh, Sinderpal",Milpitas,17.7,26.55,0.144679,0.076499
+xxx-xx-4418,"Arturo Ortiz, Carlos",Milpitas,18.2,27.3,0.129309,0.100803
+xxx-xx-1403,"Coronado Rivera, Elvin",Milpitas,17.7,26.55,0.105163,0.0765
+xxx-xx-9418,"CORONADO, ISMAEL",Milpitas,17.7,26.55,0.097907,0.093825
+xxx-xx-6789,"Coronado, Juana",Milpitas,17.7,26.55,0.101177,0.076501
+xxx-xx-4607,"Jarquin Jarquin, Edwin",Milpitas,17.7,26.55,0.10113,0.088
+xxx-xx-1275,"Salazar, Freedy",Milpitas,18.2,27.3,0.094995,0.117507
+xxx-xx-5934,"Vicente Catalan, Axcell Marcony",Milpitas,18.2,27.3,0.089501,0.1175
+xxx-xx-3531,"Aviles Puntos, Arturo",Milpitas,18.2,27.3,0.08948,0.117478
+xxx-xx-6189,"Blandon Asuirre, Jimen Oliver",Milpitas,17.7,26.55,0.105342,0.117499
+xxx-xx-4568,"Cleveland, Will Smith",Milpitas,18.2,27.3,0.101178,0.117496
+xxx-xx-7780,"Kaur, Mandeep",Milpitas,17.7,26.55,0.098692,0.1175
+xxx-xx-0509,"Meneses Garcia, Angel Yahir",Milpitas,18.2,27.3,0.088507,0.117492
+xxx-xx-1906,"Morales Barrera, Imanol Eduardo",Milpitas,18.2,27.3,0.179684,0.1175
+xxx-xx-6284,"Moreno, Gabriel",Milpitas,18.0,27.0,0.099591,0.1175
+xxx-xx-4169,"Sanchez Sedas, Jesus",Milpitas,18.0,27.0,0.163979,0.1175
+xxx-xx-0256,"Sharma, Parveen",Milpitas,17.7,26.55,0.105104,0.117496
+xxx-xx-0051,"Singh, Paramjit",Milpitas,17.7,26.55,0.162972,0.111763
+xxx-xx-6497,"Singh, Sewak",Milpitas,17.7,26.55,0.185696,0.100021
+xxx-xx-7904,"Vazquez Diaz, Pedro",Milpitas,19.0,28.5,0.103381,0.117502
+xxx-xx-7535,"Medha, Bhupinder Singh",Milpitas,18.2,27.3,0.089494,0.117491
+xxx-xx-5381,"Kaur, Simranjot",Milpitas,18.2,27.3,0.089486,0.117481
+xxx-xx-6239,"Blanco Catalan, Victor Hugo",Milpitas,18.2,27.3,0.111675,0.111859
+xxx-xx-2889,"Martinez, Jorge Mejia",Milpitas,18.2,27.3,0.088496,0.117501
+xxx-xx-7814,"Singh, Ranjit",Milpitas,18.5,27.75,0.096584,0.117502
+xxx-xx-0631,"Singh, Jaswinder",Milpitas,18.2,27.3,0.096015,0.112467
+xxx-xx-6080,"KARAN, NO GIVEN NAME",Milpitas,18.2,27.3,0.097652,0.112066
+xxx-xx-1430,"Kaur, Parneet",Milpitas,18.2,27.3,0.089501,0.117502
+xxx-xx-2044,"Lnu, Tamanna",Milpitas,18.2,27.3,0.089531,0.117472
+xxx-xx-4045,"Singh, Souravdeep",Milpitas,18.2,27.3,0.135439,0.117502
+xxx-xx-3078,"Rivera, Ixell",Panwaari,19.0,28.5,0.101428,0.1175
+xxx-xx-7728,"Carranza, Carmen",Panwaari,19.5,29.25,0.099615,0.101812
+xxx-xx-7103,"Lemos, Grechel Martinez",Panwaari,19.5,29.25,0.089501,0.116138
+xxx-xx-1226,"Rodriguez, Bianca N",Panwaari,19.5,29.25,0.101536,0.083799
+xxx-xx-7325,"Singh, Jitendar",Panwaari,19.0,28.5,0.105175,0.117504
+xxx-xx-2898,"Tijerino, Mercedes",Panwaari,19.0,28.5,0.098375,0.090785
+xxx-xx-4997,"Amrik Singh, Rohanpreet Singh",Sunnyvale,19.5,29.25,0.146706,0.107501
+xxx-xx-8189,"Kaur, Amandip",Sunnyvale,19.0,28.5,0.088495,0.107505
+xxx-xx-3280,"Kaur, Harjot",Sunnyvale,19.0,28.5,0.114603,0.107501
+xxx-xx-8845,"Kaur, Rajvinder",Sunnyvale,19.5,29.25,0.09716,0.107503
+xxx-xx-3010,"Kaur, Sandeep",Sunnyvale,19.0,28.5,0.160726,0.0879
+xxx-xx-3410,"Kaur, Simi",Sunnyvale,19.0,28.5,0.108519,0.1075
+xxx-xx-2957,"Kaur, Sukhman",Sunnyvale,19.0,28.5,0.198267,0.093344
+xxx-xx-1472,"Kaur, Tanveer",Sunnyvale,19.0,28.5,0.105411,0.099489
+xxx-xx-2317,"Leonardo, Gloria Janneth",Sunnyvale,19.0,28.5,0.095407,0.106363
+xxx-xx-8650,"Perez, Andres",Sunnyvale,19.0,28.5,0.107826,0.085382
+xxx-xx-9651,"Perez, Hellen Julissa",Sunnyvale,19.0,28.5,0.102995,0.097551
+xxx-xx-9185,"Sagar, Sagar",Sunnyvale,19.0,28.5,0.201837,0.090459
+xxx-xx-7419,"Sharma, Kavita",Sunnyvale,19.0,28.5,0.172394,0.086268
+xxx-xx-5612,"Singh, Baljot",Sunnyvale,20.0,30.0,0.088738,0.094491
+xxx-xx-0055,"Singh, Gurvinder",Sunnyvale,19.0,28.5,0.105186,0.095073
+xxx-xx-7690,"Singh, Ravneet",Sunnyvale,19.0,28.5,0.100489,0.096194
+xxx-xx-9827,"Singh, Rohan",Sunnyvale,19.0,28.5,0.0885,0.080853
+xxx-xx-3647,"Thapa, Smita",Sunnyvale,19.0,28.5,0.106628,0.090962
+xxx-xx-7225,"Thondarapu, Hymavathi",Sunnyvale,19.0,28.5,0.088911,0.107499
+xxx-xx-0607,"Verma, Deepak",Sunnyvale,19.0,28.5,0.180551,0.098613
+xxx-xx-3232,"Wisnar Aza, Massiel Y",Sunnyvale,20.0,30.0,0.089283,0.107506
+xxx-xx-3291,"Angel, Jose",Sunnyvale,25.5385,38.3077,0.110892,0.081441
+xxx-xx-2963,"Brito, Anderson E",Sunnyvale,19.0,28.5,0.129722,0.091673
+xxx-xx-9188,"Butti, Karan",Sunnyvale,19.5,29.25,0.104189,0.107499
+xxx-xx-5171,"Calderon, Luis",Sunnyvale,19.0,28.5,0.088635,0.078938
+xxx-xx-3816,"Martinez, Carlos Alberto",Sunnyvale,19.0,28.5,0.102812,0.083927
+xxx-xx-7683,"Martinez, Ivan",Sunnyvale,19.0,28.5,0.101582,0.088925
+xxx-xx-2413,"Moreno, Elvin",Sunnyvale,23.0,34.5,0.08853,0.10753
+xxx-xx-3498,"Perez, Osman",Sunnyvale,19.0,28.5,0.088506,0.10751
+xxx-xx-5772,"Rivas Mendez, Evert",Sunnyvale,27.1731,40.7596,0.109207,0.082149
+xxx-xx-6000,"ROHIT, NO GIVEN NAME",Sunnyvale,19.0,28.5,0.088501,0.107503
+xxx-xx-7986,"Sidhu, Kulwinder Singh",Sunnyvale,19.0,28.5,0.189118,0.105083
+xxx-xx-4246,"Singh, Balwinder",Sunnyvale,19.0,28.5,0.125164,0.086228
+xxx-xx-1489,"Singh, Hardev",Sunnyvale,25.5385,38.3077,0.168875,0.082091
+xxx-xx-0121,"Alvarado Hernandez, Luis Eduardo",Sunnyvale,19.0,28.5,0.094343,0.107495
+xxx-xx-2744,"Bhatti, Rohan Kumar",Sunnyvale,19.0,28.5,0.107335,0.096328
+xxx-xx-4678,"Cruz Jiminez, Carlos",Sunnyvale,19.5,29.25,0.089472,0.107451
+xxx-xx-9283,"Jacinto, Josias",Sunnyvale,19.5,29.25,0.089487,0.107521
+xxx-xx-6577,"Manpreet Singh, No Given Name",Sunnyvale,19.5,29.25,0.125091,0.107501
+xxx-xx-0833,"Morales, Wilian Alexander",Sunnyvale,19.5,29.25,0.08949,0.107501
+xxx-xx-1409,"Pop, David",Sunnyvale,19.5,29.25,0.089498,0.107501
+xxx-xx-8627,"RUIS SOLIZ, ELY BOSVELY",Sunnyvale,19.0,28.5,0.088491,0.107505
+xxx-xx-6248,"Singh, Gurwinder",Sunnyvale,19.5,29.25,0.094777,0.107506
+xxx-xx-1245,"Sioc Castro, Diego Alexandre",Sunnyvale,19.0,28.5,0.097945,0.107499
+xxx-xx-2856,"Tupui Ordonez, Elmer Fernando",Sunnyvale,19.5,29.25,0.089501,0.107498
+xxx-xx-4590,"Cruz Molina, Leyvin Jose",Sunnyvale,19.0,28.5,0.109088,0.082892
+xxx-xx-4670,"Ortiz, Tomas",Sunnyvale,19.0,28.5,0.088487,0.107488
+xxx-xx-9726,"Suarez, Jaquelin",Sunnyvale,19.0,28.5,0.099962,0.093913
+xxx-xx-1311,"Coton-Ramirez, Fernando",Sunnyvale,19.0,28.5,0.107617,0.100645
+xxx-xx-4514,"Singh, Loverpreet",Sunnyvale,19.0,28.5,0.155457,0.107498

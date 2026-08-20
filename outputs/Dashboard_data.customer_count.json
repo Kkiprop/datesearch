@@ -1,0 +1,4349 @@
+[{
+  "_id": {
+    "$oid": "68e5459aaedd594668ef667a"
+  },
+  "date": "2025-10-06",
+  "order_counts": {
+    "Sunnyvale": 1322,
+    "Milpitas": 1086,
+    "Fremont": 2095,
+    "Karthik": 321
+  },
+  "updated_at": {
+    "$date": "2025-10-07T16:53:46.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e6947baedd594668ef6b07"
+  },
+  "date": "2025-10-07",
+  "order_counts": {
+    "Sunnyvale": 1143,
+    "Fremont": 1641,
+    "Karthik": 288,
+    "Milpitas": 900
+  },
+  "updated_at": {
+    "$date": "2025-10-15T22:43:13.624Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e6a8fdaedd594668ef6b0c"
+  },
+  "date": "2025-10-08",
+  "order_counts": {
+    "Sunnyvale": 1180,
+    "Milpitas": 932,
+    "Fremont": 1763,
+    "Karthik": 284
+  },
+  "updated_at": {
+    "$date": "2025-10-09T16:44:50.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e6b3beaedd594668ef6b0d"
+  },
+  "date": "2025-10-01",
+  "order_counts": {
+    "Sunnyvale": 1169,
+    "Fremont": 1849,
+    "Karthik": 283,
+    "Milpitas": 921
+  },
+  "updated_at": {
+    "$date": "2025-10-08T22:45:36.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e6b3f9aedd594668ef6b0e"
+  },
+  "date": "2024-10-09",
+  "order_counts": {
+    "Sunnyvale": 1064,
+    "Fremont": 1584,
+    "Karthik": 251,
+    "Milpitas": 880
+  },
+  "updated_at": {
+    "$date": "2025-10-08T22:46:30.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e9394eaedd594668ef7155"
+  },
+  "date": "2025-10-09",
+  "order_counts": {
+    "Sunnyvale": 1380,
+    "Fremont": 1966,
+    "Karthik": 275,
+    "Milpitas": 981
+  },
+  "updated_at": {
+    "$date": "2025-10-17T22:45:40.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ea9071aedd594668ef74e0"
+  },
+  "date": "2025-10-10",
+  "order_counts": {
+    "Sunnyvale": 1410,
+    "Milpitas": 1030,
+    "Fremont": 2150,
+    "Karthik": 315
+  },
+  "updated_at": {
+    "$date": "2025-10-11T17:14:25.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ebe506aedd594668ef768c"
+  },
+  "date": "2025-10-11",
+  "order_counts": {
+    "Sunnyvale": 1896,
+    "Milpitas": 1328,
+    "Fremont": 2602,
+    "Karthik": 407
+  },
+  "updated_at": {
+    "$date": "2025-10-12T17:27:34.043Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ed3cdcaedd594668ef7799"
+  },
+  "date": "2025-10-12",
+  "order_counts": {
+    "Sunnyvale": 1986,
+    "Milpitas": 1425,
+    "Fremont": 3043,
+    "Karthik": 457
+  },
+  "updated_at": {
+    "$date": "2025-10-13T17:54:36.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ee8242aedd594668ef7a13"
+  },
+  "date": "2025-10-13",
+  "order_counts": {
+    "Sunnyvale": 1014,
+    "Milpitas": 881,
+    "Fremont": 1551,
+    "Karthik": 254
+  },
+  "updated_at": {
+    "$date": "2025-10-21T10:59:39.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ef86968d6bb2a44006b620"
+  },
+  "date": "2025-10-14",
+  "order_counts": {
+    "Sunnyvale": 1250,
+    "Milpitas": 1025,
+    "Fremont": 1736,
+    "Karthik": 299
+  },
+  "updated_at": {
+    "$date": "2025-10-23T06:04:44.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68efa4bf8d6bb2a44006b621"
+  },
+  "date": "2024-10-15",
+  "order_counts": {
+    "Sunnyvale": 1110,
+    "Fremont": 1545,
+    "Karthik": 238,
+    "Milpitas": 919
+  },
+  "updated_at": {
+    "$date": "2025-10-15T22:44:09.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f11ffc8d6bb2a44007623c"
+  },
+  "date": "2025-10-15",
+  "order_counts": {
+    "Sunnyvale": 1277,
+    "Fremont": 1830,
+    "Karthik": 302,
+    "Milpitas": 955
+  },
+  "updated_at": {
+    "$date": "2025-10-23T01:42:14.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f187d18d6bb2a440076240"
+  },
+  "date": "2025-10-16",
+  "order_counts": {
+    "Sunnyvale": 1506,
+    "Fremont": 2099,
+    "Karthik": 351,
+    "Milpitas": 1074
+  },
+  "updated_at": {
+    "$date": "2025-10-24T22:02:18.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f188408d6bb2a440076241"
+  },
+  "date": "2024-10-17",
+  "order_counts": {
+    "Sunnyvale": 1237,
+    "Fremont": 1692,
+    "Karthik": 264,
+    "Milpitas": 981
+  },
+  "updated_at": {
+    "$date": "2025-10-17T22:46:46.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f3ccef8d6bb2a440076613"
+  },
+  "date": "2025-10-17",
+  "order_counts": {
+    "Sunnyvale": 2017,
+    "Fremont": 2768,
+    "Karthik": 439,
+    "Milpitas": 1495
+  },
+  "updated_at": {
+    "$date": "2025-10-25T23:06:58.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f47f348d6bb2a44007675a"
+  },
+  "date": "2025-10-19",
+  "order_counts": {
+    "Sunnyvale": 2742,
+    "Milpitas": 2050,
+    "Fremont": 3645,
+    "Karthik": 602
+  },
+  "updated_at": {
+    "$date": "2025-10-28T06:06:00.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f531cb8d6bb2a44007e99c"
+  },
+  "date": "2025-10-18",
+  "order_counts": {
+    "Sunnyvale": 2382,
+    "Milpitas": 2189,
+    "Fremont": 3844,
+    "Karthik": 737
+  },
+  "updated_at": {
+    "$date": "2025-10-27T06:05:39.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f5d08c8d6bb2a44007e9d3"
+  },
+  "date": "2025-10-20",
+  "order_counts": {
+    "Sunnyvale": 2112,
+    "Milpitas": 1543,
+    "Fremont": 2671,
+    "Karthik": 517
+  },
+  "updated_at": {
+    "$date": "2025-10-29T06:04:48.763Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f7221a8d6bb2a44007ed91"
+  },
+  "date": "2025-10-21",
+  "order_counts": {
+    "Sunnyvale": 1159,
+    "Milpitas": 980,
+    "Fremont": 1598,
+    "Karthik": 236
+  },
+  "updated_at": {
+    "$date": "2025-10-30T06:04:21.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f767ce8d6bb2a44007ed97"
+  },
+  "date": "2024-10-14",
+  "order_counts": {
+    "Sunnyvale": 1167,
+    "Milpitas": 1015,
+    "Fremont": 1761,
+    "Karthik": 243
+  },
+  "updated_at": {
+    "$date": "2025-10-21T11:00:30.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fbccfbe1cd2ec3f3b6f125"
+  },
+  "date": "2025-10-23",
+  "order_counts": {
+    "Sunnyvale": 1002,
+    "Milpitas": 920,
+    "Fremont": 1647,
+    "Karthik": 261
+  },
+  "updated_at": {
+    "$date": "2025-11-01T06:04:19.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fbcd74e1cd2ec3f3b6f126"
+  },
+  "date": "2024-10-24",
+  "order_counts": {
+    "Sunnyvale": 1205,
+    "Fremont": 1679,
+    "Karthik": 290,
+    "Milpitas": 918
+  },
+  "updated_at": {
+    "$date": "2025-10-24T22:03:15.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fd2d8fe1cd2ec3f3b6f146"
+  },
+  "date": "2025-10-24",
+  "order_counts": {
+    "Sunnyvale": 1278,
+    "Milpitas": 1046,
+    "Fremont": 2098,
+    "Karthik": 307
+  },
+  "updated_at": {
+    "$date": "2025-11-02T06:04:41.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fd2e28e1cd2ec3f3b6f147"
+  },
+  "date": "2024-10-25",
+  "order_counts": {
+    "Sunnyvale": 1476,
+    "Fremont": 2296,
+    "Karthik": 325,
+    "Milpitas": 1150
+  },
+  "updated_at": {
+    "$date": "2025-10-25T23:08:08.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ff0b66e1cd2ec3f3b6f163"
+  },
+  "date": "2025-10-25",
+  "order_counts": {
+    "Sunnyvale": 1794,
+    "Milpitas": 1364,
+    "Fremont": 2599,
+    "Karthik": 411
+  },
+  "updated_at": {
+    "$date": "2025-11-03T06:05:08.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ff9d43e1cd2ec3f3b6f16e"
+  },
+  "date": "2025-10-26",
+  "order_counts": {
+    "Sunnyvale": 1665,
+    "Milpitas": 1334,
+    "Fremont": 2625,
+    "Karthik": 382
+  },
+  "updated_at": {
+    "$date": "2025-11-04T06:01:14.859Z"
+  },
+  "customer_count": {
+    "Karthik": 384,
+    "Milpitas": 1336,
+    "Sunnyvale": 1668,
+    "Fremont": 2618
+  }
+},
+{
+  "_id": {
+    "$oid": "68ff9de7e1cd2ec3f3b6f16f"
+  },
+  "date": "2024-10-27",
+  "order_counts": {
+    "Sunnyvale": 1961,
+    "Milpitas": 1730,
+    "Fremont": 2926,
+    "Karthik": 475
+  },
+  "updated_at": {
+    "$date": "2025-10-28T06:07:06.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6900f8d1e1cd2ec3f3b70322"
+  },
+  "date": "2025-10-27",
+  "order_counts": {
+    "Sunnyvale": 1042,
+    "Milpitas": 937,
+    "Fremont": 1650,
+    "Karthik": 262
+  },
+  "updated_at": {
+    "$date": "2025-11-05T06:01:04.847Z"
+  },
+  "customer_count": {
+    "Karthik": 262,
+    "Milpitas": 933,
+    "Sunnyvale": 1044,
+    "Fremont": 1645
+  }
+},
+{
+  "_id": {
+    "$oid": "69024269e1cd2ec3f3b709af"
+  },
+  "date": "2025-10-28",
+  "order_counts": {
+    "Sunnyvale": 952,
+    "Milpitas": 884,
+    "Fremont": 1632,
+    "Karthik": 257
+  },
+  "updated_at": {
+    "$date": "2025-11-06T06:01:09.142Z"
+  },
+  "customer_count": {
+    "Karthik": 257,
+    "Milpitas": 882,
+    "Sunnyvale": 953,
+    "Fremont": 1623
+  }
+},
+{
+  "_id": {
+    "$oid": "690406a4e1cd2ec3f3b71b41"
+  },
+  "date": "2025-10-29",
+  "customer_count_data": {
+    "Karthik": 221,
+    "Milpitas": 857,
+    "Sunnyvale": 977,
+    "Fremont": 1476
+  },
+  "updated_at": {
+    "$date": "2025-11-06T14:54:09.938Z"
+  },
+  "customer_count": {
+    "Karthik": 221,
+    "Milpitas": 859,
+    "Sunnyvale": 977,
+    "Fremont": 1476
+  },
+  "order_counts": {
+    "Sunnyvale": 976,
+    "Milpitas": 864,
+    "Fremont": 1486,
+    "Karthik": 220
+  }
+},
+{
+  "_id": {
+    "$oid": "690406b8e1cd2ec3f3b71b42"
+  },
+  "date": "2025-10-22",
+  "customer_count_data": {
+    "Karthik": 233,
+    "Milpitas": 851,
+    "Sunnyvale": 1028,
+    "Fremont": 1581
+  },
+  "updated_at": {
+    "$date": "2025-10-31T06:04:19.152Z"
+  },
+  "customer_count": {
+    "Karthik": 233,
+    "Milpitas": 851,
+    "Sunnyvale": 1028,
+    "Fremont": 1581
+  },
+  "order_counts": {
+    "Sunnyvale": 1025,
+    "Milpitas": 859,
+    "Fremont": 1592,
+    "Karthik": 232
+  }
+},
+{
+  "_id": {
+    "$oid": "690406fce1cd2ec3f3b71b43"
+  },
+  "date": "2024-10-29",
+  "customer_count": {
+    "Karthik": 513,
+    "Milpitas": 1611,
+    "Sunnyvale": 1949,
+    "Fremont": 2510
+  },
+  "updated_at": {
+    "$date": "2025-10-31T04:27:10.781Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690451a4e1cd2ec3f3b71b7d"
+  },
+  "date": "2024-10-30",
+  "order_counts": {
+    "Sunnyvale": 1883,
+    "Milpitas": 1564,
+    "Fremont": 2635,
+    "Karthik": 409
+  },
+  "updated_at": {
+    "$date": "2025-10-31T06:05:24.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6904e686e1cd2ec3f3b71ec3"
+  },
+  "date": "2025-10-30",
+  "order_counts": {
+    "Sunnyvale": 980,
+    "Milpitas": 857,
+    "Fremont": 1552,
+    "Karthik": 238
+  },
+  "updated_at": {
+    "$date": "2025-11-01T06:03:28.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6905a335e1cd2ec3f3b71ec9"
+  },
+  "date": "2024-10-31",
+  "order_counts": {
+    "Sunnyvale": 2234,
+    "Milpitas": 1555,
+    "Fremont": 2541,
+    "Karthik": 469
+  },
+  "updated_at": {
+    "$date": "2025-11-01T06:05:41.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69063acee1cd2ec3f3b720e8"
+  },
+  "date": "2025-10-31",
+  "order_counts": {
+    "Sunnyvale": 1104,
+    "Milpitas": 941,
+    "Fremont": 1802,
+    "Karthik": 278
+  },
+  "updated_at": {
+    "$date": "2025-11-08T23:09:22.427Z"
+  },
+  "customer_count": {
+    "Karthik": 278,
+    "Milpitas": 937,
+    "Sunnyvale": 1108
+  }
+},
+{
+  "_id": {
+    "$oid": "6906f4b4e1cd2ec3f3b720ec"
+  },
+  "date": "2024-11-01",
+  "order_counts": {
+    "Sunnyvale": 1698,
+    "Milpitas": 1402,
+    "Fremont": 2402,
+    "Karthik": 365
+  },
+  "updated_at": {
+    "$date": "2025-11-02T06:05:40.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69079119e1cd2ec3f3b72355"
+  },
+  "date": "2025-11-01",
+  "order_counts": {
+    "Sunnyvale": 1898,
+    "Milpitas": 1419,
+    "Fremont": 2554,
+    "Karthik": 445
+  },
+  "updated_at": {
+    "$date": "2025-11-09T22:17:25.589Z"
+  },
+  "customer_count": {
+    "Karthik": 449,
+    "Milpitas": 1412,
+    "Sunnyvale": 1900,
+    "Fremont": 2550
+  }
+},
+{
+  "_id": {
+    "$oid": "69084651e1cd2ec3f3b72359"
+  },
+  "date": "2024-11-02",
+  "order_counts": {
+    "Sunnyvale": 1799,
+    "Milpitas": 1527,
+    "Fremont": 2540,
+    "Karthik": 405
+  },
+  "updated_at": {
+    "$date": "2025-11-04T06:01:52.922Z"
+  },
+  "customer_count": {
+    "Karthik": 405,
+    "Milpitas": 1526,
+    "Sunnyvale": 1803,
+    "Fremont": 2522
+  }
+},
+{
+  "_id": {
+    "$oid": "6908e71fe1cd2ec3f3b72402"
+  },
+  "date": "2025-11-02",
+  "order_counts": {
+    "Sunnyvale": 1795,
+    "Milpitas": 1384,
+    "Fremont": 2854,
+    "Karthik": 429
+  },
+  "updated_at": {
+    "$date": "2025-11-10T21:13:04.302Z"
+  },
+  "customer_count": {
+    "Karthik": 436,
+    "Milpitas": 1435,
+    "Sunnyvale": 1785,
+    "Fremont": 2781
+  }
+},
+{
+  "_id": {
+    "$oid": "690a33e4e1cd2ec3f3b724b9"
+  },
+  "date": "2025-11-03",
+  "order_counts": {
+    "Sunnyvale": 1203,
+    "Milpitas": 1071,
+    "Fremont": 1880,
+    "Karthik": 278
+  },
+  "updated_at": {
+    "$date": "2025-11-12T03:17:11.533Z"
+  },
+  "customer_count": {
+    "Karthik": 251,
+    "Milpitas": 898,
+    "Sunnyvale": 1025,
+    "Fremont": 1601
+  }
+},
+{
+  "_id": {
+    "$oid": "690a4782e1cd2ec3f3b724bf"
+  },
+  "date": "2024-11-03",
+  "customer_count": {
+    "Karthik": 367,
+    "Milpitas": 1441,
+    "Sunnyvale": 1660,
+    "Fremont": 2741
+  },
+  "updated_at": {
+    "$date": "2025-11-05T06:01:36.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690b7caaaed7609899837115"
+  },
+  "date": "2025-11-04",
+  "order_counts": {
+    "Sunnyvale": 1021,
+    "Milpitas": 908,
+    "Fremont": 1599,
+    "Karthik": 270
+  },
+  "updated_at": {
+    "$date": "2025-11-06T06:00:48.542Z"
+  },
+  "customer_count": {
+    "Karthik": 254,
+    "Milpitas": 958,
+    "Sunnyvale": 1032,
+    "Fremont": 1560
+  }
+},
+{
+  "_id": {
+    "$oid": "690b7fe3aed7609899837119"
+  },
+  "date": "2024-11-04",
+  "customer_count": {
+    "Karthik": 226,
+    "Milpitas": 846,
+    "Sunnyvale": 917,
+    "Fremont": 1463
+  },
+  "updated_at": {
+    "$date": "2025-11-06T06:01:38.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690cb677aed760989983714a"
+  },
+  "date": "2025-11-05",
+  "customer_count": {
+    "Karthik": 230,
+    "Milpitas": 855,
+    "Sunnyvale": 870,
+    "Fremont": 1465
+  },
+  "updated_at": {
+    "$date": "2025-11-14T04:40:36.319Z"
+  },
+  "order_counts": {
+    "Sunnyvale": 997,
+    "Milpitas": 934,
+    "Fremont": 1535,
+    "Karthik": 236
+  }
+},
+{
+  "_id": {
+    "$oid": "690cb6afaed760989983714c"
+  },
+  "date": "2024-11-05",
+  "customer_count": {
+    "Karthik": 213,
+    "Milpitas": 846,
+    "Sunnyvale": 899,
+    "Fremont": 1468
+  },
+  "updated_at": {
+    "$date": "2025-11-06T14:54:39.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690e1de9aed76098998375f1"
+  },
+  "date": "2025-11-06",
+  "order_counts": {
+    "Sunnyvale": 906,
+    "Milpitas": 853,
+    "Fremont": 1510,
+    "Karthik": 268
+  },
+  "updated_at": {
+    "$date": "2025-11-15T06:01:02.245Z"
+  },
+  "customer_count": {
+    "Karthik": 268,
+    "Milpitas": 843,
+    "Sunnyvale": 1009,
+    "Fremont": 1544
+  }
+},
+{
+  "_id": {
+    "$oid": "690f742eaed7609899837956"
+  },
+  "date": "2025-11-07",
+  "order_counts": {
+    "Sunnyvale": 1073,
+    "Milpitas": 933,
+    "Fremont": 1834,
+    "Karthik": 261
+  },
+  "updated_at": {
+    "$date": "2025-11-16T06:00:59.051Z"
+  },
+  "customer_count": {
+    "Karthik": 320,
+    "Milpitas": 1016,
+    "Sunnyvale": 1273,
+    "Fremont": 2083
+  }
+},
+{
+  "_id": {
+    "$oid": "690fa3a6aed7609899837969"
+  },
+  "date": "2024-11-07",
+  "customer_count": {
+    "Karthik": 220,
+    "Milpitas": 833,
+    "Sunnyvale": 946,
+    "Fremont": 1587
+  },
+  "updated_at": {
+    "$date": "2025-11-08T23:10:14.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6910cb8caed7609899837baa"
+  },
+  "date": "2025-11-08",
+  "order_counts": {
+    "Sunnyvale": 1716,
+    "Milpitas": 1265,
+    "Fremont": 2354,
+    "Karthik": 407
+  },
+  "updated_at": {
+    "$date": "2025-11-17T06:01:08.983Z"
+  },
+  "customer_count": {
+    "Karthik": 401,
+    "Milpitas": 1284,
+    "Sunnyvale": 1853,
+    "Fremont": 2470
+  }
+},
+{
+  "_id": {
+    "$oid": "6910e8dfaed7609899837bae"
+  },
+  "date": "2024-11-08",
+  "customer_count": {
+    "Karthik": 276,
+    "Milpitas": 1007,
+    "Sunnyvale": 1192,
+    "Fremont": 2072
+  },
+  "updated_at": {
+    "$date": "2025-11-09T22:17:51.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69122331aed7609899837c31"
+  },
+  "date": "2025-11-09",
+  "order_counts": {
+    "Sunnyvale": 1888,
+    "Milpitas": 1305,
+    "Fremont": 2761,
+    "Karthik": 403
+  },
+  "updated_at": {
+    "$date": "2025-11-18T06:01:10.259Z"
+  },
+  "customer_count": {
+    "Karthik": 439,
+    "Milpitas": 1312,
+    "Sunnyvale": 1761,
+    "Fremont": 2676
+  }
+},
+{
+  "_id": {
+    "$oid": "69122b4baed7609899837c35"
+  },
+  "date": "2024-11-09",
+  "customer_count": {
+    "Karthik": 366,
+    "Milpitas": 1350,
+    "Sunnyvale": 1677,
+    "Fremont": 2531
+  },
+  "updated_at": {
+    "$date": "2025-11-10T21:13:31.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69136be2aed7609899837e57"
+  },
+  "date": "2025-11-10",
+  "order_counts": {
+    "Sunnyvale": 1239,
+    "Milpitas": 1056,
+    "Fremont": 1889,
+    "Karthik": 339
+  },
+  "updated_at": {
+    "$date": "2025-11-19T14:58:58.574Z"
+  },
+  "customer_count": {
+    "Karthik": 270,
+    "Milpitas": 952,
+    "Sunnyvale": 1039,
+    "Fremont": 1631
+  }
+},
+{
+  "_id": {
+    "$oid": "6913d21eaed7609899837e66"
+  },
+  "date": "2024-11-11",
+  "customer_count": {
+    "Karthik": 218,
+    "Milpitas": 895,
+    "Sunnyvale": 1038,
+    "Fremont": 1671
+  },
+  "updated_at": {
+    "$date": "2025-11-12T03:17:34.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69160850a0d8a004381a9ca2"
+  },
+  "date": "2025-11-12",
+  "order_counts": {
+    "Sunnyvale": 1083,
+    "Milpitas": 861,
+    "Fremont": 1659,
+    "Karthik": 237
+  },
+  "updated_at": {
+    "$date": "2025-11-21T06:00:46.638Z"
+  },
+  "customer_count": {
+    "Karthik": 229,
+    "Milpitas": 818,
+    "Sunnyvale": 999,
+    "Fremont": 1476
+  }
+},
+{
+  "_id": {
+    "$oid": "691641eba0d8a004381a9ca5"
+  },
+  "date": "2024-11-13",
+  "customer_count": {
+    "Karthik": 225,
+    "Milpitas": 785,
+    "Sunnyvale": 873,
+    "Fremont": 1442
+  },
+  "updated_at": {
+    "$date": "2025-11-14T04:40:56.399Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69175664a0d8a004381a9f73"
+  },
+  "date": "2025-11-13",
+  "order_counts": {
+    "Sunnyvale": 909,
+    "Milpitas": 783,
+    "Fremont": 1300,
+    "Karthik": 210
+  },
+  "updated_at": {
+    "$date": "2025-11-22T06:00:45.894Z"
+  },
+  "customer_count": {
+    "Karthik": 211,
+    "Milpitas": 744,
+    "Sunnyvale": 878,
+    "Fremont": 1338
+  }
+},
+{
+  "_id": {
+    "$oid": "69181738a0d8a004381aa324"
+  },
+  "date": "2024-11-14",
+  "customer_count": {
+    "Karthik": 245,
+    "Milpitas": 830,
+    "Sunnyvale": 872,
+    "Fremont": 1464
+  },
+  "updated_at": {
+    "$date": "2025-11-15T06:01:28.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6918ad94a0d8a004381aacce"
+  },
+  "date": "2025-11-14",
+  "order_counts": {
+    "Sunnyvale": 1053,
+    "Milpitas": 841,
+    "Fremont": 1771,
+    "Karthik": 267
+  },
+  "updated_at": {
+    "$date": "2025-11-23T06:00:51.107Z"
+  },
+  "customer_count": {
+    "Karthik": 302,
+    "Milpitas": 992,
+    "Sunnyvale": 1316,
+    "Fremont": 2018
+  }
+},
+{
+  "_id": {
+    "$oid": "691968c7a0d8a004381aacd6"
+  },
+  "date": "2024-11-15",
+  "customer_count": {
+    "Karthik": 286,
+    "Milpitas": 1004,
+    "Sunnyvale": 1148,
+    "Fremont": 1930
+  },
+  "updated_at": {
+    "$date": "2025-11-16T06:01:43.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691a058ea0d8a004381aae56"
+  },
+  "date": "2025-11-15",
+  "order_counts": {
+    "Sunnyvale": 1716,
+    "Milpitas": 1309,
+    "Fremont": 2289,
+    "Karthik": 403
+  },
+  "updated_at": {
+    "$date": "2025-11-24T06:01:14.301Z"
+  },
+  "customer_count": {
+    "Karthik": 391,
+    "Milpitas": 1304,
+    "Sunnyvale": 1764,
+    "Fremont": 2293
+  }
+},
+{
+  "_id": {
+    "$oid": "691aba40a0d8a004381aae6a"
+  },
+  "date": "2024-11-16",
+  "customer_count": {
+    "Karthik": 394,
+    "Milpitas": 1316,
+    "Sunnyvale": 1656,
+    "Fremont": 2395
+  },
+  "updated_at": {
+    "$date": "2025-11-17T06:01:36.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691b5a7aa0d8a004381aaf30"
+  },
+  "date": "2025-11-16",
+  "order_counts": {
+    "Sunnyvale": 1721,
+    "Milpitas": 1269,
+    "Fremont": 2553,
+    "Karthik": 385
+  },
+  "updated_at": {
+    "$date": "2025-11-25T06:01:09.387Z"
+  },
+  "customer_count": {
+    "Karthik": 409,
+    "Milpitas": 1361,
+    "Sunnyvale": 1736,
+    "Fremont": 2647
+  }
+},
+{
+  "_id": {
+    "$oid": "691b930ca0d8a004381aaf36"
+  },
+  "date": "2024-11-17",
+  "customer_count": {
+    "Karthik": 375,
+    "Milpitas": 1330,
+    "Sunnyvale": 1490,
+    "Fremont": 2565
+  },
+  "updated_at": {
+    "$date": "2025-11-18T06:01:39.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691ca379a0d8a004381ab152"
+  },
+  "date": "2025-11-17",
+  "order_counts": {
+    "Sunnyvale": 1221,
+    "Milpitas": 1071,
+    "Fremont": 1826,
+    "Karthik": 285
+  },
+  "updated_at": {
+    "$date": "2025-11-26T06:00:47.146Z"
+  },
+  "customer_count": {
+    "Karthik": 237,
+    "Milpitas": 865,
+    "Sunnyvale": 916,
+    "Fremont": 1373
+  }
+},
+{
+  "_id": {
+    "$oid": "691d5d2ae9b55387709239ef"
+  },
+  "date": "2024-11-18",
+  "customer_count": {
+    "Karthik": 226,
+    "Milpitas": 861,
+    "Sunnyvale": 925,
+    "Fremont": 1418
+  },
+  "updated_at": {
+    "$date": "2025-11-19T14:59:20.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691db0c9e9b5538770923b7c"
+  },
+  "date": "2025-11-18",
+  "customer_count": {
+    "Karthik": 226,
+    "Milpitas": 864,
+    "Sunnyvale": 951,
+    "Fremont": 1520
+  },
+  "updated_at": {
+    "$date": "2025-11-27T06:00:45.800Z"
+  },
+  "order_counts": {
+    "Sunnyvale": 935,
+    "Milpitas": 857,
+    "Fremont": 1443,
+    "Karthik": 238
+  }
+},
+{
+  "_id": {
+    "$oid": "691f1421e9b5538770923b9b"
+  },
+  "date": "2025-11-11",
+  "customer_count": {
+    "Karthik": 267,
+    "Milpitas": 965,
+    "Sunnyvale": 1124,
+    "Fremont": 1728
+  },
+  "updated_at": {
+    "$date": "2025-11-20T16:14:09.858Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691f1436e9b5538770923b9d"
+  },
+  "date": "2024-11-19",
+  "customer_count": {
+    "Karthik": 261,
+    "Milpitas": 828,
+    "Sunnyvale": 901,
+    "Fremont": 1438
+  },
+  "updated_at": {
+    "$date": "2025-11-20T16:14:30.283Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691f2d5ae9b5538770923ba2"
+  },
+  "date": "2025-11-19",
+  "customer_count": {
+    "Karthik": 239,
+    "Milpitas": 754,
+    "Sunnyvale": 929,
+    "Fremont": 1486
+  },
+  "updated_at": {
+    "$date": "2025-11-28T06:00:50.166Z"
+  },
+  "order_counts": {
+    "Sunnyvale": 938,
+    "Milpitas": 835,
+    "Fremont": 1509,
+    "Karthik": 207
+  }
+},
+{
+  "_id": {
+    "$oid": "691f2d77e9b5538770923ba4"
+  },
+  "date": "2024-11-20",
+  "customer_count": {
+    "Karthik": 216,
+    "Milpitas": 780,
+    "Sunnyvale": 836,
+    "Fremont": 1307
+  },
+  "updated_at": {
+    "$date": "2025-11-21T06:01:09.925Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69209116e9b55387709240ba"
+  },
+  "date": "2025-11-20",
+  "order_counts": {
+    "Sunnyvale": 970,
+    "Milpitas": 732,
+    "Fremont": 1447,
+    "Karthik": 226
+  },
+  "updated_at": {
+    "$date": "2025-11-29T06:00:50.341Z"
+  },
+  "customer_count": {
+    "Karthik": 267,
+    "Milpitas": 801,
+    "Sunnyvale": 1023,
+    "Fremont": 1441
+  }
+},
+{
+  "_id": {
+    "$oid": "692151abe9b55387709240c0"
+  },
+  "date": "2024-11-21",
+  "customer_count": {
+    "Karthik": 227,
+    "Milpitas": 803,
+    "Sunnyvale": 893,
+    "Fremont": 1477
+  },
+  "updated_at": {
+    "$date": "2025-11-22T06:01:15.208Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6921e7d1e9b553877092447a"
+  },
+  "date": "2025-11-21",
+  "order_counts": {
+    "Sunnyvale": 1087,
+    "Milpitas": 934,
+    "Fremont": 1642,
+    "Karthik": 273
+  },
+  "updated_at": {
+    "$date": "2025-11-30T06:00:53.069Z"
+  },
+  "customer_count": {
+    "Karthik": 289,
+    "Milpitas": 1006,
+    "Sunnyvale": 1268,
+    "Fremont": 1908
+  }
+},
+{
+  "_id": {
+    "$oid": "6922a330e9b553877092447e"
+  },
+  "date": "2024-11-22",
+  "customer_count": {
+    "Karthik": 226,
+    "Milpitas": 826,
+    "Sunnyvale": 904,
+    "Fremont": 1555
+  },
+  "updated_at": {
+    "$date": "2025-11-23T06:01:20.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69233feae9b5538770924552"
+  },
+  "date": "2025-11-22",
+  "order_counts": {
+    "Sunnyvale": 1600,
+    "Milpitas": 1108,
+    "Fremont": 2275,
+    "Karthik": 353
+  },
+  "updated_at": {
+    "$date": "2025-12-01T06:01:07.727Z"
+  },
+  "customer_count": {
+    "Karthik": 382,
+    "Milpitas": 1121,
+    "Sunnyvale": 1709,
+    "Fremont": 2404
+  }
+},
+{
+  "_id": {
+    "$oid": "6923f4c4e9b5538770924555"
+  },
+  "date": "2024-11-23",
+  "customer_count": {
+    "Karthik": 358,
+    "Milpitas": 1344,
+    "Sunnyvale": 1716,
+    "Fremont": 2318
+  },
+  "updated_at": {
+    "$date": "2025-11-24T06:01:40.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692470e1e9b55387709245d7"
+  },
+  "date": "2025-11-23",
+  "customer_count": {
+    "Karthik": 383,
+    "Milpitas": 1270,
+    "Sunnyvale": 1594,
+    "Fremont": 2551
+  },
+  "updated_at": {
+    "$date": "2025-12-02T06:01:20.306Z"
+  },
+  "order_counts": {
+    "Sunnyvale": 1658,
+    "Milpitas": 1232,
+    "Fremont": 2648,
+    "Karthik": 397
+  }
+},
+{
+  "_id": {
+    "$oid": "69247113e9b55387709245d9"
+  },
+  "date": "2024-11-24",
+  "customer_count": {
+    "Karthik": 374,
+    "Milpitas": 1291,
+    "Sunnyvale": 1493,
+    "Fremont": 2652
+  },
+  "updated_at": {
+    "$date": "2025-11-25T06:01:39.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6925de0ae9b55387709247fb"
+  },
+  "date": "2025-11-24",
+  "order_counts": {
+    "Sunnyvale": 1273,
+    "Milpitas": 1025,
+    "Fremont": 1845,
+    "Karthik": 291
+  },
+  "updated_at": {
+    "$date": "2025-12-03T06:00:52.274Z"
+  },
+  "customer_count": {
+    "Karthik": 267,
+    "Milpitas": 915,
+    "Sunnyvale": 1118,
+    "Fremont": 1516
+  }
+},
+{
+  "_id": {
+    "$oid": "692697a9e9b55387709247fe"
+  },
+  "date": "2024-11-25",
+  "customer_count": {
+    "Karthik": 258,
+    "Milpitas": 807,
+    "Sunnyvale": 928,
+    "Fremont": 1438
+  },
+  "updated_at": {
+    "$date": "2025-11-26T06:01:13.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69272c31e9b5538770924a22"
+  },
+  "date": "2025-11-25",
+  "order_counts": {
+    "Sunnyvale": 1132,
+    "Milpitas": 930,
+    "Fremont": 1517,
+    "Karthik": 261
+  },
+  "updated_at": {
+    "$date": "2025-12-04T06:01:17.695Z"
+  },
+  "customer_count": {
+    "Karthik": 269,
+    "Milpitas": 961,
+    "Sunnyvale": 1132,
+    "Fremont": 1650
+  }
+},
+{
+  "_id": {
+    "$oid": "69277457e9b5538770924a26"
+  },
+  "date": "2024-11-26",
+  "customer_count": {
+    "Karthik": 263,
+    "Milpitas": 932,
+    "Sunnyvale": 981,
+    "Fremont": 1654
+  },
+  "updated_at": {
+    "$date": "2025-11-27T06:01:07.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69287ee0e9b5538770924d68"
+  },
+  "date": "2025-11-26",
+  "order_counts": {
+    "Sunnyvale": 1218,
+    "Milpitas": 1009,
+    "Fremont": 1820,
+    "Karthik": 330
+  },
+  "updated_at": {
+    "$date": "2025-12-05T06:01:25.076Z"
+  },
+  "customer_count": {
+    "Karthik": 348,
+    "Milpitas": 1141,
+    "Sunnyvale": 1403,
+    "Fremont": 1984
+  }
+},
+{
+  "_id": {
+    "$oid": "69293aa7e9b5538770924d6b"
+  },
+  "date": "2024-11-27",
+  "customer_count": {
+    "Karthik": 294,
+    "Milpitas": 1044,
+    "Sunnyvale": 1239,
+    "Fremont": 1938
+  },
+  "updated_at": {
+    "$date": "2025-11-28T06:01:11.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6929d68be9b5538770925141"
+  },
+  "date": "2025-11-27",
+  "order_counts": {
+    "Sunnyvale": 1597,
+    "Milpitas": 1364,
+    "Fremont": 2238,
+    "Karthik": 320
+  },
+  "updated_at": {
+    "$date": "2025-12-06T06:01:20.889Z"
+  },
+  "customer_count": {
+    "Karthik": 260,
+    "Milpitas": 1149,
+    "Sunnyvale": 1529,
+    "Fremont": 2249
+  }
+},
+{
+  "_id": {
+    "$oid": "692a8c2ce9b5538770925145"
+  },
+  "date": "2024-11-28",
+  "customer_count": {
+    "Karthik": 239,
+    "Milpitas": 1099,
+    "Sunnyvale": 1403,
+    "Fremont": 2071
+  },
+  "updated_at": {
+    "$date": "2025-11-29T06:01:15.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692b243fe9b553877092538e"
+  },
+  "date": "2025-11-28",
+  "order_counts": {
+    "Sunnyvale": 1296,
+    "Milpitas": 902,
+    "Fremont": 2011,
+    "Karthik": 249
+  },
+  "updated_at": {
+    "$date": "2025-12-07T06:00:58.108Z"
+  },
+  "customer_count": {
+    "Karthik": 245,
+    "Milpitas": 914,
+    "Sunnyvale": 1060,
+    "Fremont": 1769
+  }
+},
+{
+  "_id": {
+    "$oid": "692bddace9b5538770925391"
+  },
+  "date": "2024-11-29",
+  "customer_count": {
+    "Karthik": 222,
+    "Milpitas": 824,
+    "Sunnyvale": 1126,
+    "Fremont": 1782
+  },
+  "updated_at": {
+    "$date": "2025-11-30T06:01:16.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692c73cde9b5538770925528"
+  },
+  "date": "2025-11-29",
+  "order_counts": {
+    "Sunnyvale": 1218,
+    "Milpitas": 993,
+    "Fremont": 1938,
+    "Karthik": 288
+  },
+  "updated_at": {
+    "$date": "2025-12-08T06:00:51.046Z"
+  },
+  "customer_count": {
+    "Karthik": 357,
+    "Milpitas": 1061,
+    "Sunnyvale": 1423,
+    "Fremont": 2036
+  }
+},
+{
+  "_id": {
+    "$oid": "692d2f37e9b553877092552b"
+  },
+  "date": "2024-11-30",
+  "customer_count": {
+    "Karthik": 253,
+    "Milpitas": 1040,
+    "Sunnyvale": 1287,
+    "Fremont": 1975
+  },
+  "updated_at": {
+    "$date": "2025-12-01T06:01:27.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692dcd5be9b5538770925576"
+  },
+  "date": "2025-11-30",
+  "order_counts": {
+    "Sunnyvale": 1539,
+    "Milpitas": 1152,
+    "Fremont": 2526,
+    "Karthik": 360
+  },
+  "updated_at": {
+    "$date": "2025-12-09T06:00:53.184Z"
+  },
+  "customer_count": {
+    "Karthik": 344,
+    "Milpitas": 1212,
+    "Sunnyvale": 1516,
+    "Fremont": 2388
+  }
+},
+{
+  "_id": {
+    "$oid": "692e80c6e9b5538770925579"
+  },
+  "date": "2024-12-01",
+  "customer_count": {
+    "Karthik": 351,
+    "Milpitas": 1206,
+    "Sunnyvale": 1360,
+    "Fremont": 2440
+  },
+  "updated_at": {
+    "$date": "2025-12-02T06:01:42.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692f185ee9b5538770925753"
+  },
+  "date": "2025-12-01",
+  "order_counts": {
+    "Sunnyvale": 1109,
+    "Milpitas": 961,
+    "Fremont": 1756,
+    "Karthik": 273
+  },
+  "updated_at": {
+    "$date": "2025-12-10T06:01:17.393Z"
+  },
+  "customer_count": {
+    "Karthik": 242,
+    "Milpitas": 873,
+    "Sunnyvale": 958,
+    "Fremont": 1505
+  }
+},
+{
+  "_id": {
+    "$oid": "692fd229e9b5538770925756"
+  },
+  "date": "2024-12-02",
+  "customer_count": {
+    "Karthik": 189,
+    "Milpitas": 865,
+    "Sunnyvale": 908,
+    "Fremont": 1471
+  },
+  "updated_at": {
+    "$date": "2025-12-03T06:01:13.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69306408e9b55387709259ed"
+  },
+  "date": "2025-12-02",
+  "order_counts": {
+    "Sunnyvale": 960,
+    "Milpitas": 870,
+    "Fremont": 1466,
+    "Karthik": 230
+  },
+  "updated_at": {
+    "$date": "2025-12-11T06:01:11.673Z"
+  },
+  "customer_count": {
+    "Karthik": 231,
+    "Milpitas": 842,
+    "Sunnyvale": 985,
+    "Fremont": 1449
+  }
+},
+{
+  "_id": {
+    "$oid": "693123c4e9b55387709259f0"
+  },
+  "date": "2024-12-03",
+  "customer_count": {
+    "Karthik": 248,
+    "Milpitas": 791,
+    "Sunnyvale": 861,
+    "Fremont": 1501
+  },
+  "updated_at": {
+    "$date": "2025-12-04T06:01:40.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6931b4cde9b5538770925c78"
+  },
+  "date": "2025-12-03",
+  "order_counts": {
+    "Sunnyvale": 951,
+    "Milpitas": 811,
+    "Fremont": 1438,
+    "Karthik": 241
+  },
+  "updated_at": {
+    "$date": "2025-12-12T06:01:15.343Z"
+  },
+  "customer_count": {
+    "Karthik": 271,
+    "Milpitas": 844,
+    "Sunnyvale": 1025,
+    "Fremont": 1438
+  }
+},
+{
+  "_id": {
+    "$oid": "69327551e9b5538770925dbb"
+  },
+  "date": "2024-12-04",
+  "customer_count": {
+    "Karthik": 209,
+    "Milpitas": 782,
+    "Sunnyvale": 842,
+    "Fremont": 1428
+  },
+  "updated_at": {
+    "$date": "2025-12-05T06:01:53.560Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69331777e9b5538770926091"
+  },
+  "date": "2025-12-04",
+  "order_counts": {
+    "Sunnyvale": 1107,
+    "Milpitas": 843,
+    "Fremont": 1455,
+    "Karthik": 268
+  },
+  "updated_at": {
+    "$date": "2025-12-13T06:00:52.328Z"
+  },
+  "customer_count": {
+    "Karthik": 264,
+    "Milpitas": 807,
+    "Sunnyvale": 1037,
+    "Fremont": 1452
+  }
+},
+{
+  "_id": {
+    "$oid": "6933c6cae9b5538770926094"
+  },
+  "date": "2024-12-05",
+  "customer_count": {
+    "Karthik": 212,
+    "Milpitas": 726,
+    "Sunnyvale": 873,
+    "Fremont": 1408
+  },
+  "updated_at": {
+    "$date": "2025-12-06T06:01:46.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69345deee9b55387709260a6"
+  },
+  "date": "2025-12-05",
+  "order_counts": {
+    "Sunnyvale": 1056,
+    "Milpitas": 847,
+    "Fremont": 1638,
+    "Karthik": 296
+  },
+  "updated_at": {
+    "$date": "2025-12-14T06:00:58.548Z"
+  },
+  "customer_count": {
+    "Karthik": 280,
+    "Milpitas": 899,
+    "Sunnyvale": 1187,
+    "Fremont": 1867
+  }
+},
+{
+  "_id": {
+    "$oid": "69351830e9b55387709260a9"
+  },
+  "date": "2024-12-06",
+  "customer_count": {
+    "Karthik": 245,
+    "Milpitas": 915,
+    "Sunnyvale": 1138,
+    "Fremont": 1840
+  },
+  "updated_at": {
+    "$date": "2025-12-07T06:01:20.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6935b301e9b5538770926519"
+  },
+  "date": "2025-12-06",
+  "order_counts": {
+    "Sunnyvale": 1567,
+    "Milpitas": 1190,
+    "Fremont": 2189,
+    "Karthik": 333
+  },
+  "updated_at": {
+    "$date": "2025-12-15T06:00:55.984Z"
+  },
+  "customer_count": {
+    "Karthik": 364,
+    "Milpitas": 1262,
+    "Sunnyvale": 1693,
+    "Fremont": 2345
+  }
+},
+{
+  "_id": {
+    "$oid": "693669aae9b553877092651c"
+  },
+  "date": "2024-12-07",
+  "customer_count": {
+    "Karthik": 357,
+    "Milpitas": 1223,
+    "Sunnyvale": 1600,
+    "Fremont": 2302
+  },
+  "updated_at": {
+    "$date": "2025-12-08T06:01:14.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937098be9b55387709265e4"
+  },
+  "date": "2025-12-07",
+  "order_counts": {
+    "Sunnyvale": 1665,
+    "Milpitas": 1304,
+    "Fremont": 2701,
+    "Karthik": 385
+  },
+  "updated_at": {
+    "$date": "2025-12-16T06:00:55.517Z"
+  },
+  "customer_count": {
+    "Karthik": 429,
+    "Milpitas": 1363,
+    "Sunnyvale": 1664,
+    "Fremont": 2639
+  }
+},
+{
+  "_id": {
+    "$oid": "6937bb2ee9b55387709265e7"
+  },
+  "date": "2024-12-08",
+  "customer_count": {
+    "Karthik": 327,
+    "Milpitas": 1247,
+    "Sunnyvale": 1452,
+    "Fremont": 2656
+  },
+  "updated_at": {
+    "$date": "2025-12-09T06:01:18.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693853cae9b553877092686c"
+  },
+  "date": "2025-12-08",
+  "order_counts": {
+    "Sunnyvale": 1236,
+    "Milpitas": 1037,
+    "Fremont": 1762,
+    "Karthik": 314
+  },
+  "updated_at": {
+    "$date": "2025-12-17T06:00:45.358Z"
+  },
+  "customer_count": {
+    "Karthik": 248,
+    "Milpitas": 863,
+    "Sunnyvale": 976,
+    "Fremont": 1448
+  }
+},
+{
+  "_id": {
+    "$oid": "69390cc7e9b553877092686f"
+  },
+  "date": "2024-12-09",
+  "customer_count": {
+    "Karthik": 190,
+    "Milpitas": 839,
+    "Sunnyvale": 871,
+    "Fremont": 1447
+  },
+  "updated_at": {
+    "$date": "2025-12-10T06:01:42.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6939a095e9b5538770926b61"
+  },
+  "date": "2025-12-09",
+  "order_counts": {
+    "Sunnyvale": 960,
+    "Milpitas": 842,
+    "Fremont": 1464,
+    "Karthik": 232
+  },
+  "updated_at": {
+    "$date": "2025-12-18T06:00:46.257Z"
+  },
+  "customer_count": {
+    "Karthik": 233,
+    "Milpitas": 777,
+    "Sunnyvale": 959,
+    "Fremont": 1367
+  }
+},
+{
+  "_id": {
+    "$oid": "693a5e3ae9b5538770926b64"
+  },
+  "date": "2024-12-10",
+  "customer_count": {
+    "Karthik": 201,
+    "Milpitas": 761,
+    "Sunnyvale": 892,
+    "Fremont": 1363
+  },
+  "updated_at": {
+    "$date": "2025-12-11T06:01:30.432Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693af24ee9b5538770926d9d"
+  },
+  "date": "2025-12-10",
+  "order_counts": {
+    "Sunnyvale": 958,
+    "Milpitas": 781,
+    "Fremont": 1337,
+    "Karthik": 227
+  },
+  "updated_at": {
+    "$date": "2025-12-19T06:00:47.876Z"
+  },
+  "customer_count": {
+    "Karthik": 218,
+    "Milpitas": 774,
+    "Sunnyvale": 937,
+    "Fremont": 1379
+  }
+},
+{
+  "_id": {
+    "$oid": "693bafc6e9b55387709270c1"
+  },
+  "date": "2024-12-11",
+  "customer_count": {
+    "Karthik": 206,
+    "Milpitas": 742,
+    "Sunnyvale": 836,
+    "Fremont": 1390
+  },
+  "updated_at": {
+    "$date": "2025-12-12T06:01:42.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693c43dde9b55387709272de"
+  },
+  "date": "2025-12-11",
+  "order_counts": {
+    "Sunnyvale": 925,
+    "Milpitas": 755,
+    "Fremont": 1442,
+    "Karthik": 235
+  },
+  "updated_at": {
+    "$date": "2025-12-20T06:00:59.634Z"
+  },
+  "customer_count": {
+    "Karthik": 242,
+    "Milpitas": 749,
+    "Sunnyvale": 908,
+    "Fremont": 1454
+  }
+},
+{
+  "_id": {
+    "$oid": "693d012fe9b55387709272e2"
+  },
+  "date": "2024-12-12",
+  "customer_count": {
+    "Karthik": 225,
+    "Milpitas": 692,
+    "Sunnyvale": 774,
+    "Fremont": 1246
+  },
+  "updated_at": {
+    "$date": "2025-12-13T06:01:19.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693d97b1e9b553877092751e"
+  },
+  "date": "2025-12-12",
+  "order_counts": {
+    "Sunnyvale": 982,
+    "Milpitas": 809,
+    "Fremont": 1699,
+    "Karthik": 273
+  },
+  "updated_at": {
+    "$date": "2025-12-21T06:00:50.103Z"
+  },
+  "customer_count": {
+    "Karthik": 283,
+    "Milpitas": 897,
+    "Sunnyvale": 1167,
+    "Fremont": 1867
+  }
+},
+{
+  "_id": {
+    "$oid": "693e52b6e9b5538770927522"
+  },
+  "date": "2024-12-13",
+  "customer_count": {
+    "Karthik": 254,
+    "Milpitas": 904,
+    "Sunnyvale": 1049,
+    "Fremont": 1921
+  },
+  "updated_at": {
+    "$date": "2025-12-14T06:01:26.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693eedefe9b553877092772d"
+  },
+  "date": "2025-12-13",
+  "order_counts": {
+    "Sunnyvale": 1503,
+    "Milpitas": 1143,
+    "Fremont": 2142,
+    "Karthik": 362
+  },
+  "updated_at": {
+    "$date": "2025-12-22T06:00:53.410Z"
+  },
+  "customer_count": {
+    "Karthik": 375,
+    "Milpitas": 1184,
+    "Sunnyvale": 1599,
+    "Fremont": 2309
+  }
+},
+{
+  "_id": {
+    "$oid": "693fa42ce9b5538770927730"
+  },
+  "date": "2024-12-14",
+  "customer_count": {
+    "Karthik": 352,
+    "Milpitas": 1179,
+    "Sunnyvale": 1500,
+    "Fremont": 2183
+  },
+  "updated_at": {
+    "$date": "2025-12-15T06:01:16.148Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69404332e9b5538770927823"
+  },
+  "date": "2025-12-14",
+  "order_counts": {
+    "Sunnyvale": 1641,
+    "Milpitas": 1237,
+    "Fremont": 2652,
+    "Karthik": 386
+  },
+  "updated_at": {
+    "$date": "2025-12-23T06:01:05.409Z"
+  },
+  "customer_count": {
+    "Karthik": 380,
+    "Milpitas": 1304,
+    "Sunnyvale": 1661,
+    "Fremont": 2580
+  }
+},
+{
+  "_id": {
+    "$oid": "6940f5b1e0a662ca1c8bdd37"
+  },
+  "date": "2024-12-15",
+  "customer_count": {
+    "Karthik": 336,
+    "Milpitas": 1206,
+    "Sunnyvale": 1488,
+    "Fremont": 2585
+  },
+  "updated_at": {
+    "$date": "2025-12-16T06:01:21.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69418f0ce0a662ca1c8be141"
+  },
+  "date": "2025-12-15",
+  "order_counts": {
+    "Sunnyvale": 1248,
+    "Milpitas": 984,
+    "Fremont": 1784,
+    "Karthik": 247
+  },
+  "updated_at": {
+    "$date": "2025-12-24T06:00:45.510Z"
+  },
+  "customer_count": {
+    "Karthik": 224,
+    "Milpitas": 866,
+    "Sunnyvale": 985,
+    "Fremont": 1492
+  }
+},
+{
+  "_id": {
+    "$oid": "69424723e0a662ca1c8be144"
+  },
+  "date": "2024-12-16",
+  "customer_count": {
+    "Karthik": 218,
+    "Milpitas": 772,
+    "Sunnyvale": 882,
+    "Fremont": 1391
+  },
+  "updated_at": {
+    "$date": "2025-12-17T06:01:07.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6942e4519b29b71946c0814d"
+  },
+  "date": "2025-12-16",
+  "order_counts": {
+    "Sunnyvale": 929,
+    "Milpitas": 850,
+    "Fremont": 1442,
+    "Karthik": 222
+  },
+  "updated_at": {
+    "$date": "2025-12-25T06:00:44.113Z"
+  },
+  "customer_count": {
+    "Karthik": 219,
+    "Milpitas": 795,
+    "Sunnyvale": 962,
+    "Fremont": 1449
+  }
+},
+{
+  "_id": {
+    "$oid": "694398a39b29b71946c08163"
+  },
+  "date": "2024-12-17",
+  "customer_count": {
+    "Karthik": 211,
+    "Milpitas": 768,
+    "Sunnyvale": 917,
+    "Fremont": 1515
+  },
+  "updated_at": {
+    "$date": "2025-12-18T06:01:07.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69442b3f9b29b71946c0831c"
+  },
+  "date": "2025-12-17",
+  "order_counts": {
+    "Sunnyvale": 981,
+    "Milpitas": 764,
+    "Fremont": 1414,
+    "Karthik": 226
+  },
+  "updated_at": {
+    "$date": "2025-12-26T06:00:44.622Z"
+  },
+  "customer_count": {
+    "Karthik": 226,
+    "Milpitas": 726,
+    "Sunnyvale": 1028,
+    "Fremont": 1420
+  }
+},
+{
+  "_id": {
+    "$oid": "6944ea239b29b71946c0833a"
+  },
+  "date": "2024-12-18",
+  "customer_count": {
+    "Karthik": 227,
+    "Milpitas": 792,
+    "Sunnyvale": 912,
+    "Fremont": 1290
+  },
+  "updated_at": {
+    "$date": "2025-12-19T06:01:07.399Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69457cf39b29b71946c084ef"
+  },
+  "date": "2025-12-18",
+  "order_counts": {
+    "Sunnyvale": 1075,
+    "Milpitas": 795,
+    "Fremont": 1544,
+    "Karthik": 236
+  },
+  "updated_at": {
+    "$date": "2025-12-27T06:00:51.990Z"
+  },
+  "customer_count": {
+    "Karthik": 228,
+    "Milpitas": 837,
+    "Sunnyvale": 1043,
+    "Fremont": 1607
+  }
+},
+{
+  "_id": {
+    "$oid": "69463bb59b29b71946c08a7c"
+  },
+  "date": "2024-12-19",
+  "customer_count": {
+    "Karthik": 218,
+    "Milpitas": 805,
+    "Sunnyvale": 905,
+    "Fremont": 1464
+  },
+  "updated_at": {
+    "$date": "2025-12-20T06:01:25.817Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6946d3939b29b71946c08c63"
+  },
+  "date": "2025-12-19",
+  "order_counts": {
+    "Sunnyvale": 1106,
+    "Milpitas": 873,
+    "Fremont": 1836,
+    "Karthik": 234
+  },
+  "updated_at": {
+    "$date": "2025-12-28T06:00:49.729Z"
+  },
+  "customer_count": {
+    "Karthik": 259,
+    "Milpitas": 938,
+    "Sunnyvale": 1276,
+    "Fremont": 1922
+  }
+},
+{
+  "_id": {
+    "$oid": "69478d319b29b71946c08c79"
+  },
+  "date": "2024-12-20",
+  "customer_count": {
+    "Karthik": 263,
+    "Milpitas": 893,
+    "Sunnyvale": 1089,
+    "Fremont": 1836
+  },
+  "updated_at": {
+    "$date": "2025-12-21T06:01:21.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694828149b29b71946c08e64"
+  },
+  "date": "2025-12-20",
+  "order_counts": {
+    "Sunnyvale": 1599,
+    "Milpitas": 1157,
+    "Fremont": 2208,
+    "Karthik": 337
+  },
+  "updated_at": {
+    "$date": "2025-12-29T06:00:48.284Z"
+  },
+  "customer_count": {
+    "Karthik": 356,
+    "Milpitas": 1159,
+    "Sunnyvale": 1628,
+    "Fremont": 2385
+  }
+},
+{
+  "_id": {
+    "$oid": "6948deaa9b29b71946c08e92"
+  },
+  "date": "2024-12-21",
+  "customer_count": {
+    "Karthik": 333,
+    "Milpitas": 1117,
+    "Sunnyvale": 1444,
+    "Fremont": 2217
+  },
+  "updated_at": {
+    "$date": "2025-12-22T06:01:14.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69497b399b29b71946c08f71"
+  },
+  "date": "2025-12-21",
+  "order_counts": {
+    "Sunnyvale": 1590,
+    "Milpitas": 1107,
+    "Fremont": 2579,
+    "Karthik": 369
+  },
+  "updated_at": {
+    "$date": "2025-12-30T06:01:09.674Z"
+  },
+  "customer_count": {
+    "Karthik": 349,
+    "Milpitas": 1125,
+    "Sunnyvale": 1566,
+    "Fremont": 2496
+  }
+},
+{
+  "_id": {
+    "$oid": "694a30389b29b71946c08f7f"
+  },
+  "date": "2024-12-22",
+  "customer_count": {
+    "Karthik": 280,
+    "Milpitas": 1095,
+    "Sunnyvale": 1363,
+    "Fremont": 2387
+  },
+  "updated_at": {
+    "$date": "2025-12-23T06:01:28.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694ac82e9b29b71946c09181"
+  },
+  "date": "2025-12-22",
+  "order_counts": {
+    "Sunnyvale": 1279,
+    "Milpitas": 907,
+    "Fremont": 1840,
+    "Karthik": 242
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:10:36.869Z"
+  },
+  "customer_count": {
+    "Karthik": 234,
+    "Milpitas": 857,
+    "Sunnyvale": 1216,
+    "Fremont": 1662
+  }
+},
+{
+  "_id": {
+    "$oid": "694b81a59b29b71946c0918c"
+  },
+  "date": "2024-12-23",
+  "customer_count": {
+    "Karthik": 238,
+    "Milpitas": 988,
+    "Sunnyvale": 1172,
+    "Fremont": 1838
+  },
+  "updated_at": {
+    "$date": "2025-12-24T06:01:09.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694c16ed9b29b71946c09323"
+  },
+  "date": "2025-12-23",
+  "order_counts": {
+    "Sunnyvale": 1240,
+    "Milpitas": 939,
+    "Fremont": 1724,
+    "Karthik": 253
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:07:02.910Z"
+  },
+  "customer_count": {
+    "Karthik": 241,
+    "Milpitas": 989,
+    "Sunnyvale": 1236,
+    "Fremont": 1752
+  }
+},
+{
+  "_id": {
+    "$oid": "694cd3219b29b71946c09336"
+  },
+  "date": "2024-12-24",
+  "customer_count": {
+    "Karthik": 311,
+    "Milpitas": 1102,
+    "Sunnyvale": 1398,
+    "Fremont": 2107
+  },
+  "updated_at": {
+    "$date": "2025-12-25T06:01:05.022Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694d6abb9b29b71946c09504"
+  },
+  "date": "2025-12-24",
+  "order_counts": {
+    "Sunnyvale": 1419,
+    "Milpitas": 1132,
+    "Fremont": 1968,
+    "Karthik": 259
+  },
+  "updated_at": {
+    "$date": "2026-01-02T06:01:00.274Z"
+  },
+  "customer_count": {
+    "Karthik": 273,
+    "Milpitas": 1217,
+    "Sunnyvale": 1535,
+    "Fremont": 2087
+  }
+},
+{
+  "_id": {
+    "$oid": "694e24a09b29b71946c0952f"
+  },
+  "date": "2024-12-25",
+  "customer_count": {
+    "Karthik": 212,
+    "Milpitas": 973,
+    "Sunnyvale": 1455,
+    "Fremont": 2083
+  },
+  "updated_at": {
+    "$date": "2025-12-26T06:01:04.154Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694ebe7d9b29b71946c095a1"
+  },
+  "date": "2025-12-25",
+  "order_counts": {
+    "Sunnyvale": 1563,
+    "Milpitas": 1118,
+    "Fremont": 2188,
+    "Karthik": 274
+  },
+  "updated_at": {
+    "$date": "2026-01-03T06:00:48.384Z"
+  },
+  "customer_count": {
+    "Karthik": 219,
+    "Milpitas": 926,
+    "Sunnyvale": 1450,
+    "Fremont": 2051
+  }
+},
+{
+  "_id": {
+    "$oid": "694f762d9b29b71946c09613"
+  },
+  "date": "2024-12-26",
+  "customer_count": {
+    "Karthik": 199,
+    "Milpitas": 771,
+    "Sunnyvale": 1064,
+    "Fremont": 1556
+  },
+  "updated_at": {
+    "$date": "2025-12-27T06:01:17.379Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69500e769b29b71946c09780"
+  },
+  "date": "2025-12-26",
+  "order_counts": {
+    "Sunnyvale": 1318,
+    "Milpitas": 894,
+    "Fremont": 1831,
+    "Karthik": 238
+  },
+  "updated_at": {
+    "$date": "2025-12-28T06:00:30.077Z"
+  },
+  "customer_count": {
+    "Karthik": 279,
+    "Milpitas": 911,
+    "Sunnyvale": 1266,
+    "Fremont": 1776
+  }
+},
+{
+  "_id": {
+    "$oid": "6950c7b59b29b71946c09799"
+  },
+  "date": "2024-12-27",
+  "customer_count": {
+    "Karthik": 240,
+    "Milpitas": 891,
+    "Sunnyvale": 1176,
+    "Fremont": 1999
+  },
+  "updated_at": {
+    "$date": "2025-12-28T06:01:24.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69515d549b29b71946c09b92"
+  },
+  "date": "2025-12-27",
+  "order_counts": {
+    "Sunnyvale": 1310,
+    "Milpitas": 957,
+    "Fremont": 1854,
+    "Karthik": 282
+  },
+  "updated_at": {
+    "$date": "2025-12-29T06:00:29.124Z"
+  },
+  "customer_count": {
+    "Karthik": 298,
+    "Milpitas": 974,
+    "Sunnyvale": 1362,
+    "Fremont": 1977
+  }
+},
+{
+  "_id": {
+    "$oid": "695219279b29b71946c09bb9"
+  },
+  "date": "2024-12-28",
+  "customer_count": {
+    "Karthik": 275,
+    "Milpitas": 1041,
+    "Sunnyvale": 1273,
+    "Fremont": 2058
+  },
+  "updated_at": {
+    "$date": "2025-12-29T06:01:11.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6952b2f29b29b71946c09e2e"
+  },
+  "date": "2025-12-28",
+  "order_counts": {
+    "Sunnyvale": 1387,
+    "Milpitas": 1033,
+    "Fremont": 2319,
+    "Karthik": 283
+  },
+  "updated_at": {
+    "$date": "2025-12-30T06:00:43.332Z"
+  },
+  "customer_count": {
+    "Karthik": 269,
+    "Milpitas": 1048,
+    "Sunnyvale": 1449,
+    "Fremont": 2296
+  }
+},
+{
+  "_id": {
+    "$oid": "69536abf9b29b71946c09e4c"
+  },
+  "date": "2024-12-29",
+  "customer_count": {
+    "Karthik": 275,
+    "Milpitas": 1055,
+    "Sunnyvale": 1285,
+    "Fremont": 2323
+  },
+  "updated_at": {
+    "$date": "2025-12-30T06:01:35.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6954013c9b29b71946c0a271"
+  },
+  "date": "2025-12-29",
+  "order_counts": {
+    "Sunnyvale": 1302,
+    "Milpitas": 919,
+    "Fremont": 1804,
+    "Karthik": 249
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:10:17.138Z"
+  },
+  "customer_count": {
+    "Karthik": 261,
+    "Milpitas": 945,
+    "Sunnyvale": 1230,
+    "Fremont": 1761
+  }
+},
+{
+  "_id": {
+    "$oid": "69575f079b29b71946c0a293"
+  },
+  "date": "2025-12-31",
+  "customer_count": {
+    "Karthik": 314,
+    "Milpitas": 1136,
+    "Sunnyvale": 1307,
+    "Fremont": 1931
+  },
+  "updated_at": {
+    "$date": "2026-01-09T06:00:48.759Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69575f339b29b71946c0a295"
+  },
+  "date": "2024-01-03",
+  "customer_count": {
+    "Karthik": 244,
+    "Milpitas": 631,
+    "Sunnyvale": 1033,
+    "Fremont": 1328
+  },
+  "updated_at": {
+    "$date": "2026-01-02T06:01:23.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6958b07b9b29b71946c0a2ce"
+  },
+  "date": "2026-01-01",
+  "customer_count": {
+    "Karthik": 249,
+    "Milpitas": 1076,
+    "Sunnyvale": 1549,
+    "Fremont": 2055
+  },
+  "updated_at": {
+    "$date": "2026-01-10T06:01:17.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6958b0a99b29b71946c0a2d0"
+  },
+  "date": "2025-01-02",
+  "customer_count": {
+    "Karthik": 258,
+    "Milpitas": 898,
+    "Sunnyvale": 1089,
+    "Fremont": 1627
+  },
+  "updated_at": {
+    "$date": "2026-01-03T06:01:13.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695be79a9b29b71946c0a34a"
+  },
+  "date": "2026-01-04",
+  "order_counts": {
+    "Fremont": 2431,
+    "Sunnyvale": 1702,
+    "Karthik": 375,
+    "Milpitas": 1263
+  },
+  "updated_at": {
+    "$date": "2026-01-13T06:01:13.241Z"
+  },
+  "customer_count": {
+    "Karthik": 381,
+    "Milpitas": 1206,
+    "Sunnyvale": 1595,
+    "Fremont": 2363
+  }
+},
+{
+  "_id": {
+    "$oid": "695d38959b29b71946c0a34e"
+  },
+  "date": "2026-01-05",
+  "order_counts": {
+    "Fremont": 1864,
+    "Sunnyvale": 1311,
+    "Karthik": 310,
+    "Milpitas": 974
+  },
+  "updated_at": {
+    "$date": "2026-01-14T06:00:40.226Z"
+  },
+  "customer_count": {
+    "Karthik": 237,
+    "Milpitas": 820,
+    "Sunnyvale": 961,
+    "Fremont": 1457
+  }
+},
+{
+  "_id": {
+    "$oid": "695e82b39b29b71946c0a362"
+  },
+  "date": "2026-01-06",
+  "order_counts": {
+    "Fremont": 1483,
+    "Sunnyvale": 940,
+    "Karthik": 235,
+    "Milpitas": 875
+  },
+  "updated_at": {
+    "$date": "2026-01-15T06:00:42.310Z"
+  },
+  "customer_count": {
+    "Karthik": 273,
+    "Milpitas": 927,
+    "Sunnyvale": 1107,
+    "Fremont": 1618
+  }
+},
+{
+  "_id": {
+    "$oid": "6960997c9b29b71946c0a3a3"
+  },
+  "date": "2026-01-07",
+  "customer_count": {
+    "Karthik": 252,
+    "Milpitas": 859,
+    "Sunnyvale": 1029,
+    "Fremont": 1517
+  },
+  "updated_at": {
+    "$date": "2026-01-16T06:00:42.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696099a49b29b71946c0a3a5"
+  },
+  "date": "2025-01-08",
+  "customer_count": {
+    "Karthik": 245,
+    "Milpitas": 821,
+    "Sunnyvale": 988,
+    "Fremont": 1465
+  },
+  "updated_at": {
+    "$date": "2026-01-09T06:01:08.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6961eb129b29b71946c0a456"
+  },
+  "date": "2026-01-08",
+  "customer_count": {
+    "Karthik": 238,
+    "Milpitas": 826,
+    "Sunnyvale": 1083,
+    "Fremont": 1477
+  },
+  "updated_at": {
+    "$date": "2026-01-17T06:00:42.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6961eb3f9b29b71946c0a458"
+  },
+  "date": "2025-01-09",
+  "customer_count": {
+    "Karthik": 209,
+    "Milpitas": 789,
+    "Sunnyvale": 984,
+    "Fremont": 1478
+  },
+  "updated_at": {
+    "$date": "2026-01-10T06:01:35.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69633c7c9b29b71946c0bea6"
+  },
+  "date": "2026-01-09",
+  "customer_count": {
+    "Karthik": 295,
+    "Milpitas": 964,
+    "Sunnyvale": 1333,
+    "Fremont": 1957
+  },
+  "updated_at": {
+    "$date": "2026-01-18T06:00:47.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69633c8f9b29b71946c0bea8"
+  },
+  "date": "2026-01-02",
+  "customer_count": {
+    "Karthik": 354,
+    "Milpitas": 1065,
+    "Sunnyvale": 1423,
+    "Fremont": 2134
+  },
+  "updated_at": {
+    "$date": "2026-01-11T06:00:46.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69633ca69b29b71946c0beaa"
+  },
+  "date": "2025-01-10",
+  "customer_count": {
+    "Karthik": 273,
+    "Milpitas": 960,
+    "Sunnyvale": 1212,
+    "Fremont": 2004
+  },
+  "updated_at": {
+    "$date": "2026-01-11T06:01:10.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69648e009b29b71946c0c240"
+  },
+  "date": "2026-01-10",
+  "customer_count": {
+    "Karthik": 389,
+    "Milpitas": 1358,
+    "Sunnyvale": 2043,
+    "Fremont": 2627
+  },
+  "updated_at": {
+    "$date": "2026-01-19T06:00:48.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69648e149b29b71946c0c242"
+  },
+  "date": "2026-01-03",
+  "customer_count": {
+    "Karthik": 372,
+    "Milpitas": 1297,
+    "Sunnyvale": 1835,
+    "Fremont": 2457
+  },
+  "updated_at": {
+    "$date": "2026-01-12T06:00:52.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69648e299b29b71946c0c244"
+  },
+  "date": "2025-01-11",
+  "customer_count": {
+    "Karthik": 354,
+    "Milpitas": 1406,
+    "Sunnyvale": 1876,
+    "Fremont": 2592
+  },
+  "updated_at": {
+    "$date": "2026-01-12T06:01:13.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6965df94f54c31bb1e54617a"
+  },
+  "date": "2026-01-11",
+  "customer_count": {
+    "Karthik": 452,
+    "Milpitas": 1403,
+    "Sunnyvale": 1879,
+    "Fremont": 2877
+  },
+  "updated_at": {
+    "$date": "2026-01-20T06:00:51.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6965dfc6f54c31bb1e54617d"
+  },
+  "date": "2025-01-12",
+  "customer_count": {
+    "Karthik": 413,
+    "Milpitas": 1519,
+    "Sunnyvale": 1868,
+    "Fremont": 2990
+  },
+  "updated_at": {
+    "$date": "2026-01-13T06:01:41.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696730f9f54c31bb1e546534"
+  },
+  "date": "2026-01-12",
+  "customer_count": {
+    "Karthik": 262,
+    "Milpitas": 918,
+    "Sunnyvale": 1180,
+    "Fremont": 1641
+  },
+  "updated_at": {
+    "$date": "2026-01-21T06:00:50.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6967311df54c31bb1e546536"
+  },
+  "date": "2025-01-13",
+  "customer_count": {
+    "Karthik": 297,
+    "Milpitas": 1031,
+    "Sunnyvale": 1168,
+    "Fremont": 1814
+  },
+  "updated_at": {
+    "$date": "2026-01-14T06:01:01.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69688279f54c31bb1e546b38"
+  },
+  "date": "2026-01-13",
+  "customer_count": {
+    "Karthik": 319,
+    "Milpitas": 958,
+    "Sunnyvale": 1235,
+    "Fremont": 1784
+  },
+  "updated_at": {
+    "$date": "2026-01-22T06:00:42.560Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6968829cf54c31bb1e546b3b"
+  },
+  "date": "2025-01-14",
+  "customer_count": {
+    "Karthik": 240,
+    "Milpitas": 898,
+    "Sunnyvale": 958,
+    "Fremont": 1514
+  },
+  "updated_at": {
+    "$date": "2026-01-15T06:01:00.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6969d3fa659d5ef78d24e169"
+  },
+  "date": "2026-01-14",
+  "customer_count": {
+    "Karthik": 303,
+    "Milpitas": 956,
+    "Sunnyvale": 1105,
+    "Fremont": 1622
+  },
+  "updated_at": {
+    "$date": "2026-01-23T06:00:39.781Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6969d424659d5ef78d24e16b"
+  },
+  "date": "2025-01-15",
+  "customer_count": {
+    "Karthik": 202,
+    "Milpitas": 788,
+    "Sunnyvale": 876,
+    "Fremont": 1351
+  },
+  "updated_at": {
+    "$date": "2026-01-16T06:01:08.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696b2579659d5ef78d24e74c"
+  },
+  "date": "2026-01-15",
+  "customer_count": {
+    "Karthik": 249,
+    "Milpitas": 838,
+    "Sunnyvale": 1031,
+    "Fremont": 1406
+  },
+  "updated_at": {
+    "$date": "2026-01-24T06:00:42.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696b25a0659d5ef78d24e74e"
+  },
+  "date": "2025-01-16",
+  "customer_count": {
+    "Karthik": 228,
+    "Milpitas": 816,
+    "Sunnyvale": 965,
+    "Fremont": 1504
+  },
+  "updated_at": {
+    "$date": "2026-01-17T06:01:04.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696ba582659d5ef78d24ec15"
+  },
+  "date": "2025-12-30",
+  "customer_count": {
+    "Karthik": 249,
+    "Milpitas": 1042,
+    "Sunnyvale": 1345,
+    "Fremont": 1989
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:06:41.473Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696ba5ab659d5ef78d24ec17"
+  },
+  "date": "2024-01-02",
+  "customer_count": {
+    "Karthik": 216,
+    "Milpitas": 572,
+    "Sunnyvale": 1098,
+    "Fremont": 1236
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:07:22.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696ba682659d5ef78d24ec19"
+  },
+  "date": "2024-01-01",
+  "customer_count": {
+    "Karthik": 228,
+    "Milpitas": 690,
+    "Sunnyvale": 1534,
+    "Fremont": 1803
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:10:57.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696c76fc659d5ef78d24ec49"
+  },
+  "date": "2026-01-16",
+  "customer_count": {
+    "Karthik": 300,
+    "Milpitas": 1011,
+    "Sunnyvale": 1383,
+    "Fremont": 1948
+  },
+  "updated_at": {
+    "$date": "2026-01-25T06:00:45.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696c772b659d5ef78d24ec4b"
+  },
+  "date": "2025-01-17",
+  "customer_count": {
+    "Karthik": 272,
+    "Milpitas": 963,
+    "Sunnyvale": 1275,
+    "Fremont": 1967
+  },
+  "updated_at": {
+    "$date": "2026-01-18T06:01:14.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696dc87c659d5ef78d24efa1"
+  },
+  "date": "2026-01-17",
+  "customer_count": {
+    "Karthik": 402,
+    "Milpitas": 1253,
+    "Sunnyvale": 1840,
+    "Fremont": 2361
+  },
+  "updated_at": {
+    "$date": "2026-01-26T06:01:08.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696dc8a1659d5ef78d24efa3"
+  },
+  "date": "2025-01-18",
+  "customer_count": {
+    "Karthik": 361,
+    "Milpitas": 1278,
+    "Sunnyvale": 1719,
+    "Fremont": 2351
+  },
+  "updated_at": {
+    "$date": "2026-01-19T06:01:05.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696f19fd659d5ef78d24f226"
+  },
+  "date": "2026-01-18",
+  "customer_count": {
+    "Karthik": 401,
+    "Milpitas": 1273,
+    "Sunnyvale": 1800,
+    "Fremont": 2774
+  },
+  "updated_at": {
+    "$date": "2026-01-27T06:00:53.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696f1a2c659d5ef78d24f228"
+  },
+  "date": "2025-01-19",
+  "customer_count": {
+    "Karthik": 331,
+    "Milpitas": 1194,
+    "Sunnyvale": 1566,
+    "Fremont": 2671
+  },
+  "updated_at": {
+    "$date": "2026-01-20T06:01:15.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69706b80659d5ef78d24f6f9"
+  },
+  "date": "2026-01-19",
+  "customer_count": {
+    "Karthik": 356,
+    "Milpitas": 1166,
+    "Sunnyvale": 1589,
+    "Fremont": 2152
+  },
+  "updated_at": {
+    "$date": "2026-01-28T06:00:47.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69706ba8659d5ef78d24f6fb"
+  },
+  "date": "2025-01-20",
+  "customer_count": {
+    "Karthik": 317,
+    "Milpitas": 1211,
+    "Sunnyvale": 1430,
+    "Fremont": 2083
+  },
+  "updated_at": {
+    "$date": "2026-01-21T06:01:12.812Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6971bcf9659d5ef78d24fa80"
+  },
+  "date": "2026-01-20",
+  "customer_count": {
+    "Karthik": 235,
+    "Milpitas": 832,
+    "Sunnyvale": 1020,
+    "Fremont": 1363
+  },
+  "updated_at": {
+    "$date": "2026-01-29T06:00:40.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6971bd1d659d5ef78d24fa82"
+  },
+  "date": "2025-01-21",
+  "customer_count": {
+    "Karthik": 222,
+    "Milpitas": 808,
+    "Sunnyvale": 811,
+    "Fremont": 1412
+  },
+  "updated_at": {
+    "$date": "2026-01-22T06:01:01.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69730e7727c3557252283ff1"
+  },
+  "date": "2026-01-21",
+  "customer_count": {
+    "Karthik": 252,
+    "Milpitas": 808,
+    "Sunnyvale": 939,
+    "Fremont": 1416
+  },
+  "updated_at": {
+    "$date": "2026-01-30T06:00:49.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69730e9e27c3557252283ff3"
+  },
+  "date": "2025-01-22",
+  "customer_count": {
+    "Karthik": 214,
+    "Milpitas": 845,
+    "Sunnyvale": 860,
+    "Fremont": 1381
+  },
+  "updated_at": {
+    "$date": "2026-01-23T06:01:02.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69745ff827c35572522842b7"
+  },
+  "date": "2026-01-22",
+  "customer_count": {
+    "Karthik": 223,
+    "Milpitas": 815,
+    "Sunnyvale": 1103,
+    "Fremont": 1445
+  },
+  "updated_at": {
+    "$date": "2026-01-31T06:00:41.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6974601d27c35572522842b9"
+  },
+  "date": "2025-01-23",
+  "customer_count": {
+    "Karthik": 210,
+    "Milpitas": 778,
+    "Sunnyvale": 957,
+    "Fremont": 1410
+  },
+  "updated_at": {
+    "$date": "2026-01-24T06:01:01.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6975b17927c3557252284651"
+  },
+  "date": "2026-01-23",
+  "customer_count": {
+    "Karthik": 281,
+    "Milpitas": 929,
+    "Sunnyvale": 1345,
+    "Fremont": 1969
+  },
+  "updated_at": {
+    "$date": "2026-02-01T06:00:45.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6975b1ab27c3557252284653"
+  },
+  "date": "2025-01-24",
+  "customer_count": {
+    "Karthik": 230,
+    "Milpitas": 912,
+    "Sunnyvale": 1270,
+    "Fremont": 1990
+  },
+  "updated_at": {
+    "$date": "2026-01-25T06:01:15.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6977030d27c3557252284a29"
+  },
+  "date": "2026-01-24",
+  "customer_count": {
+    "Karthik": 416,
+    "Milpitas": 1304,
+    "Sunnyvale": 1958,
+    "Fremont": 2563
+  },
+  "updated_at": {
+    "$date": "2026-02-02T06:00:56.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6977033727c3557252284a2b"
+  },
+  "date": "2025-01-25",
+  "customer_count": {
+    "Karthik": 362,
+    "Milpitas": 1317,
+    "Sunnyvale": 1814,
+    "Fremont": 2453
+  },
+  "updated_at": {
+    "$date": "2026-01-26T06:01:27.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6978547eccee478f2bb18f8c"
+  },
+  "date": "2026-01-25",
+  "customer_count": {
+    "Karthik": 376,
+    "Milpitas": 1421,
+    "Sunnyvale": 1788,
+    "Fremont": 2654
+  },
+  "updated_at": {
+    "$date": "2026-02-03T06:00:46.464Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697854bcccee478f2bb18f8e"
+  },
+  "date": "2025-01-26",
+  "customer_count": {
+    "Karthik": 377,
+    "Milpitas": 1489,
+    "Sunnyvale": 1761,
+    "Fremont": 2644
+  },
+  "updated_at": {
+    "$date": "2026-01-27T06:01:32.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6979a5fcccee478f2bb32c4c"
+  },
+  "date": "2026-01-26",
+  "customer_count": {
+    "Karthik": 241,
+    "Milpitas": 875,
+    "Sunnyvale": 962,
+    "Fremont": 1482
+  },
+  "updated_at": {
+    "$date": "2026-02-04T06:00:45.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6979a624ccee478f2bb32d1a"
+  },
+  "date": "2025-01-27",
+  "customer_count": {
+    "Karthik": 207,
+    "Milpitas": 870,
+    "Sunnyvale": 966,
+    "Fremont": 1495
+  },
+  "updated_at": {
+    "$date": "2026-01-28T06:01:08.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697af779ccee478f2bb441a4"
+  },
+  "date": "2026-01-27",
+  "customer_count": {
+    "Karthik": 240,
+    "Milpitas": 852,
+    "Sunnyvale": 944,
+    "Fremont": 1465
+  },
+  "updated_at": {
+    "$date": "2026-02-05T06:00:48.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697af79dccee478f2bb441a6"
+  },
+  "date": "2025-01-28",
+  "customer_count": {
+    "Karthik": 223,
+    "Milpitas": 863,
+    "Sunnyvale": 873,
+    "Fremont": 1422
+  },
+  "updated_at": {
+    "$date": "2026-01-29T06:01:01.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697c4902bd8ed155e1ea82c8"
+  },
+  "date": "2026-01-28",
+  "customer_count": {
+    "Karthik": 243,
+    "Milpitas": 796,
+    "Sunnyvale": 983,
+    "Fremont": 1504
+  },
+  "updated_at": {
+    "$date": "2026-02-06T06:00:41.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697c4926bd8ed155e1ea82ca"
+  },
+  "date": "2025-01-29",
+  "customer_count": {
+    "Karthik": 232,
+    "Milpitas": 762,
+    "Sunnyvale": 884,
+    "Fremont": 1314
+  },
+  "updated_at": {
+    "$date": "2026-01-30T06:01:10.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697d9a7b259c0f7550544a44"
+  },
+  "date": "2026-01-29",
+  "customer_count": {
+    "Karthik": 225,
+    "Milpitas": 775,
+    "Sunnyvale": 1002,
+    "Fremont": 1405
+  },
+  "updated_at": {
+    "$date": "2026-02-07T06:00:42.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697d9aa5259c0f7550544a46"
+  },
+  "date": "2025-01-30",
+  "customer_count": {
+    "Karthik": 242,
+    "Milpitas": 779,
+    "Sunnyvale": 931,
+    "Fremont": 1467
+  },
+  "updated_at": {
+    "$date": "2026-01-31T06:01:09.602Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697eebfc259c0f755054522a"
+  },
+  "date": "2026-01-30",
+  "customer_count": {
+    "Karthik": 313,
+    "Milpitas": 963,
+    "Sunnyvale": 1410,
+    "Fremont": 1868
+  },
+  "updated_at": {
+    "$date": "2026-02-08T06:00:52.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697eec2a259c0f755054522c"
+  },
+  "date": "2025-01-31",
+  "customer_count": {
+    "Karthik": 237,
+    "Milpitas": 948,
+    "Sunnyvale": 1136,
+    "Fremont": 1800
+  },
+  "updated_at": {
+    "$date": "2026-02-01T06:01:14.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69803d84259c0f75505456f4"
+  },
+  "date": "2026-01-31",
+  "customer_count": {
+    "Karthik": 452,
+    "Milpitas": 1394,
+    "Sunnyvale": 1960,
+    "Fremont": 2549
+  },
+  "updated_at": {
+    "$date": "2026-02-09T06:00:49.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69803dac259c0f75505456f6"
+  },
+  "date": "2025-02-01",
+  "customer_count": {
+    "Karthik": 385,
+    "Milpitas": 1357,
+    "Sunnyvale": 1895,
+    "Fremont": 2459
+  },
+  "updated_at": {
+    "$date": "2026-02-02T06:01:16.301Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69818efb259c0f7550545d0f"
+  },
+  "date": "2026-02-01",
+  "customer_count": {
+    "Karthik": 430,
+    "Milpitas": 1478,
+    "Sunnyvale": 1940,
+    "Fremont": 2773
+  },
+  "updated_at": {
+    "$date": "2026-02-10T06:00:44.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69818f26259c0f7550545d11"
+  },
+  "date": "2025-02-02",
+  "customer_count": {
+    "Karthik": 385,
+    "Milpitas": 1451,
+    "Sunnyvale": 1899,
+    "Fremont": 2666
+  },
+  "updated_at": {
+    "$date": "2026-02-03T06:01:10.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6982e07a259c0f7550546203"
+  },
+  "date": "2026-02-02",
+  "customer_count": {
+    "Karthik": 219,
+    "Milpitas": 846,
+    "Sunnyvale": 1017,
+    "Fremont": 1916
+  },
+  "updated_at": {
+    "$date": "2026-02-11T06:00:44.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6982e0a1259c0f7550546205"
+  },
+  "date": "2025-02-03",
+  "customer_count": {
+    "Karthik": 181,
+    "Milpitas": 880,
+    "Sunnyvale": 987,
+    "Fremont": 1519
+  },
+  "updated_at": {
+    "$date": "2026-02-04T06:01:05.372Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698431fc259c0f75505464ea"
+  },
+  "date": "2026-02-03",
+  "customer_count": {
+    "Karthik": 255,
+    "Milpitas": 852,
+    "Sunnyvale": 1026,
+    "Fremont": 1469
+  },
+  "updated_at": {
+    "$date": "2026-02-12T06:00:43.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69843222259c0f75505464ec"
+  },
+  "date": "2025-02-04",
+  "customer_count": {
+    "Karthik": 157,
+    "Milpitas": 607,
+    "Sunnyvale": 733,
+    "Fremont": 1135
+  },
+  "updated_at": {
+    "$date": "2026-02-05T06:01:06.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6985837813176e968362648f"
+  },
+  "date": "2026-02-04",
+  "customer_count": {
+    "Karthik": 229,
+    "Milpitas": 807,
+    "Sunnyvale": 1004,
+    "Fremont": 1386
+  },
+  "updated_at": {
+    "$date": "2026-02-13T06:00:41.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698583a213176e9683626491"
+  },
+  "date": "2025-02-05",
+  "customer_count": {
+    "Karthik": 221,
+    "Milpitas": 862,
+    "Sunnyvale": 950,
+    "Fremont": 1480
+  },
+  "updated_at": {
+    "$date": "2026-02-06T06:01:05.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6986d4fa13176e968362681e"
+  },
+  "date": "2026-02-05",
+  "customer_count": {
+    "Karthik": 236,
+    "Milpitas": 804,
+    "Sunnyvale": 1013,
+    "Fremont": 1504
+  },
+  "updated_at": {
+    "$date": "2026-02-14T06:00:42.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6986d51e13176e9683626820"
+  },
+  "date": "2025-02-06",
+  "customer_count": {
+    "Karthik": 214,
+    "Milpitas": 695,
+    "Sunnyvale": 808,
+    "Fremont": 1369
+  },
+  "updated_at": {
+    "$date": "2026-02-07T06:01:02.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6988267e13176e9683626caa"
+  },
+  "date": "2026-02-06",
+  "customer_count": {
+    "Karthik": 322,
+    "Milpitas": 962,
+    "Sunnyvale": 1423,
+    "Fremont": 1968
+  },
+  "updated_at": {
+    "$date": "2026-02-15T06:00:48.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698826ae13176e9683626cac"
+  },
+  "date": "2025-02-07",
+  "customer_count": {
+    "Karthik": 264,
+    "Milpitas": 993,
+    "Sunnyvale": 1191,
+    "Fremont": 2038
+  },
+  "updated_at": {
+    "$date": "2026-02-08T06:01:17.903Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698977fb13176e968362704a"
+  },
+  "date": "2026-02-07",
+  "customer_count": {
+    "Karthik": 442,
+    "Milpitas": 1318,
+    "Sunnyvale": 2067,
+    "Fremont": 2571
+  },
+  "updated_at": {
+    "$date": "2026-02-16T06:01:09.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6989782513176e968362704c"
+  },
+  "date": "2025-02-08",
+  "customer_count": {
+    "Karthik": 355,
+    "Milpitas": 1430,
+    "Sunnyvale": 1787,
+    "Fremont": 2484
+  },
+  "updated_at": {
+    "$date": "2026-02-09T06:01:08.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ac97a13176e968362724a"
+  },
+  "date": "2026-02-08",
+  "customer_count": {
+    "Karthik": 388,
+    "Milpitas": 1254,
+    "Sunnyvale": 1722,
+    "Fremont": 2632
+  },
+  "updated_at": {
+    "$date": "2026-02-17T06:00:46.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ac9a013176e968362724c"
+  },
+  "date": "2025-02-09",
+  "customer_count": {
+    "Karthik": 383,
+    "Milpitas": 1376,
+    "Sunnyvale": 1620,
+    "Fremont": 2683
+  },
+  "updated_at": {
+    "$date": "2026-02-10T06:01:04.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698c1af913176e9683627c15"
+  },
+  "date": "2026-02-09",
+  "customer_count": {
+    "Karthik": 236,
+    "Milpitas": 846,
+    "Sunnyvale": 1024,
+    "Fremont": 1457
+  },
+  "updated_at": {
+    "$date": "2026-02-18T06:00:51.633Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698c1b1f13176e9683627c17"
+  },
+  "date": "2025-02-10",
+  "customer_count": {
+    "Karthik": 228,
+    "Milpitas": 868,
+    "Sunnyvale": 908,
+    "Fremont": 1567
+  },
+  "updated_at": {
+    "$date": "2026-02-11T06:01:03.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d6c7913176e9683629412"
+  },
+  "date": "2026-02-10",
+  "customer_count": {
+    "Karthik": 214,
+    "Milpitas": 775,
+    "Sunnyvale": 939,
+    "Fremont": 1395
+  },
+  "updated_at": {
+    "$date": "2026-02-19T06:00:41.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d6c9d13176e9683629414"
+  },
+  "date": "2025-02-11",
+  "customer_count": {
+    "Karthik": 204,
+    "Milpitas": 796,
+    "Sunnyvale": 878,
+    "Fremont": 1345
+  },
+  "updated_at": {
+    "$date": "2026-02-12T06:01:01.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ebdf813176e9683629f73"
+  },
+  "date": "2026-02-11",
+  "customer_count": {
+    "Karthik": 227,
+    "Milpitas": 734,
+    "Sunnyvale": 947,
+    "Fremont": 1327
+  },
+  "updated_at": {
+    "$date": "2026-02-20T06:00:33.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ebe2013176e9683629f75"
+  },
+  "date": "2025-02-12",
+  "customer_count": {
+    "Karthik": 185,
+    "Milpitas": 808,
+    "Sunnyvale": 845,
+    "Fremont": 1328
+  },
+  "updated_at": {
+    "$date": "2026-02-13T06:01:04.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69900f7888f1c564b991ea6c"
+  },
+  "date": "2026-02-12",
+  "customer_count": {
+    "Karthik": 238,
+    "Milpitas": 840,
+    "Sunnyvale": 1083,
+    "Fremont": 1562
+  },
+  "updated_at": {
+    "$date": "2026-02-21T06:00:41.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69900fa288f1c564b991ea6e"
+  },
+  "date": "2025-02-13",
+  "customer_count": {
+    "Karthik": 203,
+    "Milpitas": 719,
+    "Sunnyvale": 834,
+    "Fremont": 1298
+  },
+  "updated_at": {
+    "$date": "2026-02-14T06:01:06.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699160fd88f1c564b991edbc"
+  },
+  "date": "2026-02-13",
+  "customer_count": {
+    "Karthik": 278,
+    "Milpitas": 971,
+    "Sunnyvale": 1435,
+    "Fremont": 1966
+  },
+  "updated_at": {
+    "$date": "2026-02-22T06:00:57.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6991613688f1c564b991edbe"
+  },
+  "date": "2025-02-14",
+  "customer_count": {
+    "Karthik": 249,
+    "Milpitas": 875,
+    "Sunnyvale": 1094,
+    "Fremont": 1973
+  },
+  "updated_at": {
+    "$date": "2026-02-15T06:01:26.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6992b29188f1c564b991f10a"
+  },
+  "date": "2026-02-14",
+  "customer_count": {
+    "Karthik": 425,
+    "Milpitas": 1342,
+    "Sunnyvale": 2021,
+    "Fremont": 2510
+  },
+  "updated_at": {
+    "$date": "2026-02-23T06:00:46.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6992b2bb88f1c564b991f10c"
+  },
+  "date": "2025-02-15",
+  "customer_count": {
+    "Karthik": 358,
+    "Milpitas": 1273,
+    "Sunnyvale": 1643,
+    "Fremont": 2535
+  },
+  "updated_at": {
+    "$date": "2026-02-16T06:01:31.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699403fc88f1c564b991f560"
+  },
+  "date": "2026-02-15",
+  "customer_count": {
+    "Karthik": 381,
+    "Milpitas": 1416,
+    "Sunnyvale": 1812,
+    "Fremont": 2725
+  },
+  "updated_at": {
+    "$date": "2026-02-24T06:00:47.003Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6994042c88f1c564b991f562"
+  },
+  "date": "2025-02-16",
+  "customer_count": {
+    "Karthik": 363,
+    "Milpitas": 1246,
+    "Sunnyvale": 1712,
+    "Fremont": 2741
+  },
+  "updated_at": {
+    "$date": "2026-02-17T06:01:16.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6994c1d588f1c564b991fecd"
+  },
+  "date": "2026-02-16",
+  "customer_count": {
+    "Karthik": 295,
+    "Milpitas": 1114,
+    "Sunnyvale": 1523,
+    "Fremont": 1903
+  },
+  "updated_at": {
+    "$date": "2026-02-25T06:00:44.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6994c1fc88f1c564b991fecf"
+  },
+  "date": "2025-02-17",
+  "customer_count": {
+    "Karthik": 291,
+    "Milpitas": 1096,
+    "Sunnyvale": 1380,
+    "Fremont": 2055
+  },
+  "updated_at": {
+    "$date": "2026-02-18T06:01:13.353Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6996a6fa88f1c564b9925312"
+  },
+  "date": "2026-02-17",
+  "customer_count": {
+    "Karthik": 215,
+    "Milpitas": 723,
+    "Sunnyvale": 941,
+    "Fremont": 1406
+  },
+  "updated_at": {
+    "$date": "2026-02-26T06:00:40.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6996a71e88f1c564b9925314"
+  },
+  "date": "2025-02-18",
+  "customer_count": {
+    "Karthik": 200,
+    "Milpitas": 818,
+    "Sunnyvale": 886,
+    "Fremont": 1464
+  },
+  "updated_at": {
+    "$date": "2026-02-19T06:01:02.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6997f87488f1c564b992592a"
+  },
+  "date": "2026-02-18",
+  "customer_count": {
+    "Karthik": 245,
+    "Milpitas": 883,
+    "Sunnyvale": 1025,
+    "Fremont": 1572
+  },
+  "updated_at": {
+    "$date": "2026-02-20T06:00:19.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6997f89488f1c564b992592c"
+  },
+  "date": "2025-02-19",
+  "customer_count": {
+    "Karthik": 220,
+    "Milpitas": 735,
+    "Sunnyvale": 900,
+    "Fremont": 1434
+  },
+  "updated_at": {
+    "$date": "2026-02-20T06:00:52.507Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699949f788f1c564b9925d3c"
+  },
+  "date": "2026-02-19",
+  "customer_count": {
+    "Karthik": 131,
+    "Milpitas": 776,
+    "Sunnyvale": 1093,
+    "Fremont": 1502
+  },
+  "updated_at": {
+    "$date": "2026-02-21T06:00:23.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69994a2588f1c564b9925d3e"
+  },
+  "date": "2025-02-20",
+  "customer_count": {
+    "Karthik": 222,
+    "Milpitas": 726,
+    "Sunnyvale": 967,
+    "Fremont": 1474
+  },
+  "updated_at": {
+    "$date": "2026-02-21T06:01:09.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a9b8988f1c564b99260c6"
+  },
+  "date": "2026-02-20",
+  "customer_count": {
+    "Karthik": 310,
+    "Milpitas": 997,
+    "Sunnyvale": 1397,
+    "Fremont": 2055
+  },
+  "updated_at": {
+    "$date": "2026-02-22T06:00:41.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699a9bb488f1c564b99260c8"
+  },
+  "date": "2025-02-21",
+  "customer_count": {
+    "Karthik": 293,
+    "Milpitas": 928,
+    "Sunnyvale": 1206,
+    "Fremont": 1979
+  },
+  "updated_at": {
+    "$date": "2026-02-22T06:01:24.395Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699becfd88f1c564b99263ce"
+  },
+  "date": "2026-02-21",
+  "customer_count": {
+    "Karthik": 395,
+    "Milpitas": 1257,
+    "Sunnyvale": 1941,
+    "Fremont": 2598
+  },
+  "updated_at": {
+    "$date": "2026-02-23T06:00:29.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699bed2088f1c564b99263d0"
+  },
+  "date": "2025-02-22",
+  "customer_count": {
+    "Karthik": 342,
+    "Milpitas": 1347,
+    "Sunnyvale": 1793,
+    "Fremont": 2538
+  },
+  "updated_at": {
+    "$date": "2026-02-23T06:01:04.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d3e7b88f1c564b992675e"
+  },
+  "date": "2026-02-22",
+  "customer_count": {
+    "Karthik": 415,
+    "Milpitas": 1374,
+    "Sunnyvale": 1845,
+    "Fremont": 2841
+  },
+  "updated_at": {
+    "$date": "2026-02-24T06:00:26.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d3ea488f1c564b9926760"
+  },
+  "date": "2025-02-23",
+  "customer_count": {
+    "Karthik": 385,
+    "Milpitas": 1373,
+    "Sunnyvale": 1696,
+    "Fremont": 2824
+  },
+  "updated_at": {
+    "$date": "2026-02-24T06:01:08.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699e2d6f88f1c564b9926b46"
+  },
+  "date": "2026-02-23",
+  "customer_count": {
+    "Karthik": 249,
+    "Milpitas": 807,
+    "Sunnyvale": 962,
+    "Fremont": 1541
+  },
+  "updated_at": {
+    "$date": "2026-02-25T06:00:27.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699e2d9788f1c564b9926b48"
+  },
+  "date": "2025-02-24",
+  "customer_count": {
+    "Karthik": 230,
+    "Milpitas": 898,
+    "Sunnyvale": 981,
+    "Fremont": 1709
+  },
+  "updated_at": {
+    "$date": "2026-02-25T06:01:04.286Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fe178a1e1960190bc06c2"
+  },
+  "date": "2026-02-24",
+  "customer_count": {
+    "Karthik": 218,
+    "Milpitas": 785,
+    "Sunnyvale": 1001,
+    "Fremont": 1528
+  },
+  "updated_at": {
+    "$date": "2026-02-26T06:00:24.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fe19ba1e1960190bc06c3"
+  },
+  "date": "2025-02-25",
+  "customer_count": {
+    "Karthik": 200,
+    "Milpitas": 924,
+    "Sunnyvale": 1025,
+    "Fremont": 1680
+  },
+  "updated_at": {
+    "$date": "2026-02-26T06:00:59.237Z"
+  }
+}]

@@ -1,0 +1,14 @@
+[
+    {
+        "base_url": "https://apnabazar.revelup.com/reports/",
+        "api_auth_key": "9b8c740f14004a0db7fefd64152c15d8",
+        "api_auth_secret": "42c8842b77c1404bbe8bfaae6b17f3d527326531655e4b05b6aa12c8e9a08a7a",
+        "establishments": [1, 2]
+    },
+    {
+        "base_url": "https://stopandshopca.revelup.com/reports/",
+        "api_auth_key": "fe5c60a589b54210a0bd7e96e12ba1a2",
+        "api_auth_secret": "f9356e05ee7f42399f4423f959f47053aeb992e8972749538d838c43975825b0",
+        "establishments": [1, 2]
+    }
+]

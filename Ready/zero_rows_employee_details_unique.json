@@ -1,0 +1,245 @@
+[
+  {
+    "SSN": "xxx-xx-3972",
+    "Employee Name": "Kumar, Sandeep",
+    "Store": "AMFC",
+    "Tax Rate": 0.131316,
+    "EL Rate": 0.076502,
+    "Amount": 2806.51,
+    "Amount Per Day": 200.465
+  },
+  {
+    "SSN": "xxx-xx-3425",
+    "Employee Name": "Petrozzi, Renzo",
+    "Store": "AMFC",
+    "Tax Rate": 0.138275,
+    "EL Rate": 0.0765,
+    "Amount": 2757.52,
+    "Amount Per Day": 196.96571428571428
+  },
+  {
+    "SSN": "xxx-xx-9994",
+    "Employee Name": "Sharma, Nitin",
+    "Store": "AMFC",
+    "Tax Rate": 0.128079,
+    "EL Rate": 0.083586,
+    "Amount": 2260.28,
+    "Amount Per Day": 161.44857142857146
+  },
+  {
+    "SSN": "xxx-xx-5665",
+    "Employee Name": "Singh, Karamjeet",
+    "Store": "AMFC",
+    "Tax Rate": 0.140996,
+    "EL Rate": 0.076499,
+    "Amount": 2944.59,
+    "Amount Per Day": 210.32785714285714
+  },
+  {
+    "SSN": "xxx-xx-8777",
+    "Employee Name": "Fatima, Aisha",
+    "Store": "AMFC",
+    "Tax Rate": 0.088513,
+    "EL Rate": 0.117506,
+    "Amount": 189.89,
+    "Amount Per Day": 13.563571428571427
+  },
+  {
+    "SSN": "xxx-xx-0412",
+    "Employee Name": "Sumit, No Given Name",
+    "Store": "Fremont",
+    "Tax Rate": 0.102966,
+    "EL Rate": 0.091667,
+    "Amount": 2071.17,
+    "Amount Per Day": 147.94071428571428
+  },
+  {
+    "SSN": "xxx-xx-8561",
+    "Employee Name": "Rogers, Dene",
+    "Store": "Fremont",
+    "Tax Rate": 0.343461,
+    "EL Rate": 0.081555,
+    "Amount": 4494.58,
+    "Amount Per Day": 321.0414285714286
+  },
+  {
+    "SSN": "xxx-xx-7180",
+    "Employee Name": "Murgan, Vimalkumar",
+    "Store": "Fremont",
+    "Tax Rate": 0.10723,
+    "EL Rate": 0.076499,
+    "Amount": 2266.26,
+    "Amount Per Day": 161.8757142857143
+  },
+  {
+    "SSN": "xxx-xx-1822",
+    "Employee Name": "Kumar, Deepak",
+    "Store": "Fremont",
+    "Tax Rate": 0.21235,
+    "EL Rate": 0.096375,
+    "Amount": 0.0,
+    "Amount Per Day": 0.0
+  },
+  {
+    "SSN": "xxx-xx-4587",
+    "Employee Name": "Ludrik, Gabriel C",
+    "Store": "Fremont",
+    "Tax Rate": 0.187332,
+    "EL Rate": 0.083218,
+    "Amount": 1085.65,
+    "Amount Per Day": 77.54642857142858
+  },
+  {
+    "SSN": "xxx-xx-0293",
+    "Employee Name": "Singh, Gurjit",
+    "Store": "Fremont",
+    "Tax Rate": 0.243233,
+    "EL Rate": 0.084856,
+    "Amount": 0.0,
+    "Amount Per Day": 0.0
+  },
+  {
+    "SSN": "xxx-xx-0347",
+    "Employee Name": "Singh, Mukta",
+    "Store": "Fremont",
+    "Tax Rate": 0.0,
+    "EL Rate": 0.0,
+    "Amount": 5572.2,
+    "Amount Per Day": 398.0142857142857
+  },
+  {
+    "SSN": "xxx-xx-0616",
+    "Employee Name": "Jayaraman, Selvendran",
+    "Store": "Karthik",
+    "Tax Rate": 0.236236,
+    "EL Rate": 0.0765,
+    "Amount": 2138.54,
+    "Amount Per Day": 152.75285714285715
+  },
+  {
+    "SSN": "xxx-xx-1677",
+    "Employee Name": "Singh, Harshpreet",
+    "Store": "Karthik",
+    "Tax Rate": 0.236236,
+    "EL Rate": 0.118979,
+    "Amount": 2138.54,
+    "Amount Per Day": 152.75285714285715
+  },
+  {
+    "SSN": "xxx-xx-2884",
+    "Employee Name": "Hazra, Toton",
+    "Store": "Karthik",
+    "Tax Rate": 0.101685,
+    "EL Rate": 0.110897,
+    "Amount": 1864.38,
+    "Amount Per Day": 133.17000000000002
+  },
+  {
+    "SSN": "xxx-xx-7342",
+    "Employee Name": "Morales, Noe",
+    "Store": "Karthik",
+    "Tax Rate": 0.106004,
+    "EL Rate": 0.099132,
+    "Amount": 2378.03,
+    "Amount Per Day": 169.85928571428573
+  },
+  {
+    "SSN": "xxx-xx-4629",
+    "Employee Name": "TAUSIF, MD",
+    "Store": "Karthik",
+    "Tax Rate": 0.101742,
+    "EL Rate": 0.107463,
+    "Amount": 1865.91,
+    "Amount Per Day": 133.27928571428572
+  },
+  {
+    "SSN": "xxx-xx-1953",
+    "Employee Name": "Singh, Amarjeet",
+    "Store": "Milpitas",
+    "Tax Rate": 0.194111,
+    "EL Rate": 0.076498,
+    "Amount": 2216.13,
+    "Amount Per Day": 158.29500000000002
+  },
+  {
+    "SSN": "xxx-xx-2542",
+    "Employee Name": "Menses Rodriguez, Bernardino",
+    "Store": "Milpitas",
+    "Tax Rate": 0.105346,
+    "EL Rate": 0.076497,
+    "Amount": 2339.85,
+    "Amount Per Day": 167.13214285714284
+  },
+  {
+    "SSN": "xxx-xx-6753",
+    "Employee Name": "Virk, Amarjit S",
+    "Store": "Milpitas",
+    "Tax Rate": 0.138311,
+    "EL Rate": 0.085132,
+    "Amount": 2291.67,
+    "Amount Per Day": 163.69071428571428
+  },
+  {
+    "SSN": "xxx-xx-8190",
+    "Employee Name": "Lidder, Barinderjeet S",
+    "Store": "Milpitas",
+    "Tax Rate": 0.279584,
+    "EL Rate": 0.0765,
+    "Amount": 3208.74,
+    "Amount Per Day": 229.19571428571427
+  },
+  {
+    "SSN": "xxx-xx-8943",
+    "Employee Name": "Solis, Juan",
+    "Store": "Milpitas",
+    "Tax Rate": 0.229782,
+    "EL Rate": 0.083666,
+    "Amount": 4089.2,
+    "Amount Per Day": 292.0857142857143
+  },
+  {
+    "SSN": "xxx-xx-2641",
+    "Employee Name": "Trujillo Martinez, Juan Carlos",
+    "Store": "Milpitas",
+    "Tax Rate": 0.110253,
+    "EL Rate": 0.088722,
+    "Amount": 2564.03,
+    "Amount Per Day": 183.145
+  },
+  {
+    "SSN": "xxx-xx-3161",
+    "Employee Name": "Rozario, Ratan Peter",
+    "Store": "Milpitas",
+    "Tax Rate": 0.109587,
+    "EL Rate": 0.117502,
+    "Amount": 600.35,
+    "Amount Per Day": 42.88214285714286
+  },
+  {
+    "SSN": "xxx-xx-9557",
+    "Employee Name": "Randhawa, Ambrit Singh",
+    "Store": "Milpitas",
+    "Tax Rate": 0.125745,
+    "EL Rate": 0.101376,
+    "Amount": 2517.25,
+    "Amount Per Day": 179.80357142857142
+  },
+  {
+    "SSN": "xxx-xx-8447",
+    "Employee Name": "Randhawa, Ravi Inder",
+    "Store": "Sunnyvale",
+    "Tax Rate": 0.1599,
+    "EL Rate": 0.066652,
+    "Amount": 3914.18,
+    "Amount Per Day": 279.5842857142857
+  },
+  {
+    "SSN": "xxx-xx-1516",
+    "Employee Name": "Singh, Amrinder",
+    "Store": "Sunnyvale",
+    "Tax Rate": 0.260332,
+    "EL Rate": 0.076336,
+    "Amount": 2924.34,
+    "Amount Per Day": 208.8814285714286
+  }
+]

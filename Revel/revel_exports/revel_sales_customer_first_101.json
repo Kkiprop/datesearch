@@ -1,0 +1,71 @@
+{
+    "generated_at": "2026-05-13T15:17:49.615700",
+    "date": "2026-05-13",
+    "fields": [
+        "sales_amount",
+        "customer_count",
+        "total_discounts",
+        "refunds_total",
+        "voided_total",
+        "returned_total",
+        "net_sales"
+    ],
+    "data": {
+        "Sunnyvale": {
+            "item_count": 1,
+            "items": [
+                {
+                    "sales_amount": 1062.17,
+                    "customer_count": 49,
+                    "total_discounts": 0.0,
+                    "refunds_total": 0.0,
+                    "voided_total": 0.0,
+                    "returned_total": 0.0,
+                    "net_sales": 1062.17
+                }
+            ]
+        },
+        "Fremont": {
+            "item_count": 1,
+            "items": [
+                {
+                    "sales_amount": 1356.9,
+                    "customer_count": 50,
+                    "total_discounts": 0.0,
+                    "refunds_total": 0.0,
+                    "voided_total": 0.0,
+                    "returned_total": 0.0,
+                    "net_sales": 1356.9
+                }
+            ]
+        },
+        "Karthik": {
+            "item_count": 1,
+            "items": [
+                {
+                    "sales_amount": 0.0,
+                    "customer_count": 0,
+                    "total_discounts": 0.0,
+                    "refunds_total": 0.0,
+                    "voided_total": 0.0,
+                    "returned_total": 0.0,
+                    "net_sales": 0.0
+                }
+            ]
+        },
+        "Milpitas": {
+            "item_count": 1,
+            "items": [
+                {
+                    "sales_amount": 450.26,
+                    "customer_count": 22,
+                    "total_discounts": 0.0,
+                    "refunds_total": 0.0,
+                    "voided_total": 0.2,
+                    "returned_total": 0.0,
+                    "net_sales": 450.06
+                }
+            ]
+        }
+    }
+}

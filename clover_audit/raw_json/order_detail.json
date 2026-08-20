@@ -1,0 +1,27 @@
+{
+  "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/08AD4VV2AB1ZW",
+  "id": "08AD4VV2AB1ZW",
+  "currency": "USD",
+  "employee": {
+    "id": "B591C78APPA2E"
+  },
+  "total": 1432,
+  "paymentState": "OPEN",
+  "title": "507",
+  "orderType": {
+    "id": "TBAA2ZGQF49TJ"
+  },
+  "taxRemoved": false,
+  "isVat": false,
+  "state": "locked",
+  "manualTransaction": false,
+  "groupLineItems": true,
+  "testMode": false,
+  "payType": "FULL",
+  "createdTime": 1785134803000,
+  "clientCreatedTime": 1785134801000,
+  "modifiedTime": 1785134816000,
+  "device": {
+    "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "elements": [
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/08AD4VV2AB1ZW",
+      "id": "08AD4VV2AB1ZW",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 1432,
+      "paymentState": "OPEN",
+      "title": "507",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785134803000,
+      "clientCreatedTime": 1785134801000,
+      "modifiedTime": 1785134816000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/BTE5M26J6EVEA",
+      "id": "BTE5M26J6EVEA",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 2421,
+      "paymentState": "OPEN",
+      "title": "506",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785133924000,
+      "clientCreatedTime": 1785133923000,
+      "modifiedTime": 1785134794000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/BAWWK8EZXCGNC",
+      "id": "BAWWK8EZXCGNC",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 219,
+      "paymentState": "OPEN",
+      "title": "041",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785133261000,
+      "clientCreatedTime": 1785133259000,
+      "modifiedTime": 1785133734000,
+      "device": {
+        "id": "1c268bd7-24be-4480-e331-c98769211387"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/FEJ18V5JMVKQW",
+      "id": "FEJ18V5JMVKQW",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 989,
+      "paymentState": "OPEN",
+      "title": "505",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785132767000,
+      "clientCreatedTime": 1785132766000,
+      "modifiedTime": 1785133091000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/2M9E1B4HN96BP",
+      "id": "2M9E1B4HN96BP",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 1541,
+      "paymentState": "OPEN",
+      "title": "504",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785132742000,
+      "clientCreatedTime": 1785132741000,
+      "modifiedTime": 1785132761000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/P8TKD2BG0KWCP",
+      "id": "P8TKD2BG0KWCP",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 1870,
+      "paymentState": "OPEN",
+      "title": "503",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785132624000,
+      "clientCreatedTime": 1785132623000,
+      "modifiedTime": 1785132737000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/QST0C1Y3PYM9T",
+      "id": "QST0C1Y3PYM9T",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 881,
+      "paymentState": "OPEN",
+      "title": "502",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785132498000,
+      "clientCreatedTime": 1785132496000,
+      "modifiedTime": 1785132523000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/6Q9M67RRTE6Z0",
+      "id": "6Q9M67RRTE6Z0",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 3083,
+      "paymentState": "OPEN",
+      "title": "501",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131961000,
+      "clientCreatedTime": 1785131954000,
+      "modifiedTime": 1785132185000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/XKEZ5J7T2E2QP",
+      "id": "XKEZ5J7T2E2QP",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 440,
+      "paymentState": "OPEN",
+      "title": "500",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131911000,
+      "clientCreatedTime": 1785131909000,
+      "modifiedTime": 1785131934000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/FJY04KV9ZZ0N4",
+      "id": "FJY04KV9ZZ0N4",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 991,
+      "paymentState": "OPEN",
+      "title": "499",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131875000,
+      "clientCreatedTime": 1785131872000,
+      "modifiedTime": 1785131895000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/BABDXDSPACPVG",
+      "id": "BABDXDSPACPVG",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 2532,
+      "paymentState": "OPEN",
+      "title": "498",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131769000,
+      "clientCreatedTime": 1785131769000,
+      "modifiedTime": 1785131811000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/7S244S70G4VM4",
+      "id": "7S244S70G4VM4",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 2203,
+      "paymentState": "OPEN",
+      "title": "497",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131599000,
+      "clientCreatedTime": 1785131598000,
+      "modifiedTime": 1785131631000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/X7PKQ171QGMQ8",
+      "id": "X7PKQ171QGMQ8",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 98,
+      "paymentState": "OPEN",
+      "title": "496",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131414000,
+      "clientCreatedTime": 1785131413000,
+      "modifiedTime": 1785131435000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/XPFMXRKPW2B1C",
+      "id": "XPFMXRKPW2B1C",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 881,
+      "paymentState": "OPEN",
+      "title": "495",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131368000,
+      "clientCreatedTime": 1785131367000,
+      "modifiedTime": 1785131408000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/CJ1ATPFQ4RG82",
+      "id": "CJ1ATPFQ4RG82",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 2203,
+      "paymentState": "OPEN",
+      "title": "494",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131335000,
+      "clientCreatedTime": 1785131334000,
+      "modifiedTime": 1785131359000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/DMZVH5JTYJB4A",
+      "id": "DMZVH5JTYJB4A",
+      "currency": "USD",
+      "customers": {
+        "elements": [
+          {
+            "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/customers/EYJ84NGSHE5H6",
+            "id": "EYJ84NGSHE5H6"
+          }
+        ]
+      },
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 4186,
+      "paymentState": "OPEN",
+      "title": "493",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131254000,
+      "clientCreatedTime": 1785131253000,
+      "modifiedTime": 1785131324000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/DA2T6YWJVFDKP",
+      "id": "DA2T6YWJVFDKP",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 4016,
+      "paymentState": "OPEN",
+      "title": "492",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785131098000,
+      "clientCreatedTime": 1785131097000,
+      "modifiedTime": 1785131221000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/WW4ARA0BFQBA4",
+      "id": "WW4ARA0BFQBA4",
+      "currency": "USD",
+      "customers": {
+        "elements": [
+          {
+            "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/customers/F8XZ0V041K810",
+            "id": "F8XZ0V041K810"
+          }
+        ]
+      },
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 1101,
+      "paymentState": "OPEN",
+      "title": "491",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785130886000,
+      "clientCreatedTime": 1785130884000,
+      "modifiedTime": 1785130908000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/VQBPSE27MM96E",
+      "id": "VQBPSE27MM96E",
+      "currency": "USD",
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 1101,
+      "paymentState": "OPEN",
+      "title": "490",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785130769000,
+      "clientCreatedTime": 1785130768000,
+      "modifiedTime": 1785130785000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    },
+    {
+      "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/KQYH0GZSZ3SBG",
+      "id": "KQYH0GZSZ3SBG",
+      "currency": "USD",
+      "customers": {
+        "elements": [
+          {
+            "href": "https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/customers/01125DT6BF92M",
+            "id": "01125DT6BF92M"
+          }
+        ]
+      },
+      "employee": {
+        "id": "B591C78APPA2E"
+      },
+      "total": 330,
+      "paymentState": "OPEN",
+      "title": "489",
+      "orderType": {
+        "id": "TBAA2ZGQF49TJ"
+      },
+      "taxRemoved": false,
+      "isVat": false,
+      "state": "locked",
+      "manualTransaction": false,
+      "groupLineItems": true,
+      "testMode": false,
+      "payType": "FULL",
+      "createdTime": 1785130711000,
+      "clientCreatedTime": 1785130709000,
+      "modifiedTime": 1785130725000,
+      "device": {
+        "id": "c3ec9219-a5de-d2d9-80a6-518328476735"
+      }
+    }
+  ],
+  "href": "http://api.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders?filter=stateIS%20NOT%20NULL&limit=20"
+}

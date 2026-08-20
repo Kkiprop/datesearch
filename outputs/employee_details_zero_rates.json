@@ -1,0 +1,254 @@
+[
+  {
+    "Employee Name": "Kumar, Sandeep",
+    "Store": "AMFC",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 281.6
+  },
+  {
+    "Employee Name": "Petrozzi, Renzo",
+    "Store": "AMFC",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 283.63
+  },
+  {
+    "Employee Name": "Sharma, Nitin",
+    "Store": "AMFC",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 239.26
+  },
+  {
+    "Employee Name": "Singh, Karamjeet",
+    "Store": "AMFC",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 296.02
+  },
+  {
+    "Employee Name": "Fatima, Aisha",
+    "Store": "AMFC",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 18.99
+  },
+  {
+    "Employee Name": "Sumit, No Given Name",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 230.77
+  },
+  {
+    "Employee Name": "Rogers, Dene",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 692.31
+  },
+  {
+    "Employee Name": "Coronado, Dixon",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 415.39
+  },
+  {
+    "Employee Name": "Coronado, Adonis",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 211.59
+  },
+  {
+    "Employee Name": "Kaur, Jaismeen",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 121.02
+  },
+  {
+    "Employee Name": "Kumar, Deepak",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 63.9
+  },
+  {
+    "Employee Name": "Kumar, Satish",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 252.99
+  },
+  {
+    "Employee Name": "Ludrik, Gabriel C",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 415.39
+  },
+  {
+    "Employee Name": "Singh, Gurjit",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 289.39
+  },
+  {
+    "Employee Name": "Singh, Mukta",
+    "Store": "Fremont",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 557.22
+  },
+  {
+    "Employee Name": "Jayaraman, Selvendran",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 213.85
+  },
+  {
+    "Employee Name": "Singh, Harshpreet",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 213.85
+  },
+  {
+    "Employee Name": "Jochola Perez, Alan Gaspar",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 209.0
+  },
+  {
+    "Employee Name": "Hazra, Toton",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 207.69
+  },
+  {
+    "Employee Name": "Morales, Noe",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 266.0
+  },
+  {
+    "Employee Name": "Singh, Palwinder",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 210.32
+  },
+  {
+    "Employee Name": "TAUSIF, MD",
+    "Store": "Karthik",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 473.69
+  },
+  {
+    "Employee Name": "Mohamed Ibrahim, Mohamed Iqbal",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 257.86
+  },
+  {
+    "Employee Name": "Singh, Amarjeet",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 221.61
+  },
+  {
+    "Employee Name": "Menses Rodriguez, Bernardino",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 233.99
+  },
+  {
+    "Employee Name": "Virk, Amarjit S",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 520.0
+  },
+  {
+    "Employee Name": "Lal, Kandan",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 194.42
+  },
+  {
+    "Employee Name": "Lidder, Barinderjeet S",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 239.42
+  },
+  {
+    "Employee Name": "Solis, Juan",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 408.92
+  },
+  {
+    "Employee Name": "Trujillo Martinez, Juan Carlos",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 256.4
+  },
+  {
+    "Employee Name": "Randhawa, Ambrit Singh",
+    "Store": "Milpitas",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 288.46
+  },
+  {
+    "Employee Name": "Angel, Jose",
+    "Store": "Sunnyvale",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 288.46
+  },
+  {
+    "Employee Name": "Rivas Mendez, Evert",
+    "Store": "Sunnyvale",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 270.0
+  },
+  {
+    "Employee Name": "Singh, Hardev",
+    "Store": "Sunnyvale",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 276.92
+  },
+  {
+    "Employee Name": "Randhawa, Ravi Inder",
+    "Store": "Sunnyvale",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 361.54
+  },
+  {
+    "Employee Name": "Singh, Amrinder",
+    "Store": "Sunnyvale",
+    "Regular": 0.0,
+    "Overtime": 0.0,
+    "Pay": 400.0
+  }
+]

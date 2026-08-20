@@ -1,0 +1,1710 @@
+[{
+  "_id": {
+    "$oid": "6913b71faed7609899837e5f"
+  },
+  "date": "2025-10-10",
+  "total_waste_per_store": {
+    "Fremont": 182,
+    "Sunnyvale": 73,
+    "Karthik": 50,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-12T01:22:23.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6913b7cdaed7609899837e60"
+  },
+  "date": "2025-11-10",
+  "total_waste_per_store": {
+    "Fremont": 4035.67,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-19T06:37:39.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6913c3baaed7609899837e62"
+  },
+  "date": "2025-11-03",
+  "total_waste_per_store": {
+    "Fremont": 776,
+    "Sunnyvale": 346,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-12T05:44:37.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6913c7c8aed7609899837e63"
+  },
+  "date": "2024-11-10",
+  "total_waste_per_store": {
+    "Fremont": 776,
+    "Sunnyvale": 346,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-12T02:33:28.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6913f8aeaed7609899837e6b"
+  },
+  "date": "2024-11-11",
+  "total_waste_per_store": {
+    "Fremont": 776,
+    "Sunnyvale": 346,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-12T06:02:06.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6916633da0d8a004381a9caa"
+  },
+  "date": "2025-11-12",
+  "total_waste_per_store": {
+    "Fremont": 1959.57,
+    "Sunnyvale": 322.38,
+    "Karthik": 803.66,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-21T07:24:11.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6916677ca0d8a004381a9cab"
+  },
+  "date": "2025-11-05",
+  "total_waste_per_store": {
+    "Fremont": 559,
+    "Sunnyvale": 240,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-14T04:17:41.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6918291ea0d8a004381aa75d"
+  },
+  "date": "2025-11-13",
+  "total_waste_per_store": {
+    "Fremont": 1018.2,
+    "Sunnyvale": 611.82,
+    "Karthik": 501.39,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-22T07:12:21.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69182bd5a0d8a004381aa793"
+  },
+  "date": "2025-11-06",
+  "total_waste_per_store": {
+    "Fremont": 467,
+    "Sunnyvale": 0,
+    "Karthik": 238,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-15T07:29:24.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69197c3fa0d8a004381aae2c"
+  },
+  "date": "2025-11-14",
+  "total_waste_per_store": {
+    "Fremont": 1795.02,
+    "Sunnyvale": 545.3,
+    "Karthik": 215.31,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-23T07:14:37.398Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69197efea0d8a004381aae4b"
+  },
+  "date": "2025-11-07",
+  "total_waste_per_store": {
+    "Fremont": 451,
+    "Sunnyvale": 563,
+    "Karthik": 80,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-16T07:36:30.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691ace6fa0d8a004381aaf28"
+  },
+  "date": "2025-11-15",
+  "total_waste_per_store": {
+    "Fremont": 1515.67,
+    "Sunnyvale": 0,
+    "Karthik": 399.18,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-24T07:25:50.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691ad15ba0d8a004381aaf29"
+  },
+  "date": "2025-11-08",
+  "total_waste_per_store": {
+    "Fremont": 473,
+    "Sunnyvale": 391,
+    "Karthik": 304,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-17T07:40:11.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691c221ca0d8a004381ab14d"
+  },
+  "date": "2025-11-16",
+  "total_waste_per_store": {
+    "Fremont": 3045.29,
+    "Sunnyvale": 784.68,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-25T07:59:52.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691c24d9a0d8a004381ab14f"
+  },
+  "date": "2025-11-09",
+  "total_waste_per_store": {
+    "Fremont": 632,
+    "Sunnyvale": 0,
+    "Karthik": 254,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-18T07:48:40.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691d2af1e9b55387709239ec"
+  },
+  "date": "2025-11-17",
+  "total_waste_per_store": {
+    "Fremont": 2221.03,
+    "Sunnyvale": 0,
+    "Karthik": 494.7,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-26T07:13:40.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "691f1e41e9b5538770923ba1"
+  },
+  "date": "2025-11-19",
+  "total_waste_per_store": {
+    "Fremont": 1082.51,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-28T07:19:06.371Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69215f80e9b55387709240c2"
+  },
+  "date": "2025-11-20",
+  "total_waste_per_store": {
+    "Fremont": 398.56,
+    "Sunnyvale": 1424.98,
+    "Karthik": 595.59,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-29T07:15:01.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6922b18ce9b5538770924482"
+  },
+  "date": "2025-11-21",
+  "total_waste_per_store": {
+    "Fremont": 401.88,
+    "Sunnyvale": 265.06,
+    "Karthik": 0,
+    "Milpitas": 109.31
+  },
+  "updated_at": {
+    "$date": "2025-11-30T07:23:50.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692405b8e9b553877092459c"
+  },
+  "date": "2025-11-22",
+  "total_waste_per_store": {
+    "Fremont": 564.4,
+    "Sunnyvale": 0,
+    "Karthik": 253.51,
+    "Milpitas": 72.21
+  },
+  "updated_at": {
+    "$date": "2025-12-01T07:16:33.302Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69255f07e9b55387709247ef"
+  },
+  "date": "2025-11-23",
+  "total_waste_per_store": {
+    "Fremont": 700.76,
+    "Sunnyvale": 843.65,
+    "Karthik": 231.4,
+    "Milpitas": 44.24
+  },
+  "updated_at": {
+    "$date": "2025-12-02T07:22:54.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6926a5cee9b5538770924802"
+  },
+  "date": "2025-11-24",
+  "total_waste_per_store": {
+    "Fremont": 805.45,
+    "Sunnyvale": 0,
+    "Karthik": 223.8,
+    "Milpitas": 63.45
+  },
+  "updated_at": {
+    "$date": "2025-12-03T07:21:39.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6927f93ae9b5538770924a2d"
+  },
+  "date": "2025-11-25",
+  "total_waste_per_store": {
+    "Fremont": 741.09,
+    "Sunnyvale": 544.6,
+    "Karthik": 303.3,
+    "Milpitas": 182.98
+  },
+  "updated_at": {
+    "$date": "2025-12-04T07:14:17.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6927fc10e9b5538770924d3d"
+  },
+  "date": "2025-11-18",
+  "total_waste_per_store": {
+    "Fremont": 1831.81,
+    "Sunnyvale": 578.86,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-11-27T07:21:52.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69294a2ce9b55387709250f4"
+  },
+  "date": "2025-11-26",
+  "total_waste_per_store": {
+    "Fremont": 383.69,
+    "Sunnyvale": 599,
+    "Karthik": 0,
+    "Milpitas": 126.36
+  },
+  "updated_at": {
+    "$date": "2025-12-05T07:16:24.293Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692a9a8be9b5538770925149"
+  },
+  "date": "2025-11-27",
+  "total_waste_per_store": {
+    "Fremont": 480.84,
+    "Sunnyvale": 470.42,
+    "Karthik": 838.88,
+    "Milpitas": 108.02
+  },
+  "updated_at": {
+    "$date": "2025-11-29T07:02:35.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692bee3ce9b5538770925520"
+  },
+  "date": "2025-11-28",
+  "total_waste_per_store": {
+    "Fremont": 659.15,
+    "Sunnyvale": 535.72,
+    "Karthik": 0,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2025-12-07T07:16:33.290Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692d3e0de9b553877092552f"
+  },
+  "date": "2025-11-29",
+  "total_waste_per_store": {
+    "Fremont": 277.07,
+    "Sunnyvale": 541.94,
+    "Karthik": 96.71,
+    "Milpitas": 169.58
+  },
+  "updated_at": {
+    "$date": "2025-12-08T07:17:46.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692e90f0e9b553877092574f"
+  },
+  "date": "2025-11-30",
+  "total_waste_per_store": {
+    "Fremont": 319.63,
+    "Sunnyvale": 360.54,
+    "Karthik": 74.44,
+    "Milpitas": 91.62
+  },
+  "updated_at": {
+    "$date": "2025-12-09T06:49:38.606Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692fe23de9b55387709258f1"
+  },
+  "date": "2025-12-01",
+  "total_waste_per_store": {
+    "Fremont": 347.68,
+    "Sunnyvale": 0,
+    "Karthik": 285.68,
+    "Milpitas": 36.14
+  },
+  "updated_at": {
+    "$date": "2025-12-10T06:39:16.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693131ebe9b55387709259f4"
+  },
+  "date": "2025-12-02",
+  "total_waste_per_store": {
+    "Fremont": 572.52,
+    "Sunnyvale": 853.69,
+    "Karthik": 75.37,
+    "Milpitas": 55.25
+  },
+  "updated_at": {
+    "$date": "2025-12-11T06:38:07.765Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693283cfe9b5538770925dbf"
+  },
+  "date": "2025-12-03",
+  "total_waste_per_store": {
+    "Fremont": 623.07,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 23
+  },
+  "updated_at": {
+    "$date": "2025-12-12T07:33:06.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693526b3e9b55387709260ad"
+  },
+  "date": "2025-12-05",
+  "total_waste_per_store": {
+    "Fremont": 411.48,
+    "Sunnyvale": 498.35,
+    "Karthik": 163.36,
+    "Milpitas": 50.65
+  },
+  "updated_at": {
+    "$date": "2025-12-14T07:16:43.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693678bde9b5538770926520"
+  },
+  "date": "2025-12-06",
+  "total_waste_per_store": {
+    "Fremont": 389.25,
+    "Sunnyvale": 0,
+    "Karthik": 303.47,
+    "Milpitas": 112.53
+  },
+  "updated_at": {
+    "$date": "2025-12-15T07:32:20.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6937c3b3e9b55387709265eb"
+  },
+  "date": "2025-12-07",
+  "total_waste_per_store": {
+    "Fremont": 638.46,
+    "Sunnyvale": 1468.29,
+    "Karthik": 180.27,
+    "Milpitas": 78.44
+  },
+  "updated_at": {
+    "$date": "2025-12-09T06:37:39.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693912bce9b5538770926873"
+  },
+  "date": "2025-12-08",
+  "total_waste_per_store": {
+    "Fremont": 684.1,
+    "Sunnyvale": 692.44,
+    "Karthik": 150.07,
+    "Milpitas": 59.02
+  },
+  "updated_at": {
+    "$date": "2025-12-17T06:48:38.206Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693a63f9e9b5538770926b68"
+  },
+  "date": "2025-12-09",
+  "total_waste_per_store": {
+    "Fremont": 737.05,
+    "Sunnyvale": 408.7,
+    "Karthik": 279.89,
+    "Milpitas": 86.31
+  },
+  "updated_at": {
+    "$date": "2025-12-11T06:26:01.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693bc238e9b55387709272d2"
+  },
+  "date": "2025-12-10",
+  "total_waste_per_store": {
+    "Fremont": 1000.25,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 24.19
+  },
+  "updated_at": {
+    "$date": "2025-12-19T06:37:41.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693d0f9ee9b55387709272e6"
+  },
+  "date": "2025-12-11",
+  "total_waste_per_store": {
+    "Fremont": 471.3,
+    "Sunnyvale": 0,
+    "Karthik": 201.43,
+    "Milpitas": 59.83
+  },
+  "updated_at": {
+    "$date": "2025-12-20T06:38:26.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693d12c7e9b55387709274b8"
+  },
+  "date": "2025-12-04",
+  "total_waste_per_store": {
+    "Fremont": 2581.78,
+    "Sunnyvale": 1055.31,
+    "Karthik": 168.61,
+    "Milpitas": 29.46
+  },
+  "updated_at": {
+    "$date": "2025-12-13T07:16:23.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693e6173e9b5538770927526"
+  },
+  "date": "2025-12-12",
+  "total_waste_per_store": {
+    "Fremont": 295.63,
+    "Sunnyvale": 2430.62,
+    "Karthik": 276.9,
+    "Milpitas": 34.72
+  },
+  "updated_at": {
+    "$date": "2025-12-21T07:26:00.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "693fb61de9b55387709277e8"
+  },
+  "date": "2025-12-13",
+  "total_waste_per_store": {
+    "Fremont": 404.64,
+    "Sunnyvale": 0,
+    "Karthik": 64.42,
+    "Milpitas": 78.75
+  },
+  "updated_at": {
+    "$date": "2025-12-22T07:19:19.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6940fd01e0a662ca1c8bdd3b"
+  },
+  "date": "2025-12-14",
+  "total_waste_per_store": {
+    "Fremont": 464.23,
+    "Sunnyvale": 0,
+    "Karthik": 180.42,
+    "Milpitas": 125.39
+  },
+  "updated_at": {
+    "$date": "2025-12-23T07:18:51.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69424f21e0a662ca1c8be148"
+  },
+  "date": "2025-12-15",
+  "total_waste_per_store": {
+    "Fremont": 1432.75,
+    "Sunnyvale": 883.96,
+    "Karthik": 0,
+    "Milpitas": 39.37
+  },
+  "updated_at": {
+    "$date": "2025-12-24T07:25:03.830Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6943a0c99b29b71946c08167"
+  },
+  "date": "2025-12-16",
+  "total_waste_per_store": {
+    "Fremont": 1394.31,
+    "Sunnyvale": 445.07,
+    "Karthik": 0,
+    "Milpitas": 208.51
+  },
+  "updated_at": {
+    "$date": "2025-12-25T07:15:29.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6944efde9b29b71946c0833e"
+  },
+  "date": "2025-12-17",
+  "total_waste_per_store": {
+    "Fremont": 15799.98,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 34.54
+  },
+  "updated_at": {
+    "$date": "2025-12-26T07:16:46.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6946418b9b29b71946c08a80"
+  },
+  "date": "2025-12-18",
+  "total_waste_per_store": {
+    "Fremont": 0,
+    "Sunnyvale": 751.68,
+    "Karthik": 339.5,
+    "Milpitas": 123.68
+  },
+  "updated_at": {
+    "$date": "2025-12-27T07:37:43.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69479e0a9b29b71946c08e49"
+  },
+  "date": "2025-12-19",
+  "total_waste_per_store": {
+    "Fremont": 0,
+    "Sunnyvale": 0,
+    "Karthik": 337.19,
+    "Milpitas": 52.6
+  },
+  "updated_at": {
+    "$date": "2025-12-28T07:16:14.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6948ee0e9b29b71946c08f29"
+  },
+  "date": "2025-12-20",
+  "total_waste_per_store": {
+    "Fremont": 0,
+    "Sunnyvale": 432.02,
+    "Karthik": 0,
+    "Milpitas": 124.6
+  },
+  "updated_at": {
+    "$date": "2025-12-29T07:19:23.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694a3f779b29b71946c08f83"
+  },
+  "date": "2025-12-21",
+  "total_waste_per_store": {
+    "Fremont": 0,
+    "Sunnyvale": 0,
+    "Karthik": 52.25,
+    "Milpitas": 104.59
+  },
+  "updated_at": {
+    "$date": "2025-12-30T07:28:06.139Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694b92429b29b71946c092c9"
+  },
+  "date": "2025-12-22",
+  "total_waste_per_store": {
+    "Fremont": 1119.63,
+    "Sunnyvale": 0,
+    "Karthik": 132.25,
+    "Milpitas": 26.8
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:49:18.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694ce1ab9b29b71946c0933a"
+  },
+  "date": "2025-12-23",
+  "total_waste_per_store": {
+    "Fremont": 1470.39,
+    "Sunnyvale": 439.58,
+    "Karthik": 159.33,
+    "Milpitas": 25.61
+  },
+  "updated_at": {
+    "$date": "2025-12-25T07:03:07.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694e335e9b29b71946c09533"
+  },
+  "date": "2025-12-24",
+  "total_waste_per_store": {
+    "Fremont": 516.75,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 31.63
+  },
+  "updated_at": {
+    "$date": "2026-01-02T07:45:05.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "694f89d69b29b71946c0976f"
+  },
+  "date": "2025-12-25",
+  "total_waste_per_store": {
+    "Fremont": 344.56,
+    "Sunnyvale": 459.61,
+    "Karthik": 95.4,
+    "Milpitas": 146.95
+  },
+  "updated_at": {
+    "$date": "2026-01-03T07:33:31.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6950d6749b29b71946c0979d"
+  },
+  "date": "2025-12-26",
+  "total_waste_per_store": {
+    "Fremont": 313.11,
+    "Sunnyvale": 0,
+    "Karthik": 93.43,
+    "Milpitas": 73.25
+  },
+  "updated_at": {
+    "$date": "2025-12-28T07:04:20.330Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695228759b29b71946c09bbd"
+  },
+  "date": "2025-12-27",
+  "total_waste_per_store": {
+    "Fremont": 463.47,
+    "Sunnyvale": 410.48,
+    "Karthik": 63.37,
+    "Milpitas": 41.61
+  },
+  "updated_at": {
+    "$date": "2025-12-29T07:06:29.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69537c349b29b71946c0a25d"
+  },
+  "date": "2025-12-28",
+  "total_waste_per_store": {
+    "Fremont": 0,
+    "Sunnyvale": 516.92,
+    "Karthik": 75.84,
+    "Milpitas": 20.89
+  },
+  "updated_at": {
+    "$date": "2025-12-30T07:16:04.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6957748d9b29b71946c0a29a"
+  },
+  "date": "2025-12-31",
+  "total_waste_per_store": {
+    "Fremont": 415.31,
+    "Sunnyvale": 376.18,
+    "Karthik": 0,
+    "Milpitas": 24.38
+  },
+  "updated_at": {
+    "$date": "2026-01-09T06:35:46.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6958c36b9b29b71946c0a2d5"
+  },
+  "date": "2026-01-01",
+  "total_waste_per_store": {
+    "Fremont": 845.8,
+    "Sunnyvale": 347.24,
+    "Karthik": 121.73,
+    "Milpitas": 49.4
+  },
+  "updated_at": {
+    "$date": "2026-01-10T06:29:04.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6960a0b89b29b71946c0a3aa"
+  },
+  "date": "2026-01-07",
+  "total_waste_per_store": {
+    "Fremont": 297.16,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 31.54
+  },
+  "updated_at": {
+    "$date": "2026-01-16T06:27:51.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6961f0a59b29b71946c0a45d"
+  },
+  "date": "2026-01-08",
+  "total_waste_per_store": {
+    "Fremont": 321.98,
+    "Sunnyvale": 0,
+    "Karthik": 70.47,
+    "Milpitas": 128.12
+  },
+  "updated_at": {
+    "$date": "2026-01-17T06:27:12.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6963424f9b29b71946c0c0b6"
+  },
+  "date": "2026-01-09",
+  "total_waste_per_store": {
+    "Fremont": 309.45,
+    "Sunnyvale": 654.08,
+    "Karthik": 9.65,
+    "Milpitas": 36.86
+  },
+  "updated_at": {
+    "$date": "2026-01-18T06:37:05.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6963434e9b29b71946c0c0de"
+  },
+  "date": "2026-01-02",
+  "total_waste_per_store": {
+    "Fremont": 1312.36,
+    "Sunnyvale": 0,
+    "Karthik": 63.55,
+    "Milpitas": 44.61
+  },
+  "updated_at": {
+    "$date": "2026-01-11T06:29:34.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6964965a9b29b71946c0c36d"
+  },
+  "date": "2026-01-10",
+  "total_waste_per_store": {
+    "Fremont": 738.74,
+    "Sunnyvale": 0,
+    "Karthik": 98.67,
+    "Milpitas": 20.77
+  },
+  "updated_at": {
+    "$date": "2026-01-19T06:32:40.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696497649b29b71946c0c36e"
+  },
+  "date": "2026-01-03",
+  "total_waste_per_store": {
+    "Fremont": 707.68,
+    "Sunnyvale": 0,
+    "Karthik": 183.86,
+    "Milpitas": 48.19
+  },
+  "updated_at": {
+    "$date": "2026-01-12T06:40:36.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6965e652f54c31bb1e546516"
+  },
+  "date": "2026-01-11",
+  "total_waste_per_store": {
+    "Fremont": 475.45,
+    "Sunnyvale": 0,
+    "Karthik": 54.5,
+    "Milpitas": 43.63
+  },
+  "updated_at": {
+    "$date": "2026-01-20T06:32:40.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6965e76bf54c31bb1e546526"
+  },
+  "date": "2026-01-04",
+  "total_waste_per_store": {
+    "Fremont": 472.23,
+    "Sunnyvale": 509.92,
+    "Karthik": 26.91,
+    "Milpitas": 31.39
+  },
+  "updated_at": {
+    "$date": "2026-01-13T06:34:19.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69673653f54c31bb1e54653c"
+  },
+  "date": "2026-01-12",
+  "total_waste_per_store": {
+    "Fremont": 481.13,
+    "Sunnyvale": 0,
+    "Karthik": 40,
+    "Milpitas": 74.6
+  },
+  "updated_at": {
+    "$date": "2026-01-21T06:38:06.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69673758f54c31bb1e546ad4"
+  },
+  "date": "2026-01-05",
+  "total_waste_per_store": {
+    "Fremont": 552.17,
+    "Sunnyvale": 0,
+    "Karthik": 99.65,
+    "Milpitas": 87.49
+  },
+  "updated_at": {
+    "$date": "2026-01-14T06:27:36.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696889c7f54c31bb1e546f3f"
+  },
+  "date": "2026-01-13",
+  "total_waste_per_store": {
+    "Fremont": 499.94,
+    "Sunnyvale": 757.68,
+    "Karthik": 90.16,
+    "Milpitas": 37.09
+  },
+  "updated_at": {
+    "$date": "2026-01-22T06:28:44.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69688ad9f54c31bb1e546f43"
+  },
+  "date": "2026-01-06",
+  "total_waste_per_store": {
+    "Fremont": 284.06,
+    "Sunnyvale": 357.55,
+    "Karthik": 38.79,
+    "Milpitas": 40.04
+  },
+  "updated_at": {
+    "$date": "2026-01-15T06:36:09.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6969d95f659d5ef78d24e17b"
+  },
+  "date": "2026-01-14",
+  "total_waste_per_store": {
+    "Fremont": 473.99,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 64.52
+  },
+  "updated_at": {
+    "$date": "2026-01-23T06:27:34.776Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696b2abd659d5ef78d24e753"
+  },
+  "date": "2026-01-15",
+  "total_waste_per_store": {
+    "Fremont": 525.66,
+    "Sunnyvale": 631.69,
+    "Karthik": 111.69,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2026-01-24T06:35:23.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696babae659d5ef78d24ec1c"
+  },
+  "date": "2025-12-29",
+  "total_waste_per_store": {
+    "Fremont": 0,
+    "Sunnyvale": 0,
+    "Karthik": 55.9,
+    "Milpitas": 49.94
+  },
+  "updated_at": {
+    "$date": "2026-01-17T18:33:02.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696c7e8a659d5ef78d24eef3"
+  },
+  "date": "2026-01-16",
+  "total_waste_per_store": {
+    "Fremont": 436.62,
+    "Sunnyvale": 0,
+    "Karthik": 83.9,
+    "Milpitas": 64.68
+  },
+  "updated_at": {
+    "$date": "2026-01-25T06:29:24.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696dcf03659d5ef78d24f1da"
+  },
+  "date": "2026-01-17",
+  "total_waste_per_store": {
+    "Fremont": 620.47,
+    "Sunnyvale": 405.93,
+    "Karthik": 29.89,
+    "Milpitas": 38.86
+  },
+  "updated_at": {
+    "$date": "2026-01-26T06:38:32.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696f2083659d5ef78d24f6b3"
+  },
+  "date": "2026-01-18",
+  "total_waste_per_store": {
+    "Fremont": 1080.32,
+    "Sunnyvale": 0,
+    "Karthik": 107.36,
+    "Milpitas": 32.88
+  },
+  "updated_at": {
+    "$date": "2026-01-27T06:41:30.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69707348659d5ef78d24f9b7"
+  },
+  "date": "2026-01-19",
+  "total_waste_per_store": {
+    "Fremont": 703.95,
+    "Sunnyvale": 254.02,
+    "Karthik": 99.7,
+    "Milpitas": 23.6
+  },
+  "updated_at": {
+    "$date": "2026-01-28T06:29:14.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6971c27b659d5ef78d24fa87"
+  },
+  "date": "2026-01-20",
+  "total_waste_per_store": {
+    "Fremont": 666.17,
+    "Sunnyvale": 214.91,
+    "Karthik": 89.45,
+    "Milpitas": 24.33
+  },
+  "updated_at": {
+    "$date": "2026-01-29T06:27:09.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697313d527c3557252283ff8"
+  },
+  "date": "2026-01-21",
+  "total_waste_per_store": {
+    "Fremont": 513.67,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 51.19
+  },
+  "updated_at": {
+    "$date": "2026-01-30T06:35:14.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6974671227c3557252284614"
+  },
+  "date": "2026-01-22",
+  "total_waste_per_store": {
+    "Fremont": 430.21,
+    "Sunnyvale": 0,
+    "Karthik": 90.51,
+    "Milpitas": 104.16
+  },
+  "updated_at": {
+    "$date": "2026-01-31T06:27:51.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6975b74727c35572522849b8"
+  },
+  "date": "2026-01-23",
+  "total_waste_per_store": {
+    "Fremont": 551.74,
+    "Sunnyvale": 987.27,
+    "Karthik": 29.16,
+    "Milpitas": 41.08
+  },
+  "updated_at": {
+    "$date": "2026-02-01T06:30:17.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69770adc27c3557252284a74"
+  },
+  "date": "2026-01-24",
+  "total_waste_per_store": {
+    "Fremont": 925.81,
+    "Sunnyvale": 358.27,
+    "Karthik": 56.22,
+    "Milpitas": 30.11
+  },
+  "updated_at": {
+    "$date": "2026-02-02T06:41:48.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69785d0dccee478f2bb18fa3"
+  },
+  "date": "2026-01-25",
+  "total_waste_per_store": {
+    "Fremont": 875.3,
+    "Sunnyvale": 1210.4,
+    "Karthik": 25.7,
+    "Milpitas": 33.03
+  },
+  "updated_at": {
+    "$date": "2026-02-03T06:34:40.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6979aba7ccee478f2bb347a9"
+  },
+  "date": "2026-01-26",
+  "total_waste_per_store": {
+    "Fremont": 758.43,
+    "Sunnyvale": 0,
+    "Karthik": 49.11,
+    "Milpitas": 21.67
+  },
+  "updated_at": {
+    "$date": "2026-02-04T06:29:12.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697afc9dccee478f2bb441ab"
+  },
+  "date": "2026-01-27",
+  "total_waste_per_store": {
+    "Fremont": 486.59,
+    "Sunnyvale": 1151.85,
+    "Karthik": 97.19,
+    "Milpitas": 22.13
+  },
+  "updated_at": {
+    "$date": "2026-02-05T06:36:50.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697c5010bd8ed155e1ea84c3"
+  },
+  "date": "2026-01-28",
+  "total_waste_per_store": {
+    "Fremont": 407.93,
+    "Sunnyvale": 0,
+    "Karthik": 416.73,
+    "Milpitas": 26.98
+  },
+  "updated_at": {
+    "$date": "2026-02-06T06:27:29.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697d9fc9259c0f7550544a4b"
+  },
+  "date": "2026-01-29",
+  "total_waste_per_store": {
+    "Fremont": 582.73,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 112.46
+  },
+  "updated_at": {
+    "$date": "2026-02-07T06:27:19.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "697ef1da259c0f755054549e"
+  },
+  "date": "2026-01-30",
+  "total_waste_per_store": {
+    "Fremont": 629.25,
+    "Sunnyvale": 533.2,
+    "Karthik": 98.16,
+    "Milpitas": 27.25
+  },
+  "updated_at": {
+    "$date": "2026-02-08T06:42:48.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69804619259c0f7550545aff"
+  },
+  "date": "2026-01-31",
+  "total_waste_per_store": {
+    "Fremont": 506.4,
+    "Sunnyvale": 470.16,
+    "Karthik": 326.64,
+    "Milpitas": 69.71
+  },
+  "updated_at": {
+    "$date": "2026-02-09T06:33:50.087Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698195f1259c0f755054613e"
+  },
+  "date": "2026-02-01",
+  "total_waste_per_store": {
+    "Fremont": 680.08,
+    "Sunnyvale": 0,
+    "Karthik": 65.77,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2026-02-10T06:32:22.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6982e62f259c0f755054620a"
+  },
+  "date": "2026-02-02",
+  "total_waste_per_store": {
+    "Fremont": 693.32,
+    "Sunnyvale": 0,
+    "Karthik": 44.01,
+    "Milpitas": 27.82
+  },
+  "updated_at": {
+    "$date": "2026-02-11T06:35:21.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69843957259c0f75505467c2"
+  },
+  "date": "2026-02-03",
+  "total_waste_per_store": {
+    "Fremont": 494.65,
+    "Sunnyvale": 482.89,
+    "Karthik": 187.19,
+    "Milpitas": 25.09
+  },
+  "updated_at": {
+    "$date": "2026-02-12T06:26:59.656Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698588c213176e9683626496"
+  },
+  "date": "2026-02-04",
+  "total_waste_per_store": {
+    "Fremont": 636.53,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 206
+  },
+  "updated_at": {
+    "$date": "2026-02-13T06:27:45.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6986da3313176e9683626825"
+  },
+  "date": "2026-02-05",
+  "total_waste_per_store": {
+    "Fremont": 788.86,
+    "Sunnyvale": 0,
+    "Karthik": 165.5,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2026-02-14T06:35:26.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69882f5d13176e9683626fda"
+  },
+  "date": "2026-02-06",
+  "total_waste_per_store": {
+    "Fremont": 672.3,
+    "Sunnyvale": 0,
+    "Karthik": 76.9,
+    "Milpitas": 46.62
+  },
+  "updated_at": {
+    "$date": "2026-02-15T06:29:59.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69897eb513176e968362712d"
+  },
+  "date": "2026-02-07",
+  "total_waste_per_store": {
+    "Fremont": 960.78,
+    "Sunnyvale": 524.32,
+    "Karthik": 132.47,
+    "Milpitas": 45.02
+  },
+  "updated_at": {
+    "$date": "2026-02-16T06:34:17.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698acfef13176e9683627251"
+  },
+  "date": "2026-02-08",
+  "total_waste_per_store": {
+    "Fremont": 689.92,
+    "Sunnyvale": 0,
+    "Karthik": 113.9,
+    "Milpitas": 20.45
+  },
+  "updated_at": {
+    "$date": "2026-02-17T06:41:26.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698c222d13176e9683627fdb"
+  },
+  "date": "2026-02-09",
+  "total_waste_per_store": {
+    "Fremont": 562.22,
+    "Sunnyvale": 0,
+    "Karthik": 117.39,
+    "Milpitas": 24.47
+  },
+  "updated_at": {
+    "$date": "2026-02-18T06:30:19.055Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d71a713176e9683629419"
+  },
+  "date": "2026-02-10",
+  "total_waste_per_store": {
+    "Fremont": 17330.71,
+    "Sunnyvale": 464.67,
+    "Karthik": 0,
+    "Milpitas": 14.65
+  },
+  "updated_at": {
+    "$date": "2026-02-19T06:27:57.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698ec34c13176e9683629fb6"
+  },
+  "date": "2026-02-11",
+  "total_waste_per_store": {
+    "Fremont": 500.31,
+    "Sunnyvale": 312.49,
+    "Karthik": 102.5,
+    "Milpitas": 158.06
+  },
+  "updated_at": {
+    "$date": "2026-02-20T06:33:30.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699016a088f1c564b991ed89"
+  },
+  "date": "2026-02-12",
+  "total_waste_per_store": {
+    "Fremont": 514.74,
+    "Sunnyvale": 0,
+    "Karthik": 251.44,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2026-02-21T06:26:05.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699166da88f1c564b991edc3"
+  },
+  "date": "2026-02-13",
+  "total_waste_per_store": {
+    "Fremont": 709.07,
+    "Sunnyvale": 0,
+    "Karthik": 35.95,
+    "Milpitas": 42.76
+  },
+  "updated_at": {
+    "$date": "2026-02-22T06:28:35.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6992b94588f1c564b991f1b4"
+  },
+  "date": "2026-02-14",
+  "total_waste_per_store": {
+    "Fremont": 941.7,
+    "Sunnyvale": 0,
+    "Karthik": 180.28,
+    "Milpitas": 27.14
+  },
+  "updated_at": {
+    "$date": "2026-02-23T06:40:35.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69940c8088f1c564b991f78a"
+  },
+  "date": "2026-02-15",
+  "total_waste_per_store": {
+    "Fremont": 2185.79,
+    "Sunnyvale": 1423.46,
+    "Karthik": 153.92,
+    "Milpitas": 28.64
+  },
+  "updated_at": {
+    "$date": "2026-02-24T06:33:01.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6994cf1288f1c564b991fed4"
+  },
+  "date": "2026-02-16",
+  "total_waste_per_store": {
+    "Fremont": 1834.89,
+    "Sunnyvale": 466.16,
+    "Karthik": 323.02,
+    "Milpitas": 63.82
+  },
+  "updated_at": {
+    "$date": "2026-02-25T06:28:44.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6996ac4f88f1c564b9925319"
+  },
+  "date": "2026-02-17",
+  "total_waste_per_store": {
+    "Fremont": 672.92,
+    "Sunnyvale": 317.74,
+    "Karthik": 178.6,
+    "Milpitas": 21.66
+  },
+  "updated_at": {
+    "$date": "2026-02-26T06:34:28.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6997ff1688f1c564b9925c93"
+  },
+  "date": "2026-02-18",
+  "total_waste_per_store": {
+    "Fremont": 531.1,
+    "Sunnyvale": 0,
+    "Karthik": 0,
+    "Milpitas": 144.28
+  },
+  "updated_at": {
+    "$date": "2026-02-20T06:28:37.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69994eec88f1c564b9925d43"
+  },
+  "date": "2026-02-19",
+  "total_waste_per_store": {
+    "Fremont": 5038.83,
+    "Sunnyvale": 0,
+    "Karthik": 128.96,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2026-02-21T06:21:32.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699aa10588f1c564b99260cd"
+  },
+  "date": "2026-02-20",
+  "total_waste_per_store": {
+    "Fremont": 426.96,
+    "Sunnyvale": 0,
+    "Karthik": 49.43,
+    "Milpitas": 20.71
+  },
+  "updated_at": {
+    "$date": "2026-02-22T06:24:05.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699bf54388f1c564b99263d6"
+  },
+  "date": "2026-02-21",
+  "total_waste_per_store": {
+    "Fremont": 5700.13,
+    "Sunnyvale": 899.08,
+    "Karthik": 158.92,
+    "Milpitas": 33.28
+  },
+  "updated_at": {
+    "$date": "2026-02-23T06:35:47.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699d44db88f1c564b9926766"
+  },
+  "date": "2026-02-22",
+  "total_waste_per_store": {
+    "Fremont": 3501.65,
+    "Sunnyvale": 0,
+    "Karthik": 108.08,
+    "Milpitas": 52.73
+  },
+  "updated_at": {
+    "$date": "2026-02-24T06:27:39.815Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699e384388f1c564b9926b4d"
+  },
+  "date": "2026-02-23",
+  "total_waste_per_store": {
+    "Fremont": 985.28,
+    "Sunnyvale": 0,
+    "Karthik": 129.38,
+    "Milpitas": 59.47
+  },
+  "updated_at": {
+    "$date": "2026-02-25T06:23:45.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "699fe84da1e1960190bc0a1e"
+  },
+  "date": "2026-02-24",
+  "total_waste_per_store": {
+    "Fremont": 1019.3,
+    "Sunnyvale": 494.66,
+    "Karthik": 145.81,
+    "Milpitas": 0
+  },
+  "updated_at": {
+    "$date": "2026-02-26T06:29:33.137Z"
+  }
+}]

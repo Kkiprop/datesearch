@@ -1,0 +1,2 @@
+href,id,currency,employee.id,total,paymentState,title,orderType.id,taxRemoved,isVat,state,manualTransaction,groupLineItems,testMode,payType,createdTime,clientCreatedTime,modifiedTime,device.id
+https://www.clover.com/v3/merchants/2TTAH3S6K6KQ1/orders/08AD4VV2AB1ZW,08AD4VV2AB1ZW,USD,B591C78APPA2E,1432,OPEN,507,TBAA2ZGQF49TJ,False,False,locked,False,True,False,FULL,1785134803000,1785134801000,1785134816000,c3ec9219-a5de-d2d9-80a6-518328476735

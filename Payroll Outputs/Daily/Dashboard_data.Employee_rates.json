@@ -1,0 +1,3830 @@
+[{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26f7"
+  },
+  "SSN": "xxx-xx-9578",
+  "Employee Name": "Ahlawat, Deepak",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26fd"
+  },
+  "SSN": "xxx-xx-3972",
+  "Employee Name": "Kumar, Sandeep",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26ff"
+  },
+  "SSN": "xxx-xx-3906",
+  "Employee Name": "MAAN, BALJINDER",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2700"
+  },
+  "SSN": "xxx-xx-3399",
+  "Employee Name": "ONOFRE, JUAN",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2702"
+  },
+  "SSN": "xxx-xx-7856",
+  "Employee Name": "PEREZ, LUIS",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2703"
+  },
+  "SSN": "xxx-xx-3425",
+  "Employee Name": "Petrozzi, Renzo",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2707"
+  },
+  "SSN": "xxx-xx-3178",
+  "Employee Name": "Singh, Harjot",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2708"
+  },
+  "SSN": "xxx-xx-2969",
+  "Employee Name": "Singh, Harvinder",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed270a"
+  },
+  "SSN": "xxx-xx-9455",
+  "Employee Name": "Singh, Manpreet",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2710"
+  },
+  "SSN": "xxx-xx-7165",
+  "Employee Name": "Chavarro Luna, Laura Valentine",
+  "Regular Rate": 17.8,
+  "Overtime Rate": 26.7,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2713"
+  },
+  "SSN": "xxx-xx-3997",
+  "Employee Name": "Pachon Salcedo, Duvan Andres",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2717"
+  },
+  "SSN": "xxx-xx-1869",
+  "Employee Name": "Singh, Atul",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2718"
+  },
+  "SSN": "xxx-xx-5145",
+  "Employee Name": "Bocanegra Reyes, Rafael Alejandro",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2719"
+  },
+  "SSN": "xxx-xx-6317",
+  "Employee Name": "Gajjan Singh, No Name Given",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed271a"
+  },
+  "SSN": "xxx-xx-9884",
+  "Employee Name": "Ramirez, Jaime",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed271b"
+  },
+  "SSN": "xxx-xx-6571",
+  "Employee Name": "Bajwa, Karanvir",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed271d"
+  },
+  "SSN": "xxx-xx-3024",
+  "Employee Name": "Cruz Ubaldo, Aguilar",
+  "Regular Rate": 18.5,
+  "Overtime Rate": 27.75,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2720"
+  },
+  "SSN": "xxx-xx-9678",
+  "Employee Name": "Kaur, Ramandeep",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2723"
+  },
+  "SSN": "xxx-xx-0158",
+  "Employee Name": "Perez, Andrea",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2728"
+  },
+  "SSN": "xxx-xx-7869",
+  "Employee Name": "Sheikh, Anishbhai Jafarbhai",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2729"
+  },
+  "SSN": "xxx-xx-7153",
+  "Employee Name": "Silveria, Ana Maria",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed272d"
+  },
+  "SSN": "xxx-xx-0412",
+  "Employee Name": "Sumit, No Given Name",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2738"
+  },
+  "SSN": "xxx-xx-7482",
+  "Employee Name": "Singh, Sahib",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed273c"
+  },
+  "SSN": "xxx-xx-2412",
+  "Employee Name": "Mairena Zeledon, Heyder Antonio",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed273f"
+  },
+  "SSN": "xxx-xx-6879",
+  "Employee Name": "Iguit Suy, Sebastian",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2741"
+  },
+  "SSN": "xxx-xx-4314",
+  "Employee Name": "Santizo Gomez, Carlos Enrique",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2744"
+  },
+  "SSN": "xxx-xx-4812",
+  "Employee Name": "Morales Panjoj, Pedro Noe",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2745"
+  },
+  "SSN": "xxx-xx-1028",
+  "Employee Name": "Rivera Martinez, Danis Antonio",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2746"
+  },
+  "SSN": "xxx-xx-2405",
+  "Employee Name": "Rodriguez Bautista, Luis",
+  "Regular Rate": 22,
+  "Overtime Rate": 33,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2747"
+  },
+  "SSN": "xxx-xx-0780",
+  "Employee Name": "Silva, Leonel Cruz",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed274b"
+  },
+  "SSN": "xxx-xx-8810",
+  "Employee Name": "Tirupathi, Nithish",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2752"
+  },
+  "SSN": "xxx-xx-4823",
+  "Employee Name": "Bellorin, Joxin",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2760"
+  },
+  "SSN": "xxx-xx-5305",
+  "Employee Name": "Kaur, Baljeet",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed276a"
+  },
+  "SSN": "xxx-xx-5092",
+  "Employee Name": "Kaur, Sukhdeep",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed276f"
+  },
+  "SSN": "xxx-xx-0484",
+  "Employee Name": "Kumar, Arvind",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2775"
+  },
+  "SSN": "xxx-xx-9838",
+  "Employee Name": "Linares, Andrea",
+  "Regular Rate": 17.300013,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2777"
+  },
+  "SSN": "xxx-xx-5963",
+  "Employee Name": "Lopez Rodriguez, Rafael",
+  "Regular Rate": 0.428625,
+  "Overtime Rate": 0.64,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2778"
+  },
+  "SSN": "xxx-xx-4587",
+  "Employee Name": "Ludrik, Gabriel C",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed277e"
+  },
+  "SSN": "xxx-xx-5293",
+  "Employee Name": "Montiel Saavedra, Evelin",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2785"
+  },
+  "SSN": "xxx-xx-5989",
+  "Employee Name": "Rani, Reena",
+  "Regular Rate": 17.29997,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed278e"
+  },
+  "SSN": "xxx-xx-2868",
+  "Employee Name": "Shah, Syed Muhammad Aun Ali",
+  "Regular Rate": 17.300008,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2792"
+  },
+  "SSN": "xxx-xx-3625",
+  "Employee Name": "Singh, Arshdeep",
+  "Regular Rate": 17.405066,
+  "Overtime Rate": 26.11,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2795"
+  },
+  "SSN": "xxx-xx-8694",
+  "Employee Name": "Singh, Gurmeet",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2797"
+  },
+  "SSN": "xxx-xx-0699",
+  "Employee Name": "Singh, Harshdeep",
+  "Regular Rate": 17.300042,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed279b"
+  },
+  "SSN": "xxx-xx-0347",
+  "Employee Name": "Singh, Mukta",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a3"
+  },
+  "SSN": "xxx-xx-0176",
+  "Employee Name": "LNU, Nancy",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a4"
+  },
+  "SSN": "xxx-xx-0435",
+  "Employee Name": "Rawal, Aaryan",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a8"
+  },
+  "SSN": "xxx-xx-5990",
+  "Employee Name": "LNU, PRINCE",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ad"
+  },
+  "SSN": "xxx-xx-0616",
+  "Employee Name": "Jayaraman, Selvendran",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b1"
+  },
+  "SSN": "xxx-xx-1677",
+  "Employee Name": "Singh, Harshpreet",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b8"
+  },
+  "SSN": "xxx-xx-4501",
+  "Employee Name": "Bura, Vanshika",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27be"
+  },
+  "SSN": "xxx-xx-6564",
+  "Employee Name": "Singh, Jagseer",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c1"
+  },
+  "SSN": "xxx-xx-7624",
+  "Employee Name": "Jochola Perez, Alan Gaspar",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c3"
+  },
+  "SSN": "xxx-xx-4135",
+  "Employee Name": "Moreno, Elvin",
+  "Regular Rate": 23,
+  "Overtime Rate": 34.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c8"
+  },
+  "SSN": "xxx-xx-4517",
+  "Employee Name": "Gadan, Sai Kiran",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ca"
+  },
+  "SSN": "xxx-xx-7342",
+  "Employee Name": "Morales, Noe",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27cf"
+  },
+  "SSN": "xxx-xx-2803",
+  "Employee Name": "Kaur, Satwinder",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d3"
+  },
+  "SSN": "xxx-xx-4305",
+  "Employee Name": "Singh, Palwinder",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27de"
+  },
+  "SSN": "xxx-xx-8380",
+  "Employee Name": "Kaur, Jaskiran",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e2"
+  },
+  "SSN": "xxx-xx-1781",
+  "Employee Name": "LNU, Prakshi",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e4"
+  },
+  "SSN": "xxx-xx-1168",
+  "Employee Name": "Mohmand, Jalaluddin",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e7"
+  },
+  "SSN": "xxx-xx-0147",
+  "Employee Name": "Netha, Harika",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e9"
+  },
+  "SSN": "xxx-xx-9320",
+  "Employee Name": "Rao, Avani",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27eb"
+  },
+  "SSN": "xxx-xx-0369",
+  "Employee Name": "Reddy, Pavan",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26fc"
+  },
+  "SSN": "xxx-xx-8093",
+  "Employee Name": "Himanshu, Himanshu",
+  "Regular Rate": 21,
+  "Overtime Rate": 31.5,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26fe"
+  },
+  "SSN": "xxx-xx-8310",
+  "Employee Name": "Lozano Macias, Yan Carlos",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2709"
+  },
+  "SSN": "xxx-xx-5665",
+  "Employee Name": "Singh, Karamjeet",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed270b"
+  },
+  "SSN": "xxx-xx-0240",
+  "Employee Name": "Deol, Davinder Singh",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed270e"
+  },
+  "SSN": "xxx-xx-8777",
+  "Employee Name": "Fatima, Aisha",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed271c"
+  },
+  "SSN": "xxx-xx-6916",
+  "Employee Name": "No Given Name, Jaipal",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2722"
+  },
+  "SSN": "xxx-xx-5041",
+  "Employee Name": "Malik, Aman",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2725"
+  },
+  "SSN": "xxx-xx-6967",
+  "Employee Name": "Rivera, Gricelda",
+  "Regular Rate": 18.5,
+  "Overtime Rate": 27.75,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed272b"
+  },
+  "SSN": "xxx-xx-8525",
+  "Employee Name": "Singh, Gurshaan",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed272e"
+  },
+  "SSN": "xxx-xx-3393",
+  "Employee Name": "Walahi, Asma",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2731"
+  },
+  "SSN": "xxx-xx-5868",
+  "Employee Name": "Mathew, Michael",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2733"
+  },
+  "SSN": "xxx-xx-8561",
+  "Employee Name": "Rogers, Dene",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2734"
+  },
+  "SSN": "xxx-xx-2799",
+  "Employee Name": "Singh, Amrit Pal",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed273d"
+  },
+  "SSN": "xxx-xx-0133",
+  "Employee Name": "Manuel Suar, Erick Morales",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed273e"
+  },
+  "SSN": "xxx-xx-0253",
+  "Employee Name": "Morales Panjoj, Juan Samuel",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed274c"
+  },
+  "SSN": "xxx-xx-4029",
+  "Employee Name": "Acosta, Medely",
+  "Regular Rate": 17.453191,
+  "Overtime Rate": 26.18,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2751"
+  },
+  "SSN": "xxx-xx-2818",
+  "Employee Name": "Balhara, Sachin",
+  "Regular Rate": 17.749941,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2753"
+  },
+  "SSN": "xxx-xx-2139",
+  "Employee Name": "Claros, Andres",
+  "Regular Rate": 17.299951,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2754"
+  },
+  "SSN": "xxx-xx-6510",
+  "Employee Name": "Conoz, Roxana",
+  "Regular Rate": 17.361671,
+  "Overtime Rate": 26.04,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2756"
+  },
+  "SSN": "xxx-xx-8390",
+  "Employee Name": "Coronado, Alva G",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed275a"
+  },
+  "SSN": "xxx-xx-3663",
+  "Employee Name": "Faramarz, Zahra",
+  "Regular Rate": 17.300012,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed275b"
+  },
+  "SSN": "xxx-xx-1841",
+  "Employee Name": "Fonseca Urrutia, Ingrid Del Carme",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed275d"
+  },
+  "SSN": "xxx-xx-3411",
+  "Employee Name": "Juarez Mendez, Pablo Jesus",
+  "Regular Rate": 17.515702,
+  "Overtime Rate": 26.27,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed275e"
+  },
+  "SSN": "xxx-xx-4605",
+  "Employee Name": "Jyoti, Jyoti",
+  "Regular Rate": 17.300031,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed275f"
+  },
+  "SSN": "xxx-xx-7827",
+  "Employee Name": "Karimi, Deeba",
+  "Regular Rate": 17.46449,
+  "Overtime Rate": 26.2,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2763"
+  },
+  "SSN": "xxx-xx-3723",
+  "Employee Name": "Kaur, Jaismeen",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2765"
+  },
+  "SSN": "xxx-xx-4213",
+  "Employee Name": "Kaur, Navjot",
+  "Regular Rate": 17.42,
+  "Overtime Rate": 26.13,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2766"
+  },
+  "SSN": "xxx-xx-2090",
+  "Employee Name": "Kaur, Prabhjot",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2767"
+  },
+  "SSN": "xxx-xx-7383",
+  "Employee Name": "Kaur, Prabhjot",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2774"
+  },
+  "SSN": "xxx-xx-7812",
+  "Employee Name": "Laguna, Justin",
+  "Regular Rate": 17.300011,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2776"
+  },
+  "SSN": "xxx-xx-7819",
+  "Employee Name": "Lopez Rodriguez, Carina",
+  "Regular Rate": 17.394737,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2781"
+  },
+  "SSN": "xxx-xx-2573",
+  "Employee Name": "Pal, Parveen",
+  "Regular Rate": 17.394737,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2782"
+  },
+  "SSN": "xxx-xx-4529",
+  "Employee Name": "Preet, Kamal",
+  "Regular Rate": 17.392531,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2786"
+  },
+  "SSN": "xxx-xx-7682",
+  "Employee Name": "Recinos, Yefferson",
+  "Regular Rate": 17.45,
+  "Overtime Rate": 26.17,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2788"
+  },
+  "SSN": "xxx-xx-7988",
+  "Employee Name": "Reyes, Oscar",
+  "Regular Rate": 17.404529,
+  "Overtime Rate": 26.11,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed278c"
+  },
+  "SSN": "xxx-xx-7639",
+  "Employee Name": "Sanchez, Walter Jimenez",
+  "Regular Rate": 17.370593,
+  "Overtime Rate": 26.06,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2790"
+  },
+  "SSN": "xxx-xx-9025",
+  "Employee Name": "Sheokand, Sumit",
+  "Regular Rate": 17.300005,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2796"
+  },
+  "SSN": "xxx-xx-0992",
+  "Employee Name": "Singh, Gurpreet",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2798"
+  },
+  "SSN": "xxx-xx-6761",
+  "Employee Name": "Singh, Jagtar",
+  "Regular Rate": 17.300019,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2799"
+  },
+  "SSN": "xxx-xx-5558",
+  "Employee Name": "Singh, Jugjeet",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed279d"
+  },
+  "SSN": "xxx-xx-0644",
+  "Employee Name": "Singh, Rajvinder",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed279e"
+  },
+  "SSN": "xxx-xx-2197",
+  "Employee Name": "Singh, Ranveer",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed279f"
+  },
+  "SSN": "xxx-xx-6826",
+  "Employee Name": "Singh, Rinky",
+  "Regular Rate": 17.300007,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a0"
+  },
+  "SSN": "xxx-xx-0247",
+  "Employee Name": "Thakur, Ashmit",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a2"
+  },
+  "SSN": "xxx-xx-8904",
+  "Employee Name": "Velasquez Iguit, Ismael",
+  "Regular Rate": 17.299995,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ac"
+  },
+  "SSN": "xxx-xx-6010",
+  "Employee Name": "Singh, Sukhpal",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b9"
+  },
+  "SSN": "xxx-xx-5031",
+  "Employee Name": "Jyoti, Jyoti",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27bb"
+  },
+  "SSN": "xxx-xx-7650",
+  "Employee Name": "Kaur, Simranjeet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27bd"
+  },
+  "SSN": "xxx-xx-4338",
+  "Employee Name": "Sharma, Rishab",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27bf"
+  },
+  "SSN": "xxx-xx-7890",
+  "Employee Name": "Espinoza Flores, Ulises David",
+  "Regular Rate": 22,
+  "Overtime Rate": 33,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c2"
+  },
+  "SSN": "xxx-xx-0512",
+  "Employee Name": "Los Santos, Jorge Jimenez D",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d0"
+  },
+  "SSN": "xxx-xx-3910",
+  "Employee Name": "Perez, Alfonso",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d2"
+  },
+  "SSN": "xxx-xx-4510",
+  "Employee Name": "Singh, Manjet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d7"
+  },
+  "SSN": "xxx-xx-8503",
+  "Employee Name": "Cortes, Zarah Elizabeth",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d8"
+  },
+  "SSN": "xxx-xx-2039",
+  "Employee Name": "Flores, Axel",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d9"
+  },
+  "SSN": "xxx-xx-1048",
+  "Employee Name": "Gonzalez, Xiomara",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27da"
+  },
+  "SSN": "xxx-xx-2952",
+  "Employee Name": "Jimenez, Leidi",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27dd"
+  },
+  "SSN": "xxx-xx-2335",
+  "Employee Name": "Kaur, Jashandeep",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e0"
+  },
+  "SSN": "xxx-xx-6051",
+  "Employee Name": "Kaur, Preet",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e1"
+  },
+  "SSN": "xxx-xx-3221",
+  "Employee Name": "Laxman Shinde, Manisha",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e5"
+  },
+  "SSN": "xxx-xx-6330",
+  "Employee Name": "Munoz, Andres",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ea"
+  },
+  "SSN": "xxx-xx-0573",
+  "Employee Name": "Rao, Pinky",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ec"
+  },
+  "SSN": "xxx-xx-6528",
+  "Employee Name": "Rivera Espinoza, Gricelda",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ed"
+  },
+  "SSN": "xxx-xx-0048",
+  "Employee Name": "Safary, Suraya",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26f9"
+  },
+  "SSN": "xxx-xx-5979",
+  "Employee Name": "CARDONA CHAVARRO, LEYDI YOHANA",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26fa"
+  },
+  "SSN": "xxx-xx-1977",
+  "Employee Name": "DEEPAK, NO GIVEN NAME",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2701"
+  },
+  "SSN": "xxx-xx-1702",
+  "Employee Name": "PATIL, MITHUN",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2705"
+  },
+  "SSN": "xxx-xx-8290",
+  "Employee Name": "Sanchez, Junior",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed270c"
+  },
+  "SSN": "xxx-xx-3736",
+  "Employee Name": "SINGH, MANDEEP",
+  "Regular Rate": 21,
+  "Overtime Rate": 31.5,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2712"
+  },
+  "SSN": "xxx-xx-4518",
+  "Employee Name": "LOPEZ, ALEX CRUZ",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2714"
+  },
+  "SSN": "xxx-xx-0401",
+  "Employee Name": "Perez, Simeon",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2716"
+  },
+  "SSN": "xxx-xx-0153",
+  "Employee Name": "Rodriguez, Job",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2721"
+  },
+  "SSN": "xxx-xx-5266",
+  "Employee Name": "Mahawar, Jyoti",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2726"
+  },
+  "SSN": "xxx-xx-2018",
+  "Employee Name": "Sandhu, Anjali",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2727"
+  },
+  "SSN": "xxx-xx-1078",
+  "Employee Name": "Sharma, Rahul",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed272a"
+  },
+  "SSN": "xxx-xx-6637",
+  "Employee Name": "Singh, Anmolprit",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2732"
+  },
+  "SSN": "xxx-xx-0794",
+  "Employee Name": "Mathew, Raju",
+  "Regular Rate": 28.75,
+  "Overtime Rate": 43.12,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2736"
+  },
+  "SSN": "xxx-xx-7767",
+  "Employee Name": "Singh, Pinki",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2739"
+  },
+  "SSN": "xxx-xx-6932",
+  "Employee Name": "Singh, Sahil",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed273a"
+  },
+  "SSN": "xxx-xx-8648",
+  "Employee Name": "Godinez Martin, Eduardo",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed273b"
+  },
+  "SSN": "xxx-xx-6701",
+  "Employee Name": "Gonzalez Gonzalez, Javier",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2743"
+  },
+  "SSN": "xxx-xx-2345",
+  "Employee Name": "Calvo Jeronimo, Diego Armando",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2748"
+  },
+  "SSN": "xxx-xx-5184",
+  "Employee Name": "Ali, Syed Mufti Imran",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2749"
+  },
+  "SSN": "xxx-xx-8172",
+  "Employee Name": "Mann, Gursewak Singh",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed274e"
+  },
+  "SSN": "xxx-xx-0978",
+  "Employee Name": "Antonio Gamarra, Percy",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed274f"
+  },
+  "SSN": "xxx-xx-4546",
+  "Employee Name": "Arguelio, Angel Meneses",
+  "Regular Rate": 17.300042,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2758"
+  },
+  "SSN": "xxx-xx-8162",
+  "Employee Name": "Cortes, Alberto Vanquez",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2759"
+  },
+  "SSN": "xxx-xx-6719",
+  "Employee Name": "Devi, Deeksha",
+  "Regular Rate": 17.300015,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2761"
+  },
+  "SSN": "xxx-xx-8684",
+  "Employee Name": "Kaur, Jagdeep",
+  "Regular Rate": 17.431169,
+  "Overtime Rate": 26.15,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2764"
+  },
+  "SSN": "xxx-xx-9409",
+  "Employee Name": "Kaur, Navdeep",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2768"
+  },
+  "SSN": "xxx-xx-6526",
+  "Employee Name": "Kaur, Simarjit",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2769"
+  },
+  "SSN": "xxx-xx-4578",
+  "Employee Name": "Kaur, Simran",
+  "Regular Rate": 17.382807,
+  "Overtime Rate": 26.07,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed276b"
+  },
+  "SSN": "xxx-xx-3067",
+  "Employee Name": "Kenwal, Depty",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed277a"
+  },
+  "SSN": "xxx-xx-8408",
+  "Employee Name": "Mann, Inderjeet",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed277b"
+  },
+  "SSN": "xxx-xx-6200",
+  "Employee Name": "Mann, Rachpal",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed277c"
+  },
+  "SSN": "xxx-xx-5813",
+  "Employee Name": "Mann, Selena",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed277d"
+  },
+  "SSN": "xxx-xx-6572",
+  "Employee Name": "Martinez Caceres, Yasmil Efrain",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2783"
+  },
+  "SSN": "xxx-xx-3975",
+  "Employee Name": "Puri, Rakesh",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2787"
+  },
+  "SSN": "xxx-xx-7410",
+  "Employee Name": "Reddy, Tara",
+  "Regular Rate": 17.522494,
+  "Overtime Rate": 26.28,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed278b"
+  },
+  "SSN": "xxx-xx-0976",
+  "Employee Name": "Saini, Gayatri",
+  "Regular Rate": 17.425745,
+  "Overtime Rate": 26.14,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed278d"
+  },
+  "SSN": "xxx-xx-7974",
+  "Employee Name": "Sediqi, Basila",
+  "Regular Rate": 17.300019,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed278f"
+  },
+  "SSN": "xxx-xx-3407",
+  "Employee Name": "Sharma, Diksha",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2791"
+  },
+  "SSN": "xxx-xx-4190",
+  "Employee Name": "Singh, Anmol",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2793"
+  },
+  "SSN": "xxx-xx-8223",
+  "Employee Name": "Singh, Bikram",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed279a"
+  },
+  "SSN": "xxx-xx-8263",
+  "Employee Name": "Singh, Lovepreet",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed279c"
+  },
+  "SSN": "xxx-xx-3415",
+  "Employee Name": "Singh, Munender Jeet",
+  "Regular Rate": 17.557143,
+  "Overtime Rate": 26.34,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a1"
+  },
+  "SSN": "xxx-xx-4512",
+  "Employee Name": "Trillos Niebles, Claudia Patrica",
+  "Regular Rate": 17.394737,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a5"
+  },
+  "SSN": "xxx-xx-5741",
+  "Employee Name": "Sandra, Arellano",
+  "Regular Rate": 21.5,
+  "Overtime Rate": 32.25,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a6"
+  },
+  "SSN": "xxx-xx-2578",
+  "Employee Name": "Waradkar, Shankar A",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ae"
+  },
+  "SSN": "xxx-xx-1727",
+  "Employee Name": "Lopez Rodriguez, Jesus",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b2"
+  },
+  "SSN": "xxx-xx-0262",
+  "Employee Name": "SINGH, KARANPREET",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b3"
+  },
+  "SSN": "xxx-xx-6480",
+  "Employee Name": "Singh, Subhdeep",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b4"
+  },
+  "SSN": "xxx-xx-2486",
+  "Employee Name": "Unknown, Taruna",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b6"
+  },
+  "SSN": "xxx-xx-9021",
+  "Employee Name": "Inder R, Ravi",
+  "Regular Rate": 21,
+  "Overtime Rate": 31.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b7"
+  },
+  "SSN": "xxx-xx-0835",
+  "Employee Name": "Barnwal, Indrani",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27bc"
+  },
+  "SSN": "xxx-xx-4443",
+  "Employee Name": "Kumar, Ramesh",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c0"
+  },
+  "SSN": "xxx-xx-2064",
+  "Employee Name": "Kaur, Ravinder",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c5"
+  },
+  "SSN": "xxx-xx-0456",
+  "Employee Name": "Rivera, Armando",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c7"
+  },
+  "SSN": "xxx-xx-4267",
+  "Employee Name": "Yoc, Christian",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d4"
+  },
+  "SSN": "xxx-xx-1495",
+  "Employee Name": "Singh, Sukhvir",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d5"
+  },
+  "SSN": "xxx-xx-4629",
+  "Employee Name": "TAUSIF, MD",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d6"
+  },
+  "SSN": "xxx-xx-4567",
+  "Employee Name": "Torres, Felix",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27db"
+  },
+  "SSN": "xxx-xx-9071",
+  "Employee Name": "Jobanjit Singh, No Given Name",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e8"
+  },
+  "SSN": "xxx-xx-6291",
+  "Employee Name": "Orellana, Julissa",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f6"
+  },
+  "SSN": "xxx-xx-7877",
+  "Employee Name": "Augustine, Messiah Julius",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f7"
+  },
+  "SSN": "xxx-xx-8877",
+  "Employee Name": "Kaur, Roopinder",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f9"
+  },
+  "SSN": "xxx-xx-3313",
+  "Employee Name": "Saini, Bhumika",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2801"
+  },
+  "SSN": "xxx-xx-7347",
+  "Employee Name": "Jimenez Sanchez, Walter",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ee"
+  },
+  "SSN": "xxx-xx-7396",
+  "Employee Name": "Sekhon, Gurwinder Singh",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ef"
+  },
+  "SSN": "xxx-xx-6454",
+  "Employee Name": "Singh Kang, Gurwinder",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27fb"
+  },
+  "SSN": "xxx-xx-8847",
+  "Employee Name": "Singh, Daljeet",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27fd"
+  },
+  "SSN": "xxx-xx-6829",
+  "Employee Name": "Bautista Garcia, Miguel",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27fe"
+  },
+  "SSN": "xxx-xx-9601",
+  "Employee Name": "Cecilio Machado, Deyvin",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2800"
+  },
+  "SSN": "xxx-xx-8796",
+  "Employee Name": "Flores, Olvin",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2802"
+  },
+  "SSN": "xxx-xx-2201",
+  "Employee Name": "Jiron Gonsalez, Alexi Jabier",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2803"
+  },
+  "SSN": "xxx-xx-5357",
+  "Employee Name": "Meneses Palofox, Hugo",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2805"
+  },
+  "SSN": "xxx-xx-3096",
+  "Employee Name": "Naraanjo Gomez, David",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2809"
+  },
+  "SSN": "xxx-xx-7058",
+  "Employee Name": "Singh, Jasroop",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed280b"
+  },
+  "SSN": "xxx-xx-6753",
+  "Employee Name": "Virk, Amarjit S",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed280c"
+  },
+  "SSN": "xxx-xx-0785",
+  "Employee Name": "Zeas, Oscart",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2813"
+  },
+  "SSN": "xxx-xx-7415",
+  "Employee Name": "Gracia, Nelson Godinez",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed281f"
+  },
+  "SSN": "xxx-xx-3391",
+  "Employee Name": "Singh, Karandeep",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2821"
+  },
+  "SSN": "xxx-xx-6792",
+  "Employee Name": "Singh, Ravinder",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2822"
+  },
+  "SSN": "xxx-xx-9043",
+  "Employee Name": "Singh, Simranjeet",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2828"
+  },
+  "SSN": "xxx-xx-4607",
+  "Employee Name": "Jarquin Jarquin, Edwin",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed282a"
+  },
+  "SSN": "xxx-xx-5934",
+  "Employee Name": "Vicente Catalan, Axcell Marcony",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed282b"
+  },
+  "SSN": "xxx-xx-3531",
+  "Employee Name": "Aviles Puntos, Arturo",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed282d"
+  },
+  "SSN": "xxx-xx-4568",
+  "Employee Name": "Cleveland, Will Smith",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2830"
+  },
+  "SSN": "xxx-xx-0509",
+  "Employee Name": "Meneses Garcia, Angel Yahir",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2831"
+  },
+  "SSN": "xxx-xx-1906",
+  "Employee Name": "Morales Barrera, Imanol Eduardo",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2835"
+  },
+  "SSN": "xxx-xx-0051",
+  "Employee Name": "Singh, Paramjit",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2836"
+  },
+  "SSN": "xxx-xx-6497",
+  "Employee Name": "Singh, Sewak",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2837"
+  },
+  "SSN": "xxx-xx-7904",
+  "Employee Name": "Vazquez Diaz, Pedro",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed283c"
+  },
+  "SSN": "xxx-xx-2641",
+  "Employee Name": "Trujillo Martinez, Juan Carlos",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2841"
+  },
+  "SSN": "xxx-xx-7728",
+  "Employee Name": "Carranza, Carmen",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Panwaari"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2842"
+  },
+  "SSN": "xxx-xx-7103",
+  "Employee Name": "Lemos, Grechel Martinez",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Panwaari"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2847"
+  },
+  "SSN": "xxx-xx-8189",
+  "Employee Name": "Kaur, Amandip",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed284a"
+  },
+  "SSN": "xxx-xx-3010",
+  "Employee Name": "Kaur, Sandeep",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed284b"
+  },
+  "SSN": "xxx-xx-3410",
+  "Employee Name": "Kaur, Simi",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed284e"
+  },
+  "SSN": "xxx-xx-2317",
+  "Employee Name": "Leonardo, Gloria Janneth",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2851"
+  },
+  "SSN": "xxx-xx-9185",
+  "Employee Name": "Sagar, Sagar",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2854"
+  },
+  "SSN": "xxx-xx-0055",
+  "Employee Name": "Singh, Gurvinder",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2865"
+  },
+  "SSN": "xxx-xx-7986",
+  "Employee Name": "Sidhu, Kulwinder Singh",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2868"
+  },
+  "SSN": "xxx-xx-0121",
+  "Employee Name": "Alvarado Hernandez, Luis Eduardo",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2869"
+  },
+  "SSN": "xxx-xx-2744",
+  "Employee Name": "Bhatti, Rohan Kumar",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed286b"
+  },
+  "SSN": "xxx-xx-9283",
+  "Employee Name": "Jacinto, Josias",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed286f"
+  },
+  "SSN": "xxx-xx-4590",
+  "Employee Name": "Cruz Molina, Leyvin Jose",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2871"
+  },
+  "SSN": "xxx-xx-9726",
+  "Employee Name": "Suarez, Jaquelin",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2873"
+  },
+  "SSN": "xxx-xx-1516",
+  "Employee Name": "Singh, Amrinder",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2806"
+  },
+  "SSN": "xxx-xx-7122",
+  "Employee Name": "Rodriquez, Angel Demitro",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2808"
+  },
+  "SSN": "xxx-xx-5619",
+  "Employee Name": "Singh, Diljit",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed280a"
+  },
+  "SSN": "xxx-xx-1952",
+  "Employee Name": "Singh, Rajinder",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed280f"
+  },
+  "SSN": "xxx-xx-6218",
+  "Employee Name": "Chowdary, Jennifer",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2810"
+  },
+  "SSN": "xxx-xx-2425",
+  "Employee Name": "DEOL, KARAMJIT SINGH",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2811"
+  },
+  "SSN": "xxx-xx-5712",
+  "Employee Name": "Fernando, Simon",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2812"
+  },
+  "SSN": "xxx-xx-5047",
+  "Employee Name": "Florese, Byron H",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2817"
+  },
+  "SSN": "xxx-xx-8912",
+  "Employee Name": "Kaur, Jasneet",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2819"
+  },
+  "SSN": "xxx-xx-1320",
+  "Employee Name": "Kumar, Bilash",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed281a"
+  },
+  "SSN": "xxx-xx-6413",
+  "Employee Name": "Lal, Kandan",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2823"
+  },
+  "SSN": "xxx-xx-7796",
+  "Employee Name": "Singh, Sinderpal",
+  "Regular Rate": 17.2,
+  "Overtime Rate": 25.8,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed282e"
+  },
+  "SSN": "xxx-xx-7780",
+  "Employee Name": "Kaur, Mandeep",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2833"
+  },
+  "SSN": "xxx-xx-4169",
+  "Employee Name": "Sanchez Sedas, Jesus",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2839"
+  },
+  "SSN": "xxx-xx-6239",
+  "Employee Name": "Blanco Catalan, Victor Hugo",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed283e"
+  },
+  "SSN": "xxx-xx-9557",
+  "Employee Name": "Randhawa, Ambrit Singh",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed283f"
+  },
+  "SSN": "xxx-xx-6080",
+  "Employee Name": "KARAN, NO GIVEN NAME",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2844"
+  },
+  "SSN": "xxx-xx-7325",
+  "Employee Name": "Singh, Jitendar",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Panwaari"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2845"
+  },
+  "SSN": "xxx-xx-2898",
+  "Employee Name": "Tijerino, Mercedes",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Panwaari"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2846"
+  },
+  "SSN": "xxx-xx-4997",
+  "Employee Name": "Amrik Singh, Rohanpreet Singh",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed284c"
+  },
+  "SSN": "xxx-xx-2957",
+  "Employee Name": "Kaur, Sukhman",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed284f"
+  },
+  "SSN": "xxx-xx-8650",
+  "Employee Name": "Perez, Andres",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2852"
+  },
+  "SSN": "xxx-xx-7419",
+  "Employee Name": "Sharma, Kavita",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2855"
+  },
+  "SSN": "xxx-xx-7690",
+  "Employee Name": "Singh, Ravneet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2856"
+  },
+  "SSN": "xxx-xx-9827",
+  "Employee Name": "Singh, Rohan",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2857"
+  },
+  "SSN": "xxx-xx-3647",
+  "Employee Name": "Thapa, Smita",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2858"
+  },
+  "SSN": "xxx-xx-7225",
+  "Employee Name": "Thondarapu, Hymavathi",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed285a"
+  },
+  "SSN": "xxx-xx-3232",
+  "Employee Name": "Wisnar Aza, Massiel Y",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed285d"
+  },
+  "SSN": "xxx-xx-9188",
+  "Employee Name": "Butti, Karan",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed285f"
+  },
+  "SSN": "xxx-xx-3816",
+  "Employee Name": "Martinez, Carlos Alberto",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2866"
+  },
+  "SSN": "xxx-xx-4246",
+  "Employee Name": "Singh, Balwinder",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed286d"
+  },
+  "SSN": "xxx-xx-6248",
+  "Employee Name": "Singh, Gurwinder",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2872"
+  },
+  "SSN": "xxx-xx-8447",
+  "Employee Name": "Randhawa, Ravi Inder",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26f8"
+  },
+  "SSN": "xxx-xx-1823",
+  "Employee Name": "Badillo Paz, John",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed26fb"
+  },
+  "SSN": "xxx-xx-3052",
+  "Employee Name": "Gutierrez Romirez, Wilber Antonio",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2704"
+  },
+  "SSN": "xxx-xx-3459",
+  "Employee Name": "RODRIGUEZ, ALEJANDRA",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2706"
+  },
+  "SSN": "xxx-xx-9994",
+  "Employee Name": "Sharma, Nitin",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed270d"
+  },
+  "SSN": "xxx-xx-3749",
+  "Employee Name": "LNU, Aryan",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed270f"
+  },
+  "SSN": "xxx-xx-2107",
+  "Employee Name": "AGUILAR, JOSE",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2711"
+  },
+  "SSN": "xxx-xx-8734",
+  "Employee Name": "Fernando Perez Garcia, Diego",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2715"
+  },
+  "SSN": "xxx-xx-2319",
+  "Employee Name": "Rivera, Junior",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "AMFC"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed271e"
+  },
+  "SSN": "xxx-xx-5951",
+  "Employee Name": "Kaur, Kuljinder",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed271f"
+  },
+  "SSN": "xxx-xx-6289",
+  "Employee Name": "Kaur, Rajvir",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2724"
+  },
+  "SSN": "xxx-xx-0183",
+  "Employee Name": "Popal, Soman",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed272c"
+  },
+  "SSN": "xxx-xx-0367",
+  "Employee Name": "Singh, Yadwinder",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed272f"
+  },
+  "SSN": "xxx-xx-2590",
+  "Employee Name": "Yadav, Sandhya",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2730"
+  },
+  "SSN": "xxx-xx-6841",
+  "Employee Name": "Dhami, Taranjit Kaur",
+  "Regular Rate": 25,
+  "Overtime Rate": 37.5,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2735"
+  },
+  "SSN": "xxx-xx-1007",
+  "Employee Name": "Singh, Malvinder",
+  "Regular Rate": 27.08,
+  "Overtime Rate": 40.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2737"
+  },
+  "SSN": "xxx-xx-0869",
+  "Employee Name": "Singh, Ravinder",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2740"
+  },
+  "SSN": "xxx-xx-8902",
+  "Employee Name": "Osorio, Leonardo",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2742"
+  },
+  "SSN": "xxx-xx-1895",
+  "Employee Name": "Antonio Rivera, Abner",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed274a"
+  },
+  "SSN": "xxx-xx-4060",
+  "Employee Name": "Coronado, Dixon",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed274d"
+  },
+  "SSN": "xxx-xx-1249",
+  "Employee Name": "Ahmed, Sajeel",
+  "Regular Rate": 17.300005,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2750"
+  },
+  "SSN": "xxx-xx-9368",
+  "Employee Name": "Azar, Asma",
+  "Regular Rate": 17.521853,
+  "Overtime Rate": 26.28,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2755"
+  },
+  "SSN": "xxx-xx-9715",
+  "Employee Name": "Coronado, Adonis",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2757"
+  },
+  "SSN": "xxx-xx-0945",
+  "Employee Name": "Coronado, Leonel",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed275c"
+  },
+  "SSN": "xxx-xx-7879",
+  "Employee Name": "Gonzalez, Hugo Gonzalez",
+  "Regular Rate": 17.394456,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2762"
+  },
+  "SSN": "xxx-xx-0892",
+  "Employee Name": "Kaur, Jaismeen",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed276c"
+  },
+  "SSN": "xxx-xx-6427",
+  "Employee Name": "Khara, Jashanpreet Kaur",
+  "Regular Rate": 17.412827,
+  "Overtime Rate": 26.12,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed276d"
+  },
+  "SSN": "xxx-xx-9851",
+  "Employee Name": "Kour, Simar",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed276e"
+  },
+  "SSN": "xxx-xx-7070",
+  "Employee Name": "Kumar, Anil",
+  "Regular Rate": 17.500777,
+  "Overtime Rate": 26.25,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2770"
+  },
+  "SSN": "xxx-xx-5170",
+  "Employee Name": "Kumar, Arvind",
+  "Regular Rate": 17.394737,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2771"
+  },
+  "SSN": "xxx-xx-1822",
+  "Employee Name": "Kumar, Deepak",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2772"
+  },
+  "SSN": "xxx-xx-2439",
+  "Employee Name": "Kumar, Rajat",
+  "Regular Rate": 17.300018,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2773"
+  },
+  "SSN": "xxx-xx-8066",
+  "Employee Name": "Kumar, Satish",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2779"
+  },
+  "SSN": "xxx-xx-0792",
+  "Employee Name": "Mandava, Sraani Priya",
+  "Regular Rate": 17.388055,
+  "Overtime Rate": 26.08,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed277f"
+  },
+  "SSN": "xxx-xx-6852",
+  "Employee Name": "Naeen, Muhammad",
+  "Regular Rate": 17.42,
+  "Overtime Rate": 26.13,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2780"
+  },
+  "SSN": "xxx-xx-0210",
+  "Employee Name": "Ortiz Lopez, Teodulfo",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2784"
+  },
+  "SSN": "xxx-xx-5847",
+  "Employee Name": "Ramirez Ortega, Roger Rafael",
+  "Regular Rate": 17.394924,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2789"
+  },
+  "SSN": "xxx-xx-2432",
+  "Employee Name": "Rohit, No Given Name",
+  "Regular Rate": 17.394737,
+  "Overtime Rate": 26.09,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed278a"
+  },
+  "SSN": "xxx-xx-7023",
+  "Employee Name": "Ruiz, Javier Reyes",
+  "Regular Rate": 17.3,
+  "Overtime Rate": 25.95,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2794"
+  },
+  "SSN": "xxx-xx-0293",
+  "Employee Name": "Singh, Gurjit",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a7"
+  },
+  "SSN": "xxx-xx-7180",
+  "Employee Name": "Murgan, Vimalkumar",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27a9"
+  },
+  "SSN": "xxx-xx-1653",
+  "Employee Name": "N, Neeraj",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27aa"
+  },
+  "SSN": "xxx-xx-7345",
+  "Employee Name": "Aguinaga, Elder Castiblanco",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ab"
+  },
+  "SSN": "xxx-xx-6854",
+  "Employee Name": "Fuentes, Elena",
+  "Regular Rate": 17.75,
+  "Overtime Rate": 26.62,
+  "Store": "Fremont"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27af"
+  },
+  "SSN": "xxx-xx-1493",
+  "Employee Name": "Sharaff, Sana",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b0"
+  },
+  "SSN": "xxx-xx-7684",
+  "Employee Name": "Singh, Harman",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27b5"
+  },
+  "SSN": "xxx-xx-8042",
+  "Employee Name": "Velasquez Moreno, Yader Josue",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ba"
+  },
+  "SSN": "xxx-xx-4255",
+  "Employee Name": "Kaur, Gaganpreet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c4"
+  },
+  "SSN": "xxx-xx-7922",
+  "Employee Name": "Rivera Lopez, Aaron Rigoberto",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c6"
+  },
+  "SSN": "xxx-xx-3965",
+  "Employee Name": "Singh, Gurinder",
+  "Regular Rate": 19.55,
+  "Overtime Rate": 29.33,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27c9"
+  },
+  "SSN": "xxx-xx-2884",
+  "Employee Name": "Hazra, Toton",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27cb"
+  },
+  "SSN": "xxx-xx-4545",
+  "Employee Name": "Centeno, Aquiles David",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27cc"
+  },
+  "SSN": "xxx-xx-3069",
+  "Employee Name": "GUSTO, VICTOR",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27cd"
+  },
+  "SSN": "xxx-xx-7468",
+  "Employee Name": "Incio, Luis",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ce"
+  },
+  "SSN": "xxx-xx-4324",
+  "Employee Name": "Kaur, Harmanpreet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27d1"
+  },
+  "SSN": "xxx-xx-0955",
+  "Employee Name": "Punnam, Surekha",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Karthik"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27dc"
+  },
+  "SSN": "xxx-xx-9560",
+  "Employee Name": "Kaur, Harmeet",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27df"
+  },
+  "SSN": "xxx-xx-8171",
+  "Employee Name": "Kaur, Manveer",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e3"
+  },
+  "SSN": "xxx-xx-5362",
+  "Employee Name": "Maro Romero, Saray Julieta",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27e6"
+  },
+  "SSN": "xxx-xx-9548",
+  "Employee Name": "Nabizada, Fahim Ahmad",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f0"
+  },
+  "SSN": "xxx-xx-2235",
+  "Employee Name": "Singh, Amanpreet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f1"
+  },
+  "SSN": "xxx-xx-0095",
+  "Employee Name": "SINGH, EKAMJOT",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f4"
+  },
+  "SSN": "xxx-xx-0258",
+  "Employee Name": "Singh, Mandeep",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f8"
+  },
+  "SSN": "xxx-xx-9926",
+  "Employee Name": "Mohamed Ibrahim, Mohamed Iqbal",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27fc"
+  },
+  "SSN": "xxx-xx-3797",
+  "Employee Name": "Singh, Palvinder",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27ff"
+  },
+  "SSN": "xxx-xx-5429",
+  "Employee Name": "Coronado, Lester Aguirre",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed280e"
+  },
+  "SSN": "xxx-xx-9045",
+  "Employee Name": "Cervantes, Luis Maciel",
+  "Regular Rate": 21.5,
+  "Overtime Rate": 32.25,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2815"
+  },
+  "SSN": "xxx-xx-8639",
+  "Employee Name": "Herrera Cruz, Dalila",
+  "Regular Rate": 21,
+  "Overtime Rate": 31.5,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2818"
+  },
+  "SSN": "xxx-xx-7614",
+  "Employee Name": "Kaur, Simranpreet",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed281c"
+  },
+  "SSN": "xxx-xx-3271",
+  "Employee Name": "Rani, Muskan",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed281d"
+  },
+  "SSN": "xxx-xx-7252",
+  "Employee Name": "Saini, Sidhant",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed281e"
+  },
+  "SSN": "xxx-xx-9905",
+  "Employee Name": "SINGH, JASPAL",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2820"
+  },
+  "SSN": "xxx-xx-5913",
+  "Employee Name": "Singh, Manveer",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2824"
+  },
+  "SSN": "xxx-xx-4418",
+  "Employee Name": "Arturo Ortiz, Carlos",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2825"
+  },
+  "SSN": "xxx-xx-1403",
+  "Employee Name": "Coronado Rivera, Elvin",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2829"
+  },
+  "SSN": "xxx-xx-2357",
+  "Employee Name": "Trujillo, Jesus",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2832"
+  },
+  "SSN": "xxx-xx-6284",
+  "Employee Name": "Moreno, Gabriel",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2834"
+  },
+  "SSN": "xxx-xx-0256",
+  "Employee Name": "Sharma, Parveen",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2838"
+  },
+  "SSN": "xxx-xx-8943",
+  "Employee Name": "Solis, Juan",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed283a"
+  },
+  "SSN": "xxx-xx-2889",
+  "Employee Name": "Martinez, Jorge Mejia",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed283b"
+  },
+  "SSN": "xxx-xx-7814",
+  "Employee Name": "Singh, Ranjit",
+  "Regular Rate": 18.5,
+  "Overtime Rate": 27.75,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2843"
+  },
+  "SSN": "xxx-xx-1226",
+  "Employee Name": "Rodriguez, Bianca N",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Panwaari"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2848"
+  },
+  "SSN": "xxx-xx-3280",
+  "Employee Name": "Kaur, Harjot",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2850"
+  },
+  "SSN": "xxx-xx-9651",
+  "Employee Name": "Perez, Hellen Julissa",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2859"
+  },
+  "SSN": "xxx-xx-0607",
+  "Employee Name": "Verma, Deepak",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2861"
+  },
+  "SSN": "xxx-xx-2413",
+  "Employee Name": "Moreno, Elvin",
+  "Regular Rate": 23,
+  "Overtime Rate": 34.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2862"
+  },
+  "SSN": "xxx-xx-3498",
+  "Employee Name": "Perez, Osman",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2864"
+  },
+  "SSN": "xxx-xx-6000",
+  "Employee Name": "ROHIT, NO GIVEN NAME",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2867"
+  },
+  "SSN": "xxx-xx-1489",
+  "Employee Name": "Singh, Hardev",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed286a"
+  },
+  "SSN": "xxx-xx-4678",
+  "Employee Name": "Cruz Jiminez, Carlos",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed286c"
+  },
+  "SSN": "xxx-xx-8627",
+  "Employee Name": "RUIS SOLIZ, ELY BOSVELY",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f2"
+  },
+  "SSN": "xxx-xx-6039",
+  "Employee Name": "Singh, Gurpreet",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f3"
+  },
+  "SSN": "xxx-xx-6769",
+  "Employee Name": "Singh, Lovepreet",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27f5"
+  },
+  "SSN": "xxx-xx-0083",
+  "Employee Name": "Singh, Parasdeep",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed27fa"
+  },
+  "SSN": "xxx-xx-1953",
+  "Employee Name": "Singh, Amarjeet",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2804"
+  },
+  "SSN": "xxx-xx-2542",
+  "Employee Name": "Menses Rodriguez, Bernardino",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2807"
+  },
+  "SSN": "xxx-xx-3281",
+  "Employee Name": "Silva Reyes, Eduardo Priscilliano",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed280d"
+  },
+  "SSN": "xxx-xx-2241",
+  "Employee Name": "Castro, Noylin",
+  "Regular Rate": 18,
+  "Overtime Rate": 27,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2814"
+  },
+  "SSN": "xxx-xx-1475",
+  "Employee Name": "Harsha, Virat",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2816"
+  },
+  "SSN": "xxx-xx-0625",
+  "Employee Name": "HUNDAL, BEANT SINGH",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed281b"
+  },
+  "SSN": "xxx-xx-3862",
+  "Employee Name": "No Name Given, Vishal",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2826"
+  },
+  "SSN": "xxx-xx-9418",
+  "Employee Name": "CORONADO, ISMAEL",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2827"
+  },
+  "SSN": "xxx-xx-6789",
+  "Employee Name": "Coronado, Juana",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed282c"
+  },
+  "SSN": "xxx-xx-6189",
+  "Employee Name": "Blandon Asuirre, Jimen Oliver",
+  "Regular Rate": 17.7,
+  "Overtime Rate": 26.55,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed282f"
+  },
+  "SSN": "xxx-xx-8190",
+  "Employee Name": "Lidder, Barinderjeet S",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed283d"
+  },
+  "SSN": "xxx-xx-0631",
+  "Employee Name": "Singh, Jaswinder",
+  "Regular Rate": 18.2,
+  "Overtime Rate": 27.3,
+  "Store": "Milpitas"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2840"
+  },
+  "SSN": "xxx-xx-3078",
+  "Employee Name": "Rivera, Ixell",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Panwaari"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2849"
+  },
+  "SSN": "xxx-xx-8845",
+  "Employee Name": "Kaur, Rajvinder",
+  "Regular Rate": 19.5,
+  "Overtime Rate": 29.25,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed284d"
+  },
+  "SSN": "xxx-xx-1472",
+  "Employee Name": "Kaur, Tanveer",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2853"
+  },
+  "SSN": "xxx-xx-5612",
+  "Employee Name": "Singh, Baljot",
+  "Regular Rate": 20,
+  "Overtime Rate": 30,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed285b"
+  },
+  "SSN": "xxx-xx-3291",
+  "Employee Name": "Angel, Jose",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed285c"
+  },
+  "SSN": "xxx-xx-2963",
+  "Employee Name": "Brito, Anderson E",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed285e"
+  },
+  "SSN": "xxx-xx-5171",
+  "Employee Name": "Calderon, Luis",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2860"
+  },
+  "SSN": "xxx-xx-7683",
+  "Employee Name": "Martinez, Ivan",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2863"
+  },
+  "SSN": "xxx-xx-5772",
+  "Employee Name": "Rivas Mendez, Evert",
+  "Regular Rate": 0,
+  "Overtime Rate": 0,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed286e"
+  },
+  "SSN": "xxx-xx-1245",
+  "Employee Name": "Sioc Castro, Diego Alexandre",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2870"
+  },
+  "SSN": "xxx-xx-4670",
+  "Employee Name": "Ortiz, Tomas",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2874"
+  },
+  "SSN": "xxx-xx-1311",
+  "Employee Name": "Coton-Ramirez, Fernando",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+},
+{
+  "_id": {
+    "$oid": "699be4b274edd1bde9ed2875"
+  },
+  "SSN": "xxx-xx-4514",
+  "Employee Name": "Singh, Loverpreet",
+  "Regular Rate": 19,
+  "Overtime Rate": 28.5,
+  "Store": "Sunnyvale"
+}]

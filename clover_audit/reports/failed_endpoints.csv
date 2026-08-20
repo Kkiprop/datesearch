@@ -1,0 +1,19 @@
+endpoint,status,error
+merchant,401,{'message': '401 Unauthorized'}
+payments,401,{'message': '401 Unauthorized'}
+payments_expanded,401,{'message': '401 Unauthorized'}
+refunds,401,{'message': '401 Unauthorized'}
+customers,401,{'message': '401 Unauthorized'}
+customers_expanded,401,{'message': '401 Unauthorized'}
+items,401,{'message': '401 Unauthorized'}
+items_expanded,401,{'message': '401 Unauthorized'}
+categories,401,{'message': '401 Unauthorized'}
+modifier_groups,401,{'message': '401 Unauthorized'}
+modifiers,401,{'message': '401 Unauthorized'}
+tags,401,{'message': '401 Unauthorized'}
+tax_rates,401,{'message': '401 Unauthorized'}
+cash_events,401,{'message': '401 Unauthorized'}
+employees,401,{'message': '401 Unauthorized'}
+tenders,401,{'message': '401 Unauthorized'}
+order_types,401,{'message': '401 Unauthorized'}
+service_charges,405,{}

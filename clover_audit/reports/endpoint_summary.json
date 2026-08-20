@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-07-27T12:40:30.079711",
+  "endpoint_summary": [
+    {
+      "endpoint": "merchant",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 2221.61
+    },
+    {
+      "endpoint": "orders",
+      "status": 200,
+      "rows": 20,
+      "fields": 26,
+      "response_ms": 2238.94
+    },
+    {
+      "endpoint": "orders_expanded",
+      "status": 200,
+      "rows": 20,
+      "fields": 26,
+      "response_ms": 1867.08
+    },
+    {
+      "endpoint": "payments",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1785.22
+    },
+    {
+      "endpoint": "payments_expanded",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1776.54
+    },
+    {
+      "endpoint": "refunds",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1645.85
+    },
+    {
+      "endpoint": "customers",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1636.95
+    },
+    {
+      "endpoint": "customers_expanded",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1688.4
+    },
+    {
+      "endpoint": "items",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1798.32
+    },
+    {
+      "endpoint": "items_expanded",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1801.56
+    },
+    {
+      "endpoint": "categories",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1887.84
+    },
+    {
+      "endpoint": "modifier_groups",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1638.96
+    },
+    {
+      "endpoint": "modifiers",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1661.69
+    },
+    {
+      "endpoint": "tags",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1658.29
+    },
+    {
+      "endpoint": "tax_rates",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1984.14
+    },
+    {
+      "endpoint": "cash_events",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1983.64
+    },
+    {
+      "endpoint": "employees",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1770.35
+    },
+    {
+      "endpoint": "tenders",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1647.95
+    },
+    {
+      "endpoint": "order_types",
+      "status": 401,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1993.5
+    },
+    {
+      "endpoint": "service_charges",
+      "status": 405,
+      "rows": 0,
+      "fields": 0,
+      "response_ms": 1620.14
+    },
+    {
+      "endpoint": "order_detail",
+      "status": 200,
+      "rows": 1,
+      "fields": 22,
+      "response_ms": 1669.9
+    },
+    {
+      "endpoint": "order_line_items",
+      "status": 200,
+      "rows": 1,
+      "fields": 18,
+      "response_ms": 1700.65
+    }
+  ],
+  "failed_endpoints": [
+    {
+      "endpoint": "merchant",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "payments",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "payments_expanded",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "refunds",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "customers",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "customers_expanded",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "items",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "items_expanded",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "categories",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "modifier_groups",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "modifiers",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "tags",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "tax_rates",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "cash_events",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "employees",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "tenders",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "order_types",
+      "status": 401,
+      "error": "{'message': '401 Unauthorized'}"
+    },
+    {
+      "endpoint": "service_charges",
+      "status": 405,
+      "error": "{}"
+    }
+  ]
+}

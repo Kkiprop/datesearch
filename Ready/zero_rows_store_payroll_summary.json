@@ -1,0 +1,22 @@
+[
+  {
+    "Store": "AMFC",
+    "Payroll": 949.45
+  },
+  {
+    "Store": "Fremont",
+    "Payroll": 2000.38
+  },
+  {
+    "Store": "Karthik",
+    "Payroll": 934.88
+  },
+  {
+    "Store": "Milpitas",
+    "Payroll": 2008.92
+  },
+  {
+    "Store": "Sunnyvale",
+    "Payroll": 622.13
+  }
+]
